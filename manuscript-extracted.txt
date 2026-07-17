@@ -1,0 +1,3737 @@
+[MORIBookTitle] ספרדית בלי כאב ראש
+[MORIBookSubtitle] ספרדית אמיתית לדוברי עברית
+[MORIFrontHeading] לקרוא. להבין. לדבר.
+קורס עצמי מעשי מרמת אפס עד בסיס ‪A1‬
+[MORIChapterSubtitle] מושיק גואטה
+[MORISmallNote] מורה לשפות ומפתח חומרי לימוד
+[MORISmallNote] ‪HABLAR‬ •  ‪ENTENDER‬ •  ‪VIVIR‬
+[MORIFrontHeading] על המחבר
+שמי מושיק גואטה, ואני מורה לשפות ומפתח חומרי לימוד.
+בשנים האחרונות לימדתי עברית, ספרדית ושפות נוספות לתלמידים מרקעים שונים בארץ ובעולם, בעיקר מבוגרים שרוצים להתחיל לדבר בלי להרגיש מוצפים מדקדוק, טבלאות וחוקים מיותרים.
+כמורה וכמנהל פדגוגי פגשתי שוב ושוב את אותו קושי: תלמידים רוצים ללמוד ספרדית, אבל לא תמיד יודעים מאיפה להתחיל, מה באמת חשוב לזכור ואיך להפוך את הדקדוק לשפה שאפשר להשתמש בה.
+הספר הזה נכתב בדיוק בשביל זה. המטרה היא לתת לדוברי עברית דרך ברורה, פשוטה ומעשית להיכנס לעולם הספרדית, צעד אחר צעד.
+הגישה של הספר: קודם מבינים את הרעיון, אחר כך אומרים משפט אמיתי, ורק אז מתרגלים.
+[MORIFrontHeading] איך להשתמש בספר
+בכל פרק חוזר אותו מסלול קצר. המבנה הקבוע מאפשר להתמקד בשפה ולא בניסיון להבין מה צריך לעשות.
+1 | מבינים קוראים הסבר קצר בעברית ומזהים את התבנית החדשה.
+2 | אומרים קוראים את הדוגמאות בספרדית בקול, גם אם ההגייה עדיין לא מושלמת.
+3 | משתמשים עונים על שאלה, משלימים דיאלוג או כותבים משפט אישי.
+4 | בודקים מבצעים תרגול קצר ומסמנים מה כבר אפשר לעשות.
+5 | חוזרים חוזרים למשפטים החשובים אחרי יום, שלושה ימים ושבוע.
+[MORISectionHeading] שני מסלולי לימוד
+[TABLE]
+מסלול || איך עובדים
+30 יום || פרק אחד ביום. בפרקים ארוכים אפשר לחלק את העבודה לבוקר ולערב.
+60 יום || כל פרק נלמד ביומיים: ביום הראשון הסבר ודוגמאות, וביום השני תרגול ודיבור.
+[/TABLE]
+חשוב: אל תחכו עד שתזכרו הכול. השתמשו במשפטים גם כשהם עדיין לא מושלמים.
+[MORIFrontHeading] מפת הדרך מרמת אפס ל-‪A1‬
+[TABLE]
+יחידה || מה עושים בסוף היחידה
+1. להתחיל לקרוא ולדבר || להכיר את הצלילים החשובים בספרדית ולהשתמש במשפטים בסיסיים כבר מהיום הראשון.
+2. מי אני ומאיפה אני? || לבנות הצגה עצמית קצרה, טבעית וברורה.
+3. הדברים הראשונים סביבי || לתאר חפצים ודברים שנמצאים סביבי.
+4. הגיל, המשפחה והדברים שיש לי || לדבר על גיל, משפחה ודברים שיש לי.
+5. איפה אני ומה יש סביבי? || לתאר מקום, מצב זמני וסביבה קרובה.
+6. היום שלי || לעבור ממשפטי תיאור למשפטי פעולה ולדבר על היום שלי.
+7. מה אני אוהב, רוצה וצריך? || לבטא העדפות, רצונות, צרכים ויכולות.
+8. השבוע שלי ותוכניות קרובות || לדבר על תנועה, לוח זמנים ותוכניות קרובות.
+9. ספרדית בחיים האמיתיים || להשתמש בספרדית במצבים יומיומיים אמיתיים.
+10. מזג אוויר, בריאות וסיכום ‪A1‬ || לדבר על מזג האוויר ובריאות בסיסית ולחבר את כל מה שנלמד.
+[/TABLE]
+ההיגיון הפדגוגי: מתחילים בצליל ובמשפטים קצרים, עוברים לזהות ולסביבה, ורק אחר כך לפעולות, העדפות, תוכניות ומצבים אמיתיים.
+[MORIFrontHeading] תוכן עניינים
+[MORISectionHeading] יחידה 1: להתחיל לקרוא ולדבר
+[MORIChecklist] 1. האותיות והצלילים
+[MORIChecklist] 2. הברות והטעמה
+[MORIChecklist] 3. משפטי הישרדות וברכות
+[MORISmallNote] חזרה קצרה: יחידה 1
+[MORISectionHeading] יחידה 2: מי אני ומאיפה אני?
+[MORIChecklist] 4. כינויי גוף
+[MORIChecklist] ‪5. SER‬ להצגה עצמית
+[MORIChecklist] 6. ההצגה העצמית הראשונה שלי
+[MORISmallNote] חזרה קצרה: יחידה 2
+[MORISectionHeading] יחידה 3: הדברים הראשונים סביבי
+[MORIChecklist] ‪7. el, la, un, una‬
+[MORIChecklist] 8. יחיד ורבים
+[MORIChecklist] ‪9. HAY:‬ מה יש כאן?
+[MORISmallNote] חזרה קצרה: יחידה 3
+[MORISectionHeading] יחידה 4: הגיל, המשפחה והדברים שיש לי
+[MORIChecklist] ‪10. TENER‬
+[MORIChecklist] 11. מספרים וגיל
+[MORIChecklist] 12. משפחה ושייכות
+[MORISmallNote] חזרה קצרה: יחידה 4
+[MORISectionHeading] יחידה 5: איפה אני ומה יש סביבי?
+[MORIChecklist] ‪13. ESTAR‬
+[MORIChecklist] 14. הבית והחדר שלי
+[MORIChecklist] 15. העיר שלי
+[MORISmallNote] חזרה קצרה: יחידה 5
+[MORISectionHeading] יחידה 6: היום שלי
+[MORIChecklist] 16. פעלים רגילים בהווה
+[MORIChecklist] 17. שגרת הבוקר והערב
+[MORIChecklist] 18. מילות תדירות
+[MORISmallNote] חזרה קצרה: יחידה 6
+[MORISectionHeading] יחידה 7: מה אני אוהב, רוצה וצריך?
+[MORIChecklist] ‪19. Me gusta / Me gustan‬
+[MORIChecklist] ‪20. Quiero, necesito, puedo‬
+[MORISmallNote] חזרה קצרה: יחידה 7
+[MORISectionHeading] יחידה 8: השבוע שלי ותוכניות קרובות
+[MORIChecklist] 21. הפועל ‪IR‬
+[MORIChecklist] ‪22. ir a +‬ פועל
+[MORIChecklist] 23. ימים, שעה ותאריך
+[MORISmallNote] חזרה קצרה: יחידה 8
+[MORISectionHeading] יחידה 9: ספרדית בחיים האמיתיים
+[MORIChecklist] 24. בבית קפה ובמסעדה
+[MORIChecklist] 25. קניות ומחירים
+[MORIChecklist] 26. בגדים וצבעים
+[MORIChecklist] 27. תחבורה וכיוונים
+[MORISmallNote] חזרה קצרה: יחידה 9
+[MORISectionHeading] יחידה 10: מזג אוויר, בריאות וסיכום ‪A1‬
+[MORIChecklist] 28. מזג אוויר ועונות
+[MORIChecklist] 29. גוף ובריאות
+[MORIChecklist] 30. חזרה גדולה וסיכום
+[MORIChecklist] בדיקת סיום ‪A1‬
+[MORISmallNote] חזרה קצרה: יחידה 10
+[MORIFrontHeading] פתיחה: לפני שמתחילים
+ספרדית מדוברת בספרד וברוב מדינות אמריקה הלטינית. יש הבדלים במבטא ובאוצר המילים, אבל ברמת מתחילים הבסיס המשותף חשוב הרבה יותר מההבדלים.
+הבחירה של הספר: נלמד ספרדית ברורה וניטרלית, עם דגש על ההגייה המקובלת באמריקה הלטינית. היא מובנת גם בספרד ובקהילות דוברות ספרדית ברחבי העולם.
+[MORISectionHeading] מילים שכבר אפשר להבין
+גם לפני שלומדים דקדוק, חלק מהמילים נשמעות מוכרות בזכות אנגלית, מוזיקה ותרבות פופולרית.
+[TABLE]
+ספרדית || עברית
+‪hola‬ || שלום
+‪gracias‬ || תודה
+‪por favor‬ || בבקשה
+‪familia‬ || משפחה
+‪casa‬ || בית
+‪agua‬ || מים
+‪café‬ || קפה
+‪música‬ || מוזיקה
+‪playa‬ || חוף ים
+[/TABLE]
+[MORISectionHeading] שיחה ראשונה
+[MORIDialogue] ‪Daniel: Hola, ¿cómo estás?‬ שלום, מה שלומך?
+[MORIDialogue] ‪Noa: Muy bien, gracias. ¿Y tú?‬ טוב מאוד, תודה. ואתה?
+[MORIDialogue] ‪Daniel: Bien también. ¿Cómo te llamas?‬ גם טוב. איך קוראים לך?
+[MORIDialogue] ‪Noa: Me llamo Noa. Mucho gusto.‬ קוראים לי נועה. נעים מאוד.
+[MORIDialogue] ‪Daniel: Igualmente.‬ גם לי.
+המטרה כרגע: לא לנתח את הדקדוק, אלא להרגיש את הקצב ולקרוא את השיחה בקול.
+[MORIUnitKicker] יחידה 01
+[Heading1] להתחיל לקרוא ולדבר
+[MORIUnitSubtitle] צלילים, הטעמה ומשפטי הישרדות
+מטרת היחידה: להכיר את הצלילים החשובים בספרדית ולהשתמש במשפטים בסיסיים כבר מהיום הראשון.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ לקרוא מילים בסיסיות
+[MORIChecklist] ☐ להגות צלילים שמבלבלים דוברי עברית
+[MORIChecklist] ☐ לברך, להודות ולבקש עזרה
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 1: האותיות והצלילים בספרדית
+[MORIChapterSubtitle] ‪El alfabeto español‬
+ברוכים הבאים לפרק הראשון בספר!
+לפני שמתחילים לדבר ספרדית, חשוב להכיר את האותיות, את השמות שלהן ואת הצלילים הבסיסיים. החדשות הטובות: ספרדית היא שפה די קלה לקריאה. ברוב המקרים, כותבים כמו ששומעים ושומעים כמו שכותבים.
+בסוף הפרק תוכלו:
+להכיר את אותיות האלפבית הספרדי. לקרוא מילים בסיסיות בספרדית. להבין איך מבטאים אותיות שקצת מבלבלות דוברי עברית. לזהות מילים חשובות לרמת ‪A1.‬
+[Heading3] 1. האלפבית הספרדי
+בספרדית יש 27 אותיות. רוב האותיות נראות כמו באנגלית, אבל השמות והצלילים שלהן שונים.
+שימו לב: האות ‪Ñ‬ היא אות נפרדת בספרדית.
+[TABLE]
+אות || שם האות בספרדית || תעתיק בעברית || מילים חשובות || משמעות בעברית
+‪A‬ || ‪a‬ || אָה || ‪amigo, agua‬ || חבר, מים
+‪B‬ || ‪be‬ || בֶּה || ‪bueno, boca‬ || טוב, פה
+‪C‬ || ‪ce‬ || סֶה || ‪casa, comida‬ || בית, אוכל
+‪D‬ || ‪de‬ || דֶה || ‪día, dinero‬ || יום, כסף
+‪E‬ || ‪e‬ || אֶה || ‪escuela, español‬ || בית ספר, ספרדית
+‪F‬ || ‪efe‬ || אֶפֶה || ‪familia, fruta‬ || משפחה, פרי
+‪G‬ || ‪ge‬ || חֶה / גֶה || ‪gato, gracias‬ || חתול, תודה
+‪H‬ || ‪hache‬ || אָצֶ׳ה || ‪hola, hombre‬ || שלום, גבר
+‪I‬ || ‪i‬ || אִי || ‪importante, iglesia‬ || חשוב, כנסייה
+‪J‬ || ‪jota‬ || חוֹטָה || ‪jugar, joven‬ || לשחק, צעיר
+‪K‬ || ‪ka‬ || קָה || ‪kilo, kiwi‬ || קילו, קיווי
+‪L‬ || ‪ele‬ || אֶלֶה || ‪libro, lunes‬ || ספר, יום שני
+‪M‬ || ‪eme‬ || אֶמֶה || ‪mamá, mesa‬ || אמא, שולחן
+‪N‬ || ‪ene‬ || אֶנֶה || ‪niño, noche‬ || ילד, לילה
+‪Ñ‬ || ‪eñe‬ || אֶנְיֶה || ‪España, español‬ || ספרד, ספרדית
+‪O‬ || ‪o‬ || אוֹ || ‪ojo, ocho‬ || עין, שמונה
+‪P‬ || ‪pe‬ || פֶּה || ‪padre, pan‬ || אבא, לחם
+‪Q‬ || ‪cu‬ || קוּ || ‪queso, querer‬ || גבינה, לרצות / לאהוב
+‪R‬ || ‪erre‬ || אֶרֶה || ‪rojo, rápido‬ || אדום, מהיר
+‪S‬ || ‪ese‬ || אֶסֶה || ‪sol, semana‬ || שמש, שבוע
+‪T‬ || ‪te‬ || טֶה || ‪tomar, tiempo‬ || לקחת / לשתות, זמן
+‪U‬ || ‪u‬ || אוּ || ‪uno, usar‬ || אחד, להשתמש
+‪V‬ || ‪uve / ve‬ || אוּבֶה / בֶּה || ‪vivir, verde‬ || לגור / לחיות, ירוק
+‪W‬ || ‪uve doble‬ || אוּבֶה דוֹבְּלֶה || ‪wifi, web‬ || וייפיי, אינטרנט
+‪X‬ || ‪equis‬ || אֶקִיס || ‪México, taxi‬ || מקסיקו, מונית
+‪Y‬ || ‪ye‬ || יֶה || ‪yo, y‬ || אני, ו...
+‪Z‬ || ‪zeta‬ || סֶטָה || ‪zapato, azul‬ || נעל, כחול
+[/TABLE]
+[Heading3] 2. דברים שחשוב לדעת כבר מההתחלה
+[Heading4] האות ‪H‬ לא נשמעת
+בספרדית האות ‪H‬ כתובה, אבל לא מבטאים אותה.
+דוגמאות:
+[MORISpanishExample] ‪hola =‬ אוֹלָה = שלום ‪hombre =‬ אוֹמְבְּרֶה = גבר ‪hotel =‬ אוֹטֶל = מלון
+טריק לזיכרון: ה-‪H‬ היא אות שקטה. העיניים רואות אותה, אבל הפה לא מבטא אותה. לכן ‪hola‬ נשמעת אולה.
+[Heading4] ‪B‬ ו-‪V‬ נשמעות כמעט אותו דבר
+בספרדית, במיוחד באמריקה הלטינית, האותיות ‪B‬ ו-‪V‬ נשמעות מאוד דומה. שתיהן נשמעות כמו ב רכה.
+דוגמאות:
+[MORISpanishExample] ‪bien =‬ בְּיֶן = טוב ‪vivir =‬ בִּיבִיר = לחיות / לגור ‪verde =‬ בֶּרְדֶה = ירוק
+אל תילחצו מההבדל בין ‪B‬ ל-‪V‬ בשלב הזה. העיקר להבין ולדבר.
+[Heading4] האות ‪C‬ משתנה לפי האות שאחריה
+כאשר ‪C‬ באה לפני ‪A, O, U,‬ היא נשמעת כמו ק.
+[MORISpanishExample] ‪ca =‬ קָה ‪co =‬ קוֹ ‪cu =‬ קוּ
+דוגמאות:
+[MORISpanishExample] ‪casa =‬ קָאסָה = בית ‪comida =‬ קוֹמִידָה = אוכל ‪cultura =‬ קוּלְטוּרָה = תרבות
+כאשר ‪C‬ באה לפני ‪E‬ או ‪I,‬ באמריקה הלטינית היא נשמעת כמו ס.
+[MORISpanishExample] ‪ce =‬ סֶה ‪ci =‬ סִי
+דוגמאות:
+[MORISpanishExample] ‪cena =‬ סֶנָה = ארוחת ערב ‪cinco =‬ סִינְקוֹ = חמש
+[Heading4] האות ‪G‬ משתנה לפי האות שאחריה
+כאשר ‪G‬ באה לפני ‪A, O, U,‬ היא נשמעת כמו ג.
+[MORISpanishExample] ‪ga =‬ גָה ‪go =‬ גוֹ ‪gu =‬ גוּ
+דוגמאות:
+[MORISpanishExample] ‪gato =‬ גָאטוֹ = חתול ‪goma =‬ גוֹמָה = מחק ‪gusto =‬ גוּסְטוֹ = טעם / הנאה
+כאשר ‪G‬ באה לפני ‪E‬ או ‪I,‬ היא נשמעת כמו ח.
+[MORISpanishExample] ‪ge =‬ חֶה ‪gi =‬ חִי
+דוגמאות:
+[MORISpanishExample] ‪gente =‬ חֶנְטֶה = אנשים ‪girar =‬ חִירָאר = להסתובב
+[Heading4] האות ‪J‬ נשמעת כמו ח
+האות ‪J‬ בספרדית נשמעת כמו ח בעברית.
+דוגמאות:
+[MORISpanishExample] ‪jugar =‬ חוּגָאר = לשחק ‪joven =‬ חוֹבֶן = צעיר ‪José =‬ חוֹסֶה = חוסה
+[Heading4] האות ‪Ñ‬ נשמעת כמו “ני”
+האות ‪Ñ‬ היא אחת האותיות הכי ספרדיות שיש. היא נשמעת כמו “ני”.
+דוגמאות:
+[MORISpanishExample] ‪España =‬ אֶסְפַּנְיָה = ספרד ‪español =‬ אֶסְפַּנְיוֹל = ספרדית ‪niño =‬ נִינְיוֹ = ילד
+[Heading4] האות ‪Q‬ כמעט תמיד מופיעה עם ‪U‬
+בספרדית, ‪Q‬ בדרך כלל מופיעה בצורה ‪que‬ או ‪qui.‬
+[MORISpanishExample] ‪que =‬ קֶה ‪qui =‬ קִי
+דוגמאות:
+[MORISpanishExample] ‪queso =‬ קֶסוֹ = גבינה ‪quiero =‬ קְיֶרוֹ = אני רוצה ‪quién =‬ קְיֶן = מי
+שימו לב: את ה-‪U‬ במילים האלה לא שומעים.
+[Heading3] 3. מילים ראשונות בספרדית
+קראו את המילים הבאות בקול. אל תתרגמו מיד. קודם נסו להרגיש את הצליל של הספרדית.
+[TABLE]
+ספרדית || תעתיק בעברית || עברית
+‪hola‬ || אוֹלָה || שלום
+‪amigo‬ || אָמִיגוֹ || חבר
+‪casa‬ || קָאסָה || בית
+‪agua‬ || אָגוּאָה || מים
+‪comida‬ || קוֹמִידָה || אוכל
+‪familia‬ || פָמִילְיָה || משפחה
+‪libro‬ || לִיבְּרוֹ || ספר
+‪mesa‬ || מֶסָה || שולחן
+‪niño‬ || נִינְיוֹ || ילד
+‪escuela‬ || אֶסְקוּאֶלָה || בית ספר
+‪español‬ || אֶסְפַּנְיוֹל || ספרדית
+‪gracias‬ || גְרָסְיָאס || תודה
+‪quiero‬ || קְיֶרוֹ || אני רוצה
+‪verde‬ || בֶּרְדֶה || ירוק
+‪azul‬ || אָסוּל || כחול
+[/TABLE]
+[Heading3] ‪4. RR‬ ו-‪LL:‬ הצלילים הכי "ספרדיים"
+האות ‪R‬ בספרדית לא תמיד נשמעת אותו דבר:
+באמצע מילה (בין תנועות) - היא רכה, כמו הברקה קלה של הלשון.
+בתחילת מילה, או אחרי ‪N / L / S -‬ היא מתגלגלת (כמו ‪RR).‬
+דוגמה מינימלית שכדאי לזכור:
+[TABLE]
+ספרדית || הגייה || משמעות
+‪pero‬ || פֶּרוֹ (‪R‬ רכה) || אבל
+‪perro‬ || פֶּררוֹ (‪R‬ מתגלגלת) || כלב
+[/TABLE]
+שימו לב: ההבדל בין ‪pero‬ ל-‪perro‬ הוא ההבדל בין "אבל" ל"כלב". שווה תרגול.
+האות הכפולה ‪LL‬ נשמעת ברוב אמריקה הלטינית כמו י בעברית:
+[MORISpanishExample] ‪llamar (‬להתקשר / לקרוא) = יָאמָאר
+[MORISpanishExample] ‪lluvia (‬גשם) = יוּבְיָה
+[MORISpanishExample] ‪pollo (‬עוף) = פּוֹיוֹ
+טריק לזיכרון: בארגנטינה ואורוגוואי ‪LL‬ נשמעת יותר כמו ז'/ש' - אבל בשלב הזה נלמד את הגרסה הנפוצה יותר באמריקה הלטינית.
+[Heading3] 5. תרגול: קראו בקול
+קראו את המילים הבאות בקול, בלי למהר:
+[TABLE]
+ספרדית || תעתיק
+‪carro‬ || קָארוֹ
+‪guitarra‬ || גִיטָארָה
+‪amarillo‬ || אָמָארִיוֹ
+‪caballo‬ || קָבָּאיוֹ
+‪Roberto‬ || רוֹבֶּרְטוֹ (‪R‬ מתגלגלת בהתחלה)
+[/TABLE]
+[Heading3] 6. איך זה נשמע בספרד לעומת אמריקה הלטינית
+בספרד, האותיות ‪C (‬לפני ‪E/I)‬ ו-‪Z‬ נשמעות כמו ‪th‬ באנגלית (כמו במילה ‪think).‬ באמריקה הלטינית, הן נשמעות כמו ס.
+דוגמה: ‪gracias -‬
+ספרד: תֿ׳ראסיאס (עם ‪th)‬
+אמריקה הלטינית: גְרָסְיָאס
+חשוב: בספר הזה נלמד את ההגייה של אמריקה הלטינית, כי היא הנפוצה יותר בעולם ומובנת בכל מקום.
+[Heading3] 7. טריקים להגייה טבעית
+[MORISpanishExample] ‪R‬ אחת באמצע מילה נשמעת רכה. גלגול חזק שומרים ל-‪R‬ בתחילת מילה או ל-‪RR.‬
+כשרואים ‪H,‬ מדלגים עליה בהגייה.
+בכל מילה יש הברה חזקה אחת. אין צורך להדגיש את כל ההברות באותה מידה.
+[Heading3] 8. תרגול נוסף: משפטים קצרים
+[MORISpanishExample] ‪Me gusta el perro. -‬ אני אוהב את הכלב.
+[MORISpanishExample] ‪La guitarra es bonita. -‬ הגיטרה יפה.
+[MORISpanishExample] ‪Voy a llamar a mi amigo. -‬ אני הולך להתקשר לחבר שלי.
+[Heading3] 9. טיפים לזכור את הצלילים
+שירו יחד עם שיר ספרדי פשוט אחד בשבוע - האוזן לומדת מהר יותר מהעין.
+קראו בקול, לא רק בשקט. הפה צריך להתרגל לתנועה.
+אל תלחצו על דיוק מושלם - המטרה בשלב הזה היא זיהוי, לא שלמות.
+[Heading3] 10. מבחן קצר לבדיקה עצמית
+איך הוגים את המילים הבאות? נסו בקול לפני שתבדקו את התשובות שמופיעות מיד אחר כך:
+[MORISpanishExample] ‪jardín (‬גינה)
+[MORISpanishExample] ‪llave (‬מפתח)
+[MORISpanishExample] ‪carro (‬מכונית)
+[MORISpanishExample] ‪hermano (‬אח)
+[Heading4] תשובות לבדיקה העצמית
+[MORIChecklist] ☐ ‪jardín:‬ ה-‪J‬ נשמעת כמו ח וההטעמה על ההברה האחרונה.
+[MORIChecklist] ☐ ‪llave:‬ ה-‪LL‬ נשמעת כאן בקירוב כמו י.
+[MORIChecklist] ☐ ‪carro:‬ ה-‪RR‬ מתגלגלת וחזקה.
+[MORIChecklist] ☐ ‪hermano:‬ ה-‪H‬ אינה נשמעת.
+[Heading3] 11. מילים דומות לעברית ולאנגלית
+עכשיו כשאתם יודעים לקרוא, שימו לב כמה מילים כבר "מוכרות": ‪hotel, teléfono, hospital, animal, cultura, música -‬ כולן נקראות כמעט כמו שהן נשמעות באנגלית.
+טריק לזיכרון: האלפבית שלמדתם בפרק הזה הוא המפתח שפותח את כל המילים האלה.
+[Heading3] 12. סיכום הפרק
+בפרק הזה למדנו:
+את אותיות האלפבית הספרדי. את שמות האותיות בספרדית. איך לקרוא מילים בסיסיות. שהאות ‪H‬ לא נשמעת. שהאות ‪J‬ נשמעת כמו ח. שהאות ‪Ñ‬ נשמעת כמו “ני”. שהאותיות ‪B‬ ו-‪V‬ נשמעות דומה. שמילים רבות בספרדית קלות לקריאה אחרי שמבינים את הצלילים.
+זכרו: בשלב הראשון המטרה היא לא לדבר מושלם. המטרה היא להתחיל לקרוא, לזהות צלילים ולהרגיש ביטחון עם השפה.
+ספרדית מתחילה באותיות, אבל מהר מאוד היא הופכת למילים, משפטים ושיחות אמיתיות.
+[Heading2] פרק 2: מיני־יחידה
+[MORIChapterSubtitle] הברות והטעמה בספרדית
+‪Sílabas y acento‬
+[Heading3] עמוד 1: איך יודעים איזו הברה להדגיש?
+[Heading4] מהי הברה?
+בספרדית, כל מילה מתחלקת לחלקים קטנים שנקראים הברות.
+אפשר לחשוב על הברה כמו על פעימה אחת במילה.
+לדוגמה:
+[TABLE]
+מילה בספרדית || חלוקה להברות || משמעות בעברית
+‪casa‬ || ‪ca-sa‬ || בית
+‪amigo‬ || ‪a-mi-go‬ || חבר
+‪familia‬ || ‪fa-mi-lia‬ || משפחה
+‪español‬ || ‪es-pa-ñol‬ || ספרדית
+[/TABLE]
+נסו לומר כל מילה לאט ולמחוא כף בכל הברה:
+[MORISpanishExample] ‪ca-sa‬ שתי הברות
+[MORISpanishExample] ‪a-mi-go‬ שלוש הברות
+[Heading3] מהי הטעמה?
+בכל מילה יש הברה אחת שנשמעת חזקה או בולטת יותר.
+להברה הזאת קוראים ההברה המוטעמת.
+קראו בקול ושימו לב לחלק שמודגש:
+[TABLE]
+מילה || איך הוגים? || משמעות
+‪casa‬ || ‪CA-sa‬ || בית
+‪amigo‬ || ‪a-MI-go‬ || חבר
+‪español‬ || ‪es-pa-ÑOL‬ || ספרדית
+‪teléfono‬ || ‪te-LÉ-fo-no‬ || טלפון
+[/TABLE]
+האותיות הגדולות מראות איזו הברה צריך להדגיש.
+[Heading3] כלל 1
+אם המילה מסתיימת ב:
+תנועה: ‪A, E, I, O, U‬
+או באותיות:
+[MORISpanishExample] ‪N‬ או ‪S‬
+בדרך כלל מדגישים את ההברה שלפני האחרונה.
+דוגמאות:
+‪casa‬ → ‪CA-sa‬
+‪amigo‬ → ‪a-MI-go‬
+‪gracias‬ → ‪GRA-cias‬
+‪hablan‬ → ‪HA-blan‬
+[Heading3] טריק לזיכרון
+מילה שמסתיימת בתנועה, ב־‪N‬ או ב־‪S‬ בדרך כלל "נרגעת" לפני הסוף.
+[Heading3] כלל 2
+אם המילה מסתיימת בעיצור אחר, בדרך כלל מדגישים את ההברה האחרונה.
+דוגמאות:
+‪español‬ → ‪es-pa-ÑOL‬
+‪profesor‬ → ‪pro-fe-SOR‬
+‪Madrid‬ → ‪ma-DRID‬
+‪hotel‬ → ‪ho-TEL‬
+[Heading3] ומה קורה כשיש סימן הטעמה?
+בספרדית לפעמים מופיע סימן קטן מעל אחת האותיות:
+´
+הסימן נקרא ‪tilde.‬
+הוא מראה לנו בדיוק איזו הברה צריך להדגיש.
+[TABLE]
+מילה || איך הוגים? || משמעות
+‪teléfono‬ || ‪te-LÉ-fo-no‬ || טלפון
+‪México‬ || ‪MÉ-xi-co‬ || מקסיקו
+‪corazón‬ || ‪co-ra-ZÓN‬ || לב
+‪adiós‬ || ‪a-DIÓS‬ || להתראות
+[/TABLE]
+כאשר יש סימן הטעמה, לא צריך לנחש. פשוט מדגישים את ההברה שבה מופיע הסימן.
+[Heading3] משפט שכדאי לזכור
+סימן ההטעמה הוא לא קישוט. הוא מראה לנו איך לקרוא את המילה נכון.
+[Heading3] בדיקה מהירה
+איפה נמצאת ההטעמה?
+[MORIKeyword] ‪amigo‬
+[MORIKeyword] ‪profesor‬
+[MORIKeyword] ‪teléfono‬
+[MORIKeyword] ‪español‬
+[MORIKeyword] ‪gracias‬
+[Heading4] תשובות
+[MORIKeyword] ‪a-MI-go‬
+[MORIKeyword] ‪pro-fe-SOR‬
+[MORIKeyword] ‪te-LÉ-fo-no‬
+[MORIKeyword] ‪es-pa-ÑOL‬
+[MORIKeyword] ‪GRA-cias‬
+[Heading2] פרק 3: משפטי הישרדות וברכות ראשונות
+[MORIChapterSubtitle] הספרדית שאתה צריך כבר מהיום הראשון
+עכשיו מגיע רגע חשוב: בפעם הראשונה אתה מתחיל להשתמש בספרדית ממש.
+לא נלמד כאן דקדוק מסובך. נלמד משפטים קצרים שיעזרו לך כבר מהיום הראשון:
+להגיד שלום. להגיד תודה. לבקש סליחה. להגיד שאתה לא מבין. לבקש שיחזרו על משהו. לבקש שידברו לאט יותר.
+את המשפטים האלה כדאי לזכור כמו שהם. גם אם אתה עדיין לא מבין כל מילה, זה בסדר.
+[Heading3] שלום וברכות
+[MORISpanishExample] ‪Hola‬ שלום / היי
+אפשר להשתמש ב־‪Hola‬ כמעט בכל מצב.
+עוד ברכות שימושיות:
+[TABLE]
+ספרדית || עברית
+‪Buenos días‬ || בוקר טוב
+‪Buenas tardes‬ || אחר הצהריים טובים
+‪Buenas noches‬ || ערב טוב / לילה טוב
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Hola, buenos días.‬ שלום, בוקר טוב.
+[MORISpanishExample] ‪Buenas noches.‬ ערב טוב / לילה טוב.
+[Heading3] להיפרד בספרדית
+[TABLE]
+ספרדית || עברית
+‪Adiós‬ || להתראות
+‪Chao‬ || ביי
+‪Hasta luego‬ || נתראה אחר כך
+‪Nos vemos‬ || נתראה
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Chao, nos vemos.‬ ביי, נתראה.
+[MORISpanishExample] ‪Hasta luego.‬ נתראה אחר כך.
+[Heading3] תודה, בבקשה וסליחה
+אלה מילים שתשתמש בהן כל הזמן.
+[TABLE]
+ספרדית || עברית
+‪Gracias‬ || תודה
+‪Muchas gracias‬ || תודה רבה
+‪De nada‬ || בבקשה / אין בעד מה
+‪Por favor‬ || בבקשה
+‪Perdón‬ || סליחה
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Gracias.‬ תודה.
+[MORISpanishExample] ‪Muchas gracias.‬ תודה רבה.
+[MORISpanishExample] ‪De nada.‬ בבקשה / אין בעד מה.
+[MORISpanishExample] ‪Por favor.‬ בבקשה.
+[Heading3] כשאתה לא מבין
+בתור תלמיד מתחיל, זה אולי החלק הכי חשוב בפרק.
+לא תמיד תבין הכול. וזה נורמלי לגמרי.
+במקום להילחץ, השתמש באחד המשפטים האלה:
+[TABLE]
+ספרדית || עברית
+‪No entiendo.‬ || אני לא מבין / מבינה.
+‪No sé.‬ || אני לא יודע / יודעת.
+‪Un momento, por favor.‬ || רגע אחד, בבקשה.
+‪Más despacio, por favor.‬ || לאט יותר, בבקשה.
+‪¿Puedes repetir?‬ || אתה יכול / את יכולה לחזור על זה?
+‪¿Qué significa...?‬ || מה המשמעות של...?
+[/TABLE]
+משפטים שכדאי לזכור במיוחד:
+[MORISpanishExample] ‪No entiendo.‬ אני לא מבין / מבינה.
+[MORISpanishExample] ‪¿Puedes repetir?‬ אתה יכול / את יכולה לחזור על זה?
+[MORISpanishExample] ‪Más despacio, por favor.‬ לאט יותר, בבקשה.
+[Heading3] טיפ לדוברי עברית
+הרבה ישראלים מרגישים לא נעים להגיד “אני לא מבין”.
+אבל בשפה זרה זה לא כישלון. זה כלי תקשורת.
+אם אתה יודע להגיד:
+‪No entiendo. ¿Puedes repetir? Más despacio, por favor.‬
+אתה כבר יודע איך לשרוד שיחה בסיסית.
+[Heading3] מיני דיאלוג ראשון
+קרא את הדיאלוג בקול.
+[MORIDialogue] ‪Daniel: Hola, buenos días.‬ שלום, בוקר טוב.
+[MORIDialogue] ‪Maya: Hola. ¿Cómo estás?‬ שלום. מה שלומך?
+[MORIDialogue] ‪Daniel: Bien, gracias. ¿Y tú?‬ בסדר, תודה. ואת?
+[MORIDialogue] ‪Maya: Muy bien, gracias.‬ טוב מאוד, תודה.
+[MORIDialogue] ‪Daniel: Perdón, no entiendo. ¿Puedes repetir?‬ סליחה, אני לא מבין. את יכולה לחזור על זה?
+[MORIDialogue] ‪Maya: Sí, claro.‬ כן, ברור.
+[MORIDialogue] ‪Daniel: Gracias.‬ תודה.
+[MORIDialogue] ‪Maya: De nada.‬ בבקשה.
+[Heading3] המשפטים הכי חשובים לזיכרון
+נסה לזכור את המשפטים האלה:
+[MORISpanishExample] ‪Hola.‬ שלום.
+[MORISpanishExample] ‪Gracias.‬ תודה.
+[MORISpanishExample] ‪Por favor.‬ בבקשה.
+[MORISpanishExample] ‪No entiendo.‬ אני לא מבין / מבינה.
+[MORISpanishExample] ‪¿Puedes repetir?‬ אתה יכול / את יכולה לחזור על זה?
+[MORISpanishExample] ‪Más despacio, por favor.‬ לאט יותר, בבקשה.
+[MORISpanishExample] ‪¿Qué significa...?‬ מה המשמעות של...?
+[MORISpanishExample] ‪Hasta luego.‬ נתראה אחר כך.
+[Heading3] תרגול קצר
+חבר בין הספרדית לעברית.
+[MORIKeyword] ‪Hola‬
+[MORIKeyword] ‪Gracias‬
+‪Por favor‬
+‪No entiendo‬
+‪Hasta luego‬
+א. אני לא מבין ב. בבקשה ג. שלום ד. נתראה אחר כך ה. תודה
+[Heading3] משימת סיום פרק
+[MORIExerciseItem] בחר 5 משפטים מהפרק שאתה רוצה לזכור.
+[MORIExerciseItem] כתוב אותם כאן:
+אחר כך קרא אותם בקול שלוש פעמים.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להגיד שלום ולהיפרד.
+[MORIChecklist] ☐ להגיד תודה ובבקשה.
+[MORIChecklist] ☐ להגיד שאני לא מבין.
+[MORIChecklist] ☐ לבקש שיחזרו על משהו.
+[MORIChecklist] ☐ לבקש שידברו לאט יותר.
+[MORIChecklist] ☐ לקרוא דיאלוג קצר בספרדית.
+[Heading2] חזרה קצרה: יחידה 1
+[Heading3] מה למדתי ביחידה?
+ביחידה הזאת למדתי:
+למה ספרדית שימושית.
+איך לקרוא מילים בסיסיות.
+ש־‪H‬ לא נשמעת.
+ש־‪J‬ נשמעת כמו ח.
+ש־‪Ñ‬ נשמעת כמו ני.
+משפטי הישרדות ראשונים.
+איך להגיד שאני לא מבין.
+איך לבקש חזרה או דיבור איטי יותר.
+[Heading3] המשימה הגדולה של יחידה 1
+הקלט את עצמך אומר את המשפטים הבאים:
+[MORISpanishExample] ‪Hola.‬ שלום.
+[MORISpanishExample] ‪Buenos días.‬ בוקר טוב.
+[MORISpanishExample] ‪Gracias.‬ תודה.
+[MORISpanishExample] ‪Por favor.‬ בבקשה.
+[MORISpanishExample] ‪Perdón.‬ סליחה.
+[MORISpanishExample] ‪No entiendo.‬ אני לא מבין / מבינה.
+[MORISpanishExample] ‪¿Puedes repetir?‬ אתה יכול / את יכולה לחזור על זה?
+[MORISpanishExample] ‪Más despacio, por favor.‬ לאט יותר, בבקשה.
+אחרי ההקלטה, הקשב לעצמך.
+בדוק:
+[MORIChecklist] ☐ האם קראתי את ‪H‬ נכון ולא אמרתי “הולה”?
+[MORIChecklist] ☐ האם אמרתי ‪gracias‬ ברור?
+[MORIChecklist] ☐ האם הצלחתי לקרוא בלי לעצור אחרי כל מילה?
+[MORIChecklist] ☐ האם אני מרגיש קצת יותר בטוח עם הצליל של הספרדית?
+[MORIUnitKicker] יחידה 02
+[Heading1] מי אני ומאיפה אני?
+[MORIUnitSubtitle] כינויי גוף, ‪SER‬ והצגה עצמית
+מטרת היחידה: לבנות הצגה עצמית קצרה, טבעית וברורה.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ להגיד מי אני ומאיפה אני
+[MORIChecklist] ☐ לדבר על מקצוע או תפקיד
+[MORIChecklist] ☐ לשאול שאלות היכרות בסיסיות
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 4: אני, אתה, הוא והיא בספרדית
+[MORIChapterSubtitle] כינויי גוף בסיסיים
+כדי לבנות משפטים בספרדית, כדאי להכיר כמה מילים קטנות:
+אני אתה / את הוא היא אנחנו הם / הן אתם / אתן
+המילים האלה נקראות כינויי גוף.
+בספרדית:
+[TABLE]
+עברית || ספרדית
+אני || ‪yo‬
+אתה / את || ‪tú‬
+הוא || ‪él‬
+היא || ‪ella‬
+אנחנו || ‪nosotros / nosotras‬
+הם / הן || ‪ellos / ellas‬
+אתם / אתן || ‪ustedes‬
+[/TABLE]
+בשלב הזה לא צריך לזכור הכול מושלם. הכי חשוב להתחיל עם ארבע המילים הראשונות:
+[MORISpanishExample] ‪yo‬ אני
+[MORISpanishExample] ‪tú‬ אתה / את
+[MORISpanishExample] ‪él‬ הוא
+[MORISpanishExample] ‪ella‬ היא
+[Heading3] שימו לב: ‪tú‬ ו־‪tu‬
+בספרדית יש הבדל בין:
+[MORISpanishExample] ‪tú‬ אתה / את
+לבין:
+[MORISpanishExample] ‪tu‬ שלך
+בשלב הזה נשתמש בעיקר ב:
+[MORISpanishExample] ‪tú‬ אתה / את
+דוגמה:
+[MORISpanishExample] ‪Tú eres Daniel.‬ אתה דניאל.
+[Heading3] שימו לב: ‪él‬ ו־‪el‬
+גם כאן יש הבדל קטן אבל חשוב:
+[MORISpanishExample] ‪él‬ הוא
+[MORISpanishExample] ‪el‬ ה... בזכר
+דוגמה:
+[MORISpanishExample] ‪Él es Daniel.‬ הוא דניאל.
+[MORISpanishExample] ‪el libro‬ הספר
+משפט לזכור:
+[MORISpanishExample] ‪él‬ עם אקצנט = הוא ‪el‬ בלי אקצנט = ה...
+[Heading3] ‪ustedes‬
+המילה ‪ustedes‬ אומרת:
+אתם / אתן
+באמריקה הלטינית משתמשים בה הרבה מאוד. בספרד יש גם ‪vosotros / vosotras,‬ אבל בשלב הזה הכי פרקטי ללמוד ולהשתמש ב:
+[MORIKeyword] ‪ustedes‬
+דוגמה:
+[MORISpanishExample] ‪Ustedes son estudiantes.‬ אתם / אתן תלמידים.
+[Heading3] טיפ לדוברי עברית
+בעברית בדרך כלל אומרים את כינוי הגוף:
+אני מישראל. אתה תלמיד. היא מורה.
+בספרדית לפעמים אפשר לוותר על כינוי הגוף, כי הפועל כבר מראה מי עושה את הפעולה.
+אפשר להגיד:
+[MORISpanishExample] ‪Yo soy Daniel.‬ אני דניאל.
+אבל בדיבור טבעי יותר, הרבה פעמים אומרים פשוט:
+[MORISpanishExample] ‪Soy Daniel.‬ אני דניאל.
+אל תדאג. נתרגל את זה לאט.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ לזהות את כינויי הגוף הבסיסיים בספרדית.
+[MORIChecklist] ☐ להבין ש־‪yo =‬ אני.
+[MORIChecklist] ☐ להבין ש־‪tú =‬ אתה / את.
+[MORIChecklist] ☐ להבין את ההבדל בין ‪él‬ ל־‪el.‬
+[MORIChecklist] ☐ להבין ש־‪ustedes‬ שימושי מאוד באמריקה הלטינית.
+[Heading2] פרק 5: מי אני ומאיפה אני?
+[MORIChapterSubtitle] הפועל ‪SER‬ להצגה עצמית
+עכשיו נלמד את אחד הפעלים הכי חשובים בספרדית:
+[MORIKeyword] ‪ser‬
+הפועל ‪ser‬ פירושו בדרך כלל:
+להיות
+אבל במקום ללמוד אותו בצורה יבשה, נשתמש בו למטרה אמיתית:
+להציג את עצמנו.
+[Heading3] הצורה הכי חשובה: ‪soy‬
+כדי להגיד “אני...”, משתמשים ב:
+[MORIKeyword] ‪soy‬
+דוגמאות:
+[MORISpanishExample] ‪Soy Daniel.‬ אני דניאל.
+[MORISpanishExample] ‪Soy Maya.‬ אני מאיה.
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Soy estudiante.‬ אני תלמיד / תלמידה / סטודנט / סטודנטית.
+[MORISpanishExample] ‪Soy profesor.‬ אני מורה.
+המשפט הכי חשוב בפרק:
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[Heading3] חשוב לדוברי עברית: בספרדית חייבים פועל
+בעברית אנחנו אומרים:
+אני מישראל.
+אין כאן פועל גלוי.
+אבל בספרדית חייבים להשתמש בפועל:
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+לא אומרים:
+‪Yo de Israel.‬
+עוד דוגמה:
+בעברית:
+היא מורה.
+בספרדית:
+[MORISpanishExample] ‪Ella es profesora.‬ היא מורה.
+לא אומרים:
+‪Ella profesora.‬
+משפט לזכור:
+בספרדית משפט צריך פועל.
+[Heading3] הטבלה הקצרה של ‪SER‬
+בשלב הזה נלמד את הצורות הכי שימושיות:
+[TABLE]
+עברית || ספרדית
+אני || ‪soy‬
+אתה / את || ‪eres‬
+הוא / היא / זה || ‪es‬
+אנחנו || ‪somos‬
+הם / הן / אתם || ‪son‬
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Eres estudiante.‬ אתה / את תלמיד/ה.
+[MORISpanishExample] ‪Ella es profesora.‬ היא מורה.
+[MORISpanishExample] ‪Somos amigos.‬ אנחנו חברים.
+[MORISpanishExample] ‪Ustedes son estudiantes.‬ אתם / אתן תלמידים.
+[Heading3] מתי משתמשים ב־‪SER?‬
+בשלב ‪A1‬ נשתמש ב־‪ser‬ בעיקר ל־4 דברים:
+[Heading3] 1. שם
+[MORISpanishExample] ‪Soy Daniel.‬ אני דניאל.
+[MORISpanishExample] ‪Ella es Maya.‬ היא מאיה.
+[Heading3] 2. מוצא
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Ella es de México.‬ היא ממקסיקו.
+[MORISpanishExample] ‪Somos de Brasil.‬ אנחנו מברזיל.
+[Heading3] 3. מקצוע או תפקיד
+[MORISpanishExample] ‪Soy profesor.‬ אני מורה.
+[MORISpanishExample] ‪Soy estudiante.‬ אני תלמיד / תלמידה.
+[MORISpanishExample] ‪Ella es médica.‬ היא רופאה.
+[Heading3] 4. קשר בין אנשים
+[MORISpanishExample] ‪Él es mi amigo.‬ הוא חבר שלי.
+[MORISpanishExample] ‪Ella es mi amiga.‬ היא חברה שלי.
+[MORISpanishExample] ‪Somos amigos.‬ אנחנו חברים.
+[Heading3] לא תמיד צריך ‪un / una‬ עם מקצוע
+בעברית אומרים:
+אני מורה. אני תלמיד. אני רופא.
+בספרדית, כשאומרים מקצוע, בדרך כלל לא צריך ‪un / una.‬
+נכון:
+[MORISpanishExample] ‪Soy profesor.‬ אני מורה.
+[MORISpanishExample] ‪Soy estudiante.‬ אני סטודנט / תלמיד.
+[MORISpanishExample] ‪Soy médica.‬ אני רופאה.
+בשלב הזה זכרו את המבנה:
+[MORISpanishExample] ‪Soy +‬ מקצוע
+[Heading3] שאלות פשוטות עם ‪SER‬
+כדי לשאול שאלה, הרבה פעמים פשוט משנים את האינטונציה.
+[MORISpanishExample] ‪Eres estudiante.‬ אתה תלמיד.
+[MORISpanishExample] ‪¿Eres estudiante?‬ אתה תלמיד?
+שאלות שימושיות:
+[MORISpanishExample] ‪¿Eres de Israel?‬ אתה / את מישראל?
+[MORISpanishExample] ‪¿Eres estudiante?‬ אתה / את תלמיד/ה?
+[MORISpanishExample] ‪¿Eres profesor?‬ אתה מורה?
+[MORISpanishExample] ‪¿De dónde eres?‬ מאיפה אתה / את?
+[Heading3] תשובות קצרות
+[MORISpanishExample] ‪Sí, soy estudiante.‬ כן, אני תלמיד / תלמידה.
+[MORISpanishExample] ‪No, no soy estudiante. Soy profesor.‬ לא, אני לא תלמיד. אני מורה.
+[MORISpanishExample] ‪Sí, soy de Israel.‬ כן, אני מישראל.
+[MORISpanishExample] ‪No, soy de Brasil.‬ לא, אני מברזיל.
+[Heading3] מיני דיאלוג
+קרא את הדיאלוג בקול.
+[MORIDialogue] ‪Daniel: Hola, soy Daniel.‬ שלום, אני דניאל.
+[MORIDialogue] ‪Maya: Hola, soy Maya.‬ שלום, אני מאיה.
+[MORIDialogue] ‪Daniel: ¿Eres de Israel?‬ את מישראל?
+[MORIDialogue] ‪Maya: Sí, soy de Israel. ¿Y tú?‬ כן, אני מישראל. ואתה?
+[MORIDialogue] ‪Daniel: Soy de Argentina.‬ אני מארגנטינה.
+[MORIDialogue] ‪Maya: ¿Eres estudiante?‬ אתה סטודנט?
+[MORIDialogue] ‪Daniel: No, soy profesor.‬ לא, אני מורה.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להגיד איך קוראים לי.
+[MORIChecklist] ☐ להגיד מאיפה אני.
+[MORIChecklist] ☐ להגיד אם אני תלמיד / מורה / סטודנט.
+[MORIChecklist] ☐ לשאול אדם אחר מאיפה הוא.
+[MORIChecklist] ☐ לענות תשובות קצרות עם ‪sí‬ ו־‪no.‬
+[MORIChecklist] ☐ להבין למה בספרדית צריך פועל גם כשבעברית אין פועל גלוי.
+[Heading2] פרק 6: ההצגה העצמית הראשונה שלי
+[MORIChapterSubtitle] עכשיו משתמשים בספרדית
+בפרק הזה לא נלמד הרבה דקדוק חדש. ניקח את מה שכבר למדנו ונשתמש בו כדי לבנות הצגה עצמית קצרה.
+זו אחת הנקודות הכי חשובות בתחילת הלמידה:
+לא רק ללמוד על ספרדית. להשתמש בספרדית.
+[Heading3] התבנית הבסיסית
+כדי להציג את עצמך, אפשר להשתמש בתבנית הזאת:
+[MORIExerciseItem] ‪Hola, soy ________.‬ שלום, אני ________.
+[MORIExerciseItem] ‪Soy de ________.‬ אני מ ________.
+[MORIExerciseItem] ‪Soy ________.‬ אני ________.
+[MORISpanishExample] ‪Soy estudiante de español.‬ אני תלמיד / תלמידה לספרדית.
+[MORIExerciseItem] ‪Soy una persona ________.‬ אני אדם ________.
+[Heading3] דוגמה
+[MORISpanishExample] ‪Hola, soy Daniel.‬ שלום, אני דניאל.
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Soy estudiante.‬ אני סטודנט.
+[MORISpanishExample] ‪Soy estudiante de español.‬ אני תלמיד לספרדית.
+[MORISpanishExample] ‪Soy una persona curiosa.‬ אני אדם סקרן.
+[Heading3] מקומות שימושיים
+[TABLE]
+ספרדית || עברית
+‪Israel‬ || ישראל
+‪Brasil‬ || ברזיל
+‪España‬ || ספרד
+‪Argentina‬ || ארגנטינה
+‪México‬ || מקסיקו
+‪Colombia‬ || קולומביה
+‪Tel Aviv‬ || תל אביב
+‪Jerusalén‬ || ירושלים
+‪Haifa‬ || חיפה
+[/TABLE]
+[Heading3] מקצועות ותפקידים שימושיים
+[TABLE]
+ספרדית || עברית
+‪estudiante‬ || תלמיד / סטודנט
+‪profesor / profesora‬ || מורה
+‪médico / médica‬ || רופא / רופאה
+‪abogado / abogada‬ || עורך דין / עורכת דין
+‪ingeniero / ingeniera‬ || מהנדס / מהנדסת
+‪guía‬ || מדריך / מדריכה
+‪artista‬ || אמן / אמנית
+[/TABLE]
+[Heading3] תיאורים פשוטים
+[TABLE]
+ספרדית || עברית
+‪tranquilo / tranquila‬ || רגוע / רגועה
+‪curioso / curiosa‬ || סקרן / סקרנית
+‪creativo / creativa‬ || יצירתי / יצירתית
+‪organizado / organizada‬ || מסודר / מסודרת
+‪alegre‬ || שמח / שמחה
+‪simpático / simpática‬ || נחמד / נחמדה
+[/TABLE]
+[Heading3] טיפ קטן: ‪una persona‬
+המשפט הזה שימושי מאוד:
+[MORISpanishExample] ‪Soy una persona curiosa.‬ אני אדם סקרן.
+למה הוא טוב?
+כי הוא מתאים גם לגברים וגם לנשים.
+גבר יכול להגיד:
+‪Soy una persona tranquila.‬
+אישה יכולה להגיד:
+‪Soy una persona tranquila.‬
+המילה ‪persona‬ היא נקבה בספרדית, ולכן התיאור יבוא בדרך כלל בנקבה:
+‪una persona tranquila una persona creativa una persona organizada‬
+בשלב הזה פשוט זכרו את המבנה:
+[MORISpanishExample] ‪Soy una persona +‬ תיאור
+[Heading3] שאלות להיכרות
+אפשר לשאול אדם אחר:
+[MORISpanishExample] ‪¿Cómo te llamas?‬ איך קוראים לך?
+[MORISpanishExample] ‪¿Quién eres?‬ מי אתה / את?
+[MORISpanishExample] ‪¿De dónde eres?‬ מאיפה אתה / את?
+[MORISpanishExample] ‪¿Eres estudiante?‬ אתה / את תלמיד/ה?
+[MORISpanishExample] ‪¿Eres de Israel?‬ אתה / את מישראל?
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: Hola, soy Daniel. ¿Y tú?‬ שלום, אני דניאל. ואת / אתה?
+[MORIDialogue] ‪Maya: Hola, soy Maya.‬ שלום, אני מאיה.
+[MORIDialogue] ‪Daniel: ¿De dónde eres?‬ מאיפה את?
+[MORIDialogue] ‪Maya: Soy de Israel. ¿Y tú?‬ אני מישראל. ואתה?
+[MORIDialogue] ‪Daniel: Soy de Argentina.‬ אני מארגנטינה.
+[MORIDialogue] ‪Maya: ¿Eres estudiante?‬ אתה סטודנט?
+[MORIDialogue] ‪Daniel: No, soy profesor.‬ לא, אני מורה.
+[MORIDialogue] ‪Maya: Yo soy estudiante de español.‬ אני תלמידה לספרדית.
+[Heading3] משימת סיום יחידה 2
+[MORIExerciseItem] כתוב הצגה עצמית קצרה בספרדית.
+השתמש בתבנית:
+[MORIExerciseItem] ‪Hola, soy ________. Soy de ________. Soy ________. Soy estudiante de español. Soy una persona ________.‬
+עכשיו כתוב:
+אחר כך הקלט את עצמך קורא את ההצגה העצמית.
+[Heading3] אני יכול עכשיו
+בסוף היחידה הזאת אני יכול:
+[MORIChecklist] ☐ להגיד מי אני.
+[MORIChecklist] ☐ להגיד מאיפה אני.
+[MORIChecklist] ☐ להגיד מה אני עושה.
+[MORIChecklist] ☐ להגיד שאני תלמיד / תלמידה לספרדית.
+[MORIChecklist] ☐ לשאול אדם אחר מאיפה הוא.
+[MORIChecklist] ☐ לענות לשאלות בסיסיות על עצמי.
+[MORIChecklist] ☐ להציג את עצמי ב־4 עד 5 משפטים בספרדית.
+[Heading2] חזרה קצרה: יחידה 2
+[Heading3] מה למדתי ביחידה?
+ביחידה הזאת למדתי:
+[MORISpanishExample] ‪yo =‬ אני ‪tú =‬ אתה / את ‪él =‬ הוא ‪ella =‬ היא
+למדתי להשתמש ב־‪SER:‬
+[MORISpanishExample] ‪soy =‬ אני ‪eres =‬ אתה / את ‪es =‬ הוא / היא / זה ‪somos =‬ אנחנו ‪son =‬ הם / הן / אתם
+ולמדתי משפטים חשובים:
+[MORISpanishExample] ‪Soy Daniel.‬ אני דניאל.
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Soy estudiante.‬ אני תלמיד / תלמידה.
+[MORISpanishExample] ‪Soy estudiante de español.‬ אני תלמיד / תלמידה לספרדית.
+[MORISpanishExample] ‪¿De dónde eres?‬ מאיפה אתה / את?
+[MORIUnitKicker] יחידה 03
+[Heading1] הדברים הראשונים סביבי
+[MORIUnitSubtitle] זכר ונקבה, יחיד ורבים ו-‪HAY‬
+מטרת היחידה: לתאר חפצים ודברים שנמצאים סביבי.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ להשתמש ב-‪el, la, un‬ ו-‪una‬
+[MORIChecklist] ☐ לבנות צורות רבים
+[MORIChecklist] ☐ להגיד מה יש ומה אין
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 7: איך אומרים “הספר” ו“בית אחד”?
+[MORIChapterSubtitle] ‪el, la, un, una‬
+בספרדית כמעט לכל שם עצם יש מין דקדוקי:
+זכר או נקבה
+זה לא אומר שהדבר עצמו הוא באמת גבר או אישה. זה פשוט חלק מהשפה.
+לדוגמה:
+[MORISpanishExample] ‪libro‬ ספר
+בספרדית המילה ‪libro‬ היא זכר. לכן אומרים:
+[MORISpanishExample] ‪el libro‬ הספר
+אבל:
+[MORISpanishExample] ‪casa‬ בית
+בספרדית המילה ‪casa‬ היא נקבה. לכן אומרים:
+[MORISpanishExample] ‪la casa‬ הבית
+[Heading3] איך אומרים “ה...” בספרדית?
+בעברית יש לנו צורה אחת:
+הספר הבית הקפה המשפחה
+בספרדית יש שתי צורות:
+[TABLE]
+ספרדית || עברית || מתי משתמשים?
+‪el‬ || ה... || לפני מילה בזכר
+‪la‬ || ה... || לפני מילה בנקבה
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪el libro‬ הספר
+[MORISpanishExample] ‪el teléfono‬ הטלפון
+[MORISpanishExample] ‪la casa‬ הבית
+[MORISpanishExample] ‪la mesa‬ השולחן
+[Heading3] איך אומרים “ספר / ספר אחד / איזשהו ספר”?
+בשביל זה משתמשים ב:
+[TABLE]
+ספרדית || עברית || מתי משתמשים?
+‪un‬ || אחד / איזשהו || לפני מילה בזכר
+‪una‬ || אחת / איזושהי || לפני מילה בנקבה
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪un libro‬ ספר / ספר אחד
+[MORISpanishExample] ‪un café‬ קפה / קפה אחד
+[MORISpanishExample] ‪una casa‬ בית / בית אחד
+[MORISpanishExample] ‪una mesa‬ שולחן / שולחן אחד
+שימו לב:
+בעברית לא תמיד נתרגם ‪un / una‬ כ־“אחד / אחת”.
+לדוגמה:
+[MORISpanishExample] ‪Vivo en una casa.‬ אני גר בבית.
+לא צריך לתרגם: “אני גר בבית אחד”. בעברית טבעית נגיד פשוט: אני גר בבית.
+[Heading3] הטבלה הכי חשובה
+[TABLE]
+סוג || זכר || נקבה
+ה... || ‪el‬ || ‪la‬
+אחד / אחת / איזשהו / איזושהי || ‪un‬ || ‪una‬
+[/TABLE]
+דוגמאות:
+[TABLE]
+עברית || ספרדית
+הספר || ‪el libro‬
+ספר / ספר אחד || ‪un libro‬
+הבית || ‪la casa‬
+בית / בית אחד || ‪una casa‬
+הטלפון || ‪el teléfono‬
+טלפון / טלפון אחד || ‪un teléfono‬
+השולחן || ‪la mesa‬
+שולחן / שולחן אחד || ‪una mesa‬
+[/TABLE]
+משפט לזכור:
+[MORISpanishExample] ‪el / un‬ הולכים עם זכר. ‪la / una‬ הולכות עם נקבה.
+[Heading3] איך יודעים אם מילה היא זכר או נקבה?
+אין דרך מושלמת לדעת תמיד, וזה בסדר.
+אבל יש שני סימנים שעוזרים מאוד.
+[Heading3] טיפ 1: מילים שמסתיימות ב־‪o‬ הן בדרך כלל זכר
+דוגמאות:
+[MORISpanishExample] ‪el libro‬ הספר
+[MORISpanishExample] ‪el teléfono‬ הטלפון
+[MORISpanishExample] ‪el amigo‬ החבר
+דרך קצרה לזכור:
+‪o = el / un‬
+[Heading3] טיפ 2: מילים שמסתיימות ב־‪a‬ הן בדרך כלל נקבה
+דוגמאות:
+[MORISpanishExample] ‪la casa‬ הבית
+[MORISpanishExample] ‪la mesa‬ השולחן
+[MORISpanishExample] ‪la escuela‬ בית הספר
+דרך קצרה לזכור:
+‪a = la / una‬
+[Heading3] טיפ לדוברי עברית: לא לחשוב לפי עברית
+בעברית:
+בית = זכר שולחן = זכר
+אבל בספרדית:
+[MORISpanishExample] ‪la casa‬ הבית
+[MORISpanishExample] ‪la mesa‬ השולחן
+כלומר, לא תמיד העברית עוזרת.
+במקום לחשוב:
+“בעברית זה זכר, אז גם בספרדית זה זכר”
+עדיף ללמוד כל מילה עם המילה הקטנה שלה:
+‪el libro la casa el teléfono la mesa‬
+[Heading3] ללמוד מילים בצורה חכמה
+לא כדאי ללמוד רק:
+[MORISpanishExample] ‪casa =‬ בית ‪libro =‬ ספר ‪mesa =‬ שולחן
+עדיף ללמוד:
+[MORISpanishExample] ‪la casa =‬ הבית ‪el libro =‬ הספר ‪la mesa =‬ השולחן
+ככה המוח זוכר את המילה יחד עם המין שלה.
+[Heading3] יש חריגים, וזה בסדר
+כמו בכל שפה, יש מילים שלא מתנהגות לפי הכלל.
+לדוגמה:
+[MORISpanishExample] ‪el día‬ היום
+למרות ש־‪día‬ מסתיימת ב־‪a,‬ היא זכר.
+עוד דוגמה:
+[MORISpanishExample] ‪la mano‬ היד
+למרות ש־‪mano‬ מסתיימת ב־‪o,‬ היא נקבה.
+בשלב הזה לא צריך לזכור את כל החריגים. רק לדעת שהם קיימים.
+המטרה היא לא להיות מושלם. המטרה היא להתחיל לזהות דפוסים.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪el‬ או ‪la:‬
+___ ‪libro‬
+___ ‪casa‬
+___ ‪mesa‬
+___ ‪teléfono‬
+___ ‪escuela‬
+[MORIExerciseItem] השלם עם ‪un‬ או ‪una:‬
+___ ‪libro‬
+___ ‪casa‬
+___ ‪café‬
+___ ‪mesa‬
+___ ‪teléfono‬
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להבין ששם עצם בספרדית יכול להיות זכר או נקבה.
+[MORIChecklist] ☐ להשתמש ב־‪el‬ ו־‪la.‬
+[MORIChecklist] ☐ להשתמש ב־‪un‬ ו־‪una.‬
+[MORIChecklist] ☐ להבין ש־‪o‬ בדרך כלל הולך עם ‪el / un.‬
+[MORIChecklist] ☐ להבין ש־‪a‬ בדרך כלל הולכת עם ‪la / una.‬
+[MORIChecklist] ☐ ללמוד מילים חדשות יחד עם ‪el‬ או ‪la.‬
+[Heading2] פרק 8: איך מדברים על כמה דברים?
+[MORIChapterSubtitle] ‪los, las, unos, unas‬
+עכשיו נלמד איך להפוך מילים מיחיד לרבים.
+בעברית זה לפעמים לא צפוי:
+ספר → ספרים בית → בתים אישה → נשים
+בספרדית זה בדרך כלל פשוט יותר. ברוב המקרים מוסיפים ‪s‬ או ‪es‬ בסוף המילה.
+[Heading3] איך אומרים “ה...” ברבים?
+ביחיד:
+[MORISpanishExample] ‪el libro‬ הספר
+[MORISpanishExample] ‪la casa‬ הבית
+ברבים:
+[MORISpanishExample] ‪los libros‬ הספרים
+[MORISpanishExample] ‪las casas‬ הבתים
+כלומר:
+[TABLE]
+יחיד || רבים
+‪el‬ || ‪los‬
+‪la‬ || ‪las‬
+[/TABLE]
+משפט לזכור:
+[MORISpanishExample] ‪el‬ הופך ל־‪los la‬ הופכת ל־‪las‬
+[Heading3] איך יוצרים רבים?
+יש שני כללים עיקריים.
+[Heading3] כלל 1: אם המילה מסתיימת בתנועה, מוסיפים ‪s‬
+תנועות בספרדית:
+‪a, e, i, o, u‬
+דוגמאות:
+[MORISpanishExample] ‪libro‬ → ‪libros‬ ספר → ספרים
+[MORISpanishExample] ‪casa‬ → ‪casas‬ בית → בתים
+[MORISpanishExample] ‪mesa‬ → ‪mesas‬ שולחן → שולחנות
+לכן:
+[MORISpanishExample] ‪el libro‬ → ‪los libros‬ הספר → הספרים
+[MORISpanishExample] ‪la casa‬ → ‪las casas‬ הבית → הבתים
+[Heading3] כלל 2: אם המילה מסתיימת בעיצור, מוסיפים ‪es‬
+עיצור הוא כל אות שאינה תנועה.
+דוגמאות:
+[MORISpanishExample] ‪profesor‬ → ‪profesores‬ מורה → מורים
+[MORISpanishExample] ‪ciudad‬ → ‪ciudades‬ עיר → ערים
+[MORISpanishExample] ‪animal‬ → ‪animales‬ חיה → חיות
+לכן:
+[MORISpanishExample] ‪el profesor‬ → ‪los profesores‬ המורה → המורים
+[MORISpanishExample] ‪la ciudad‬ → ‪las ciudades‬ העיר → הערים
+[Heading3] מה קורה עם ‪un / una‬ ברבים?
+ביחיד:
+[MORISpanishExample] ‪un libro‬ ספר / ספר אחד
+[MORISpanishExample] ‪una casa‬ בית / בית אחד
+ברבים:
+[MORISpanishExample] ‪unos libros‬ כמה ספרים
+[MORISpanishExample] ‪unas casas‬ כמה בתים
+[TABLE]
+יחיד || רבים
+‪un‬ || ‪unos‬
+‪una‬ || ‪unas‬
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Tengo un libro.‬ יש לי ספר.
+[MORISpanishExample] ‪Tengo unos libros.‬ יש לי כמה ספרים.
+[MORISpanishExample] ‪Tengo una amiga.‬ יש לי חברה.
+[MORISpanishExample] ‪Tengo unas amigas.‬ יש לי כמה חברות.
+[Heading3] זכר ונקבה נשארים גם ברבים
+אם המילה הייתה זכר ביחיד, היא נשארת זכר גם ברבים:
+‪el libro‬ → ‪los libros un libro‬ → ‪unos libros‬
+אם המילה הייתה נקבה ביחיד, היא נשארת נקבה גם ברבים:
+‪la casa‬ → ‪las casas una casa‬ → ‪unas casas‬
+כלומר, כשעוברים לרבים צריך לשנות שני דברים:
+את המילה הקטנה
+את סוף המילה
+דוגמה:
+‪el libro‬ → ‪los libros‬
+שינינו:
+‪el‬ → ‪los libro‬ → ‪libros‬
+[Heading3] הטבלה הכי חשובה
+[TABLE]
+יחיד || רבים
+‪el libro‬ || ‪los libros‬
+‪la casa‬ || ‪las casas‬
+‪un libro‬ || ‪unos libros‬
+‪una casa‬ || ‪unas casas‬
+[/TABLE]
+משפט לזכור:
+[MORISpanishExample] ‪los / unos‬ הולכים עם זכר רבים. ‪las / unas‬ הולכות עם נקבה רבות.
+[Heading3] תרגול קצר
+הפוך לרבים:
+[MORIExerciseItem] ‪el libro‬ → __________________
+[MORIExerciseItem] ‪la casa‬ → __________________
+[MORIExerciseItem] ‪el teléfono‬ → __________________
+[MORIExerciseItem] ‪la mesa‬ → __________________
+[MORIExerciseItem] ‪un amigo‬ → __________________
+[MORIExerciseItem] ‪una amiga‬ → __________________
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להפוך ‪el‬ ל־‪los.‬
+[MORIChecklist] ☐ להפוך ‪la‬ ל־‪las.‬
+[MORIChecklist] ☐ להפוך ‪un‬ ל־‪unos.‬
+[MORIChecklist] ☐ להפוך ‪una‬ ל־‪unas.‬
+[MORIChecklist] ☐ להוסיף ‪s‬ למילים שמסתיימות בתנועה.
+[MORIChecklist] ☐ להוסיף ‪es‬ למילים שמסתיימות בעיצור.
+[MORIChecklist] ☐ להבין שזכר ונקבה נשארים גם ברבים.
+[Heading2] פרק 9: מה יש כאן?
+[MORIChapterSubtitle] ‪HAY‬
+עכשיו נלמד מילה קטנה ושימושית מאוד:
+[MORIKeyword] ‪hay‬
+המילה ‪hay‬ אומרת:
+יש
+בעזרת ‪hay‬ אפשר להגיד מה קיים סביבנו:
+יש ספר. יש קפה. יש תלמידים. יש בית קפה בעיר. אין בעיה.
+[Heading3] ‪hay =‬ יש
+דוגמאות:
+[MORISpanishExample] ‪Hay un libro.‬ יש ספר.
+[MORISpanishExample] ‪Hay una mesa.‬ יש שולחן.
+[MORISpanishExample] ‪Hay café.‬ יש קפה.
+[MORISpanishExample] ‪Hay estudiantes.‬ יש תלמידים.
+שימו לב:
+[MORISpanishExample] ‪hay‬ לא משתנה.
+גם ביחיד וגם ברבים משתמשים באותה מילה:
+[MORISpanishExample] ‪Hay un libro.‬ יש ספר.
+[MORISpanishExample] ‪Hay libros.‬ יש ספרים.
+[MORISpanishExample] ‪Hay estudiantes.‬ יש תלמידים.
+[Heading3] איך אומרים “אין”?
+כדי להגיד “אין”, מוסיפים ‪no‬ לפני ‪hay:‬
+[MORISpanishExample] ‪No hay‬ אין
+דוגמאות:
+[MORISpanishExample] ‪No hay café.‬ אין קפה.
+[MORISpanishExample] ‪No hay tiempo.‬ אין זמן.
+[MORISpanishExample] ‪No hay problema.‬ אין בעיה.
+[Heading3] איך שואלים “יש?”
+כדי לשאול “האם יש?”, משתמשים ב:
+[MORIKeyword] ‪¿Hay...?‬
+דוגמאות:
+[MORISpanishExample] ‪¿Hay café?‬ יש קפה?
+[MORISpanishExample] ‪¿Hay estudiantes?‬ יש תלמידים?
+[MORISpanishExample] ‪¿Hay un restaurante?‬ יש מסעדה?
+תשובות קצרות:
+[MORISpanishExample] ‪Sí, hay.‬ כן, יש.
+[MORISpanishExample] ‪No, no hay.‬ לא, אין.
+[Heading3] ההבדל בין ‪hay‬ ל־‪tengo‬
+בעברית המילה “יש” יכולה להופיע בשני מצבים:
+יש לי ספר. יש ספר על השולחן.
+בספרדית זה לא אותו דבר.
+[MORISpanishExample] ‪Tengo =‬ יש לי ‪Hay =‬ יש / קיים
+דוגמאות:
+[MORISpanishExample] ‪Tengo un libro.‬ יש לי ספר.
+[MORISpanishExample] ‪Hay un libro.‬ יש ספר.
+[MORISpanishExample] ‪Tengo un teléfono.‬ יש לי טלפון.
+[MORISpanishExample] ‪Hay un teléfono en la mesa.‬ יש טלפון על השולחן.
+משפט זהב:
+[MORISpanishExample] ‪Tengo =‬ יש לי ‪Hay =‬ יש / קיים
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Hay café?‬ יש קפה?
+[MORIDialogue] ‪Maya: No, no hay café.‬ לא, אין קפה.
+[MORIDialogue] ‪Daniel: ¿Hay agua?‬ יש מים?
+[MORIDialogue] ‪Maya: Sí, hay agua.‬ כן, יש מים.
+[MORIDialogue] ‪Daniel: ¿Hay un libro en la mesa?‬ יש ספר על השולחן?
+[MORIDialogue] ‪Maya: Sí, hay un libro.‬ כן, יש ספר.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪hay‬ או ‪no hay:‬
+[MORIExerciseItem] __________ ‪un libro.‬ יש ספר.
+[MORIExerciseItem] __________ ‪café.‬ אין קפה.
+[MORIExerciseItem] __________ ‪estudiantes.‬ יש תלמידים.
+[MORIExerciseItem] __________ ‪problema.‬ אין בעיה.
+[MORIExerciseItem] __________ ‪una mesa.‬ יש שולחן.
+[Heading3] משימת סיום יחידה 3
+הסתכל סביבך וכתוב 6 משפטים בספרדית.
+אפשר להשתמש ב:
+[MORISpanishExample] ‪Hay...‬ יש...
+[MORISpanishExample] ‪No hay...‬ אין...
+[MORISpanishExample] ‪Tengo...‬ יש לי...
+דוגמה:
+[MORISpanishExample] ‪Hay un libro.‬ יש ספר.
+[MORISpanishExample] ‪Hay una mesa.‬ יש שולחן.
+[MORISpanishExample] ‪No hay café.‬ אין קפה.
+[MORISpanishExample] ‪Tengo un teléfono.‬ יש לי טלפון.
+עכשיו כתוב:
+[Heading3] אני יכול עכשיו
+בסוף היחידה הזאת אני יכול:
+[MORIChecklist] ☐ להשתמש ב־‪el / la.‬
+[MORIChecklist] ☐ להשתמש ב־‪un / una.‬
+[MORIChecklist] ☐ להפוך מילים בסיסיות לרבים.
+[MORIChecklist] ☐ להשתמש ב־‪los / las / unos / unas.‬
+[MORIChecklist] ☐ להגיד ‪hay =‬ יש.
+[MORIChecklist] ☐ להגיד ‪no hay =‬ אין.
+[MORIChecklist] ☐ להבין את ההבדל בין ‪tengo‬ לבין ‪hay.‬
+[MORIChecklist] ☐ לתאר כמה דברים שנמצאים סביבי.
+[Heading2] חזרה קצרה: יחידה 3
+[Heading3] מה למדתי ביחידה?
+למדתי ארבע מילים ליחיד:
+[MORISpanishExample] ‪el =‬ ה... בזכר ‪la =‬ ה... בנקבה ‪un =‬ אחד / איזשהו בזכר ‪una =‬ אחת / איזושהי בנקבה
+למדתי ארבע מילים לרבים:
+[MORISpanishExample] ‪los =‬ ה... בזכר רבים ‪las =‬ ה... בנקבה רבות ‪unos =‬ כמה בזכר רבים ‪unas =‬ כמה בנקבה רבות
+למדתי גם:
+[MORISpanishExample] ‪hay =‬ יש ‪no hay =‬ אין
+משפטים חשובים:
+[MORISpanishExample] ‪el libro‬ הספר
+[MORISpanishExample] ‪una casa‬ בית / בית אחד
+[MORISpanishExample] ‪los libros‬ הספרים
+[MORISpanishExample] ‪Hay un café.‬ יש קפה / יש בית קפה.
+[MORISpanishExample] ‪No hay problema.‬ אין בעיה.
+[MORIUnitKicker] יחידה 04
+[Heading1] הגיל, המשפחה והדברים שיש לי
+[MORIUnitSubtitle] ‪TENER,‬ מספרים ושייכות
+מטרת היחידה: לדבר על גיל, משפחה ודברים שיש לי.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ להשתמש ב-‪tengo‬ ו-‪tienes‬
+[MORIChecklist] ☐ לשאול ולהגיד גיל
+[MORIChecklist] ☐ לדבר על המשפחה והשייכות
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 10: מה יש לי?
+[MORIChapterSubtitle] הפועל ‪TENER‬
+המילה הכי חשובה בפרק היא:
+[MORISpanishExample] ‪tengo‬ יש לי
+דוגמאות:
+[MORISpanishExample] ‪Tengo un libro.‬ יש לי ספר.
+[MORISpanishExample] ‪Tengo un teléfono.‬ יש לי טלפון.
+[MORISpanishExample] ‪Tengo una casa.‬ יש לי בית.
+[MORISpanishExample] ‪Tengo una amiga.‬ יש לי חברה.
+המבנה פשוט:
+[MORISpanishExample] ‪Tengo +‬ דבר
+[Heading3] איך אומרים “אין לי”?
+כדי להגיד “אין לי”, מוסיפים ‪no‬ לפני הפועל:
+[MORISpanishExample] ‪Tengo tiempo.‬ יש לי זמן.
+[MORISpanishExample] ‪No tengo tiempo.‬ אין לי זמן.
+דוגמאות:
+[MORISpanishExample] ‪No tengo teléfono.‬ אין לי טלפון.
+[MORISpanishExample] ‪No tengo café.‬ אין לי קפה.
+[MORISpanishExample] ‪No tengo hermanos.‬ אין לי אחים.
+[Heading3] איך שואלים “יש לך?”
+כדי לשאול “יש לך?”, משתמשים ב:
+[MORIKeyword] ‪¿Tienes...?‬
+דוגמאות:
+[MORISpanishExample] ‪¿Tienes un teléfono?‬ יש לך טלפון?
+[MORISpanishExample] ‪¿Tienes tiempo?‬ יש לך זמן?
+[MORISpanishExample] ‪¿Tienes hermanos?‬ יש לך אחים?
+תשובות קצרות:
+[MORISpanishExample] ‪Sí, tengo.‬ כן, יש לי.
+[MORISpanishExample] ‪No, no tengo.‬ לא, אין לי.
+[Heading3] הטבלה הקצרה של ‪TENER‬
+בשלב הזה נלמד את הצורות הכי שימושיות:
+[TABLE]
+עברית || ספרדית
+יש לי || ‪tengo‬
+יש לך || ‪tienes‬
+יש לו / יש לה || ‪tiene‬
+יש לנו || ‪tenemos‬
+יש להם / לכן / לכם || ‪tienen‬
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Tengo un libro.‬ יש לי ספר.
+[MORISpanishExample] ‪Tienes tiempo.‬ יש לך זמן.
+[MORISpanishExample] ‪Ella tiene una hermana.‬ יש לה אחות.
+[MORISpanishExample] ‪Tenemos una clase.‬ יש לנו שיעור.
+[Heading3] רעב, צמא וזמן
+בספרדית משתמשים ב־‪tener‬ גם עם רעב וצמא.
+בעברית אומרים:
+אני רעב. אני צמא.
+אבל בספרדית אומרים:
+[MORISpanishExample] ‪Tengo hambre.‬ אני רעב / רעבה.
+[MORISpanishExample] ‪Tengo sed.‬ אני צמא / צמאה.
+גם זמן עובד עם ‪tener:‬
+[MORISpanishExample] ‪Tengo tiempo.‬ יש לי זמן.
+[MORISpanishExample] ‪No tengo tiempo.‬ אין לי זמן.
+[Heading3] טיפ לדוברי עברית
+ישראלים נוטים לתרגם מעברית ולהגיד:
+‪Estoy hambre.‬
+אבל זה לא טבעי בספרדית.
+הדרך הנכונה היא:
+[MORISpanishExample] ‪Tengo hambre.‬ אני רעב / רעבה.
+וגם:
+[MORISpanishExample] ‪Tengo sed.‬ אני צמא / צמאה.
+משפט זהב:
+בספרדית רעב וצמא הם משהו ש“יש לי”, לא משהו ש“אני”.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Tienes tiempo para un café?‬ יש לך זמן לקפה?
+[MORIDialogue] ‪Maya: Sí, tengo tiempo.‬ כן, יש לי זמן.
+[MORIDialogue] ‪Daniel: Perfecto. Tengo hambre.‬ מושלם. אני רעב.
+[MORIDialogue] ‪Maya: Yo tengo sed.‬ אני צמאה.
+[MORIDialogue] ‪Daniel: ¿Hay café?‬ יש קפה?
+[MORIDialogue] ‪Maya: Sí, hay café.‬ כן, יש קפה.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪tengo / tienes / tiene:‬
+[MORIExerciseItem] ‪Yo ________ un teléfono.‬
+[MORIExerciseItem] ‪Tú ________ tiempo.‬
+[MORIExerciseItem] ‪Ella ________ una casa.‬
+[MORIExerciseItem] ‪Yo no ________ café.‬
+[MORIExerciseItem] ¿________ ‪hermanos?‬
+[MORIExerciseItem] תרגם לספרדית:
+יש לי ספר.
+אין לי זמן.
+יש לך טלפון?
+אני רעב.
+אני צמא.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להגיד ‪Tengo...‬
+[MORIChecklist] ☐ להגיד ‪No tengo...‬
+[MORIChecklist] ☐ לשאול ‪¿Tienes...?‬
+[MORIChecklist] ☐ להגיד שיש לי או אין לי זמן.
+[MORIChecklist] ☐ להגיד שאני רעב / צמא בעזרת ‪tener.‬
+[MORIChecklist] ☐ להבין את ההבדל בין ‪hay‬ לבין ‪tengo.‬
+[Heading2] פרק 11: בן כמה אני וכמה יש לי?
+[MORIChapterSubtitle] מספרים, גיל ושאלות עם ‪CUÁNTOS‬
+עכשיו נשתמש ב־‪tener‬ כדי לדבר על גיל.
+בעברית אומרים:
+אני בן 30. אני בת 25.
+בספרדית אומרים:
+[MORISpanishExample] ‪Tengo 30 años.‬ אני בן / בת 30.
+מילולית: יש לי 30 שנים.
+חשוב מאוד:
+לא אומרים:
+‪Soy 30 años.‬
+אומרים:
+‪Tengo 30 años.‬
+[Heading3] איך שואלים גיל?
+[MORISpanishExample] ‪¿Cuántos años tienes?‬ בן כמה אתה? / בת כמה את?
+תשובה:
+[MORISpanishExample] ‪Tengo 30 años.‬ אני בן / בת 30.
+דוגמאות:
+[MORISpanishExample] ‪Tengo 20 años.‬ אני בן / בת 20.
+[MORISpanishExample] ‪Tengo 35 años.‬ אני בן / בת 35.
+[Heading3] המספרים הראשונים
+את המספרים 0-15 כדאי להכיר טוב:
+[TABLE]
+מספר || ספרדית
+0 || ‪cero‬
+1 || ‪uno‬
+2 || ‪dos‬
+3 || ‪tres‬
+4 || ‪cuatro‬
+5 || ‪cinco‬
+6 || ‪seis‬
+7 || ‪siete‬
+8 || ‪ocho‬
+9 || ‪nueve‬
+10 || ‪diez‬
+11 || ‪once‬
+12 || ‪doce‬
+13 || ‪trece‬
+14 || ‪catorce‬
+15 || ‪quince‬
+[/TABLE]
+אל תנסה להבין אותם יותר מדי. פשוט קרא אותם בקול כמה פעמים.
+[Heading3] 16-19: מתחילים לראות דפוס
+[TABLE]
+מספר || ספרדית
+16 || ‪dieciséis‬
+17 || ‪diecisiete‬
+18 || ‪dieciocho‬
+19 || ‪diecinueve‬
+[/TABLE]
+אפשר לחשוב על זה כמו:
+‪dieci + seis 16‬
+‪dieci + siete 17‬
+[Heading3] ‪20-29: veinti +‬ מספר
+[TABLE]
+מספר || ספרדית
+20 || ‪veinte‬
+21 || ‪veintiuno‬
+22 || ‪veintidós‬
+23 || ‪veintitrés‬
+24 || ‪veinticuatro‬
+25 || ‪veinticinco‬
+26 || ‪veintiséis‬
+27 || ‪veintisiete‬
+28 || ‪veintiocho‬
+29 || ‪veintinueve‬
+[/TABLE]
+טיפ:
+מ־21 עד 29 תחשוב:
+[MORISpanishExample] ‪veinti +‬ מספר קטן
+[Heading3] מ־30 ומעלה: עשרות + ‪y +‬ מספר
+מ־30 עד 99 המבנה מאוד נוח:
+עשרות + ‪y +‬ מספר קטן
+[TABLE]
+מספר || ספרדית
+30 || ‪treinta‬
+40 || ‪cuarenta‬
+50 || ‪cincuenta‬
+60 || ‪sesenta‬
+70 || ‪setenta‬
+80 || ‪ochenta‬
+90 || ‪noventa‬
+[/TABLE]
+דוגמאות:
+‪treinta y uno 31‬
+‪cuarenta y cinco 45‬
+‪sesenta y ocho 68‬
+‪noventa y nueve 99‬
+[Heading3] טיפ לדוברי עברית
+אל תתרגל מספרים רק לפי הסדר:
+‪uno, dos, tres...‬
+זה עוזר לספור, אבל פחות עוזר להבין מספרים אמיתיים.
+עדיף לתרגל גם מספרים קופצים:
+7, 14, 22, 35, 48, 61, 79, 90
+ככה המוח לומד לזהות מספרים ולא רק לדקלם אותם.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Cuántos años tienes?‬ בן כמה אתה / את?
+[MORIDialogue] ‪Maya: Tengo 25 años. ¿Y tú?‬ אני בת 25. ואתה?
+[MORIDialogue] ‪Daniel: Tengo 30 años.‬ אני בן 30.
+[MORIDialogue] ‪Maya: ¿Tienes hermanos?‬ יש לך אחים?
+[MORIDialogue] ‪Daniel: Sí, tengo un hermano.‬ כן, יש לי אח.
+[Heading3] תרגול קצר
+[MORIExerciseItem] כתוב בספרדית:
+[MORIExerciseItem] 7 = __________________
+[MORIExerciseItem] 12 = __________________
+[MORIExerciseItem] 16 = __________________
+[MORIExerciseItem] 22 = __________________
+[MORIExerciseItem] 30 = __________________
+[MORIExerciseItem] 35 = __________________
+ענה על עצמך:
+‪¿Cuántos años tienes?‬
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להבין מספרים בסיסיים בספרדית.
+[MORIChecklist] ☐ להגיד את הגיל שלי.
+[MORIChecklist] ☐ לשאול אדם אחר בן כמה הוא.
+[MORIChecklist] ☐ להגיד ‪Tengo ___ años.‬
+[MORIChecklist] ☐ לזכור שלא אומרים ‪Soy 30 años.‬
+[Heading2] פרק 12: המשפחה שלי
+[MORIChapterSubtitle] משפחה ושייכות
+עכשיו נחבר את מה שלמדנו:
+[MORISpanishExample] ‪tener‬ יש לי
+מספרים 1, 2, 3...
+משפחה אמא, אבא, אח, אחות
+ושייכות:
+שלי שלך שלו / שלה שלנו
+בסוף הפרק תוכל להגיד:
+[MORISpanishExample] ‪Tengo una hermana.‬ יש לי אחות.
+[MORISpanishExample] ‪No tengo hermanos.‬ אין לי אחים.
+[MORISpanishExample] ‪Mi familia es pequeña.‬ המשפחה שלי קטנה.
+[MORISpanishExample] ‪Mi hermano es estudiante.‬ אח שלי תלמיד.
+[Heading3] מילים חשובות על משפחה
+[TABLE]
+ספרדית || עברית
+‪familia‬ || משפחה
+‪madre‬ || אמא
+‪padre‬ || אבא
+‪padres‬ || הורים
+‪hermano‬ || אח
+‪hermana‬ || אחות
+‪hermanos‬ || אחים / אחים ואחיות
+‪amigo‬ || חבר
+‪amiga‬ || חברה
+[/TABLE]
+[Heading3] לדבר על משפחה עם ‪TENER‬
+דוגמאות:
+[MORISpanishExample] ‪Tengo una familia grande.‬ יש לי משפחה גדולה.
+[MORISpanishExample] ‪Tengo un hermano.‬ יש לי אח.
+[MORISpanishExample] ‪Tengo una hermana.‬ יש לי אחות.
+[MORISpanishExample] ‪No tengo hermanos.‬ אין לי אחים.
+שאלה שימושית:
+[MORISpanishExample] ‪¿Tienes hermanos?‬ יש לך אחים?
+תשובות:
+[MORISpanishExample] ‪Sí, tengo un hermano.‬ כן, יש לי אח.
+[MORISpanishExample] ‪No, no tengo hermanos.‬ לא, אין לי אחים.
+[Heading3] שלי, שלך, שלו / שלה
+בספרדית:
+[TABLE]
+ספרדית || עברית
+‪mi‬ || שלי
+‪tu‬ || שלך
+‪su‬ || שלו / שלה
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪mi familia‬ המשפחה שלי
+[MORISpanishExample] ‪mi hermano‬ אח שלי
+[MORISpanishExample] ‪tu madre‬ אמא שלך
+[MORISpanishExample] ‪su padre‬ אבא שלו / שלה
+שימו לב:
+לא אומרים:
+‪la mi familia‬
+אומרים:
+‪mi familia‬
+[Heading3] ברבים: ‪mis, tus, sus‬
+אם המילה ברבים, מוסיפים ‪s:‬
+[TABLE]
+יחיד || רבים
+‪mi‬ || ‪mis‬
+‪tu‬ || ‪tus‬
+‪su‬ || ‪sus‬
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪mi hermano‬ אח שלי
+[MORISpanishExample] ‪mis hermanos‬ האחים שלי
+[MORISpanishExample] ‪tu amiga‬ חברה שלך
+[MORISpanishExample] ‪tus amigas‬ החברות שלך
+[MORISpanishExample] ‪su padre‬ אבא שלו / שלה
+[MORISpanishExample] ‪sus padres‬ ההורים שלו / שלה
+[Heading3] שלנו: ‪nuestro / nuestra‬
+כדי להגיד “שלנו”, משתמשים ב:
+[TABLE]
+ספרדית || מתי משתמשים?
+‪nuestro‬ || לפני שם עצם בזכר יחיד
+‪nuestra‬ || לפני שם עצם בנקבה יחיד
+‪nuestros‬ || לפני שם עצם בזכר רבים
+‪nuestras‬ || לפני שם עצם בנקבה רבים
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪nuestro padre‬ אבא שלנו
+[MORISpanishExample] ‪nuestra madre‬ אמא שלנו
+[MORISpanishExample] ‪nuestra familia‬ המשפחה שלנו
+ביחיד משתמשים ב-‪nuestro / nuestra.‬ ברבים אותו דפוס ממשיך עם ‪nuestros / nuestras.‬
+[Heading3] איך אומרים “של דניאל”?
+כדי להגיד “של מישהו”, משתמשים ב־‪de.‬
+דוגמאות:
+[MORISpanishExample] ‪la familia de Daniel‬ המשפחה של דניאל
+[MORISpanishExample] ‪el hermano de Maya‬ האח של מאיה
+לא אומרים כמו באנגלית:
+‪Daniel's familia‬
+בספרדית אומרים:
+‪la familia de Daniel‬
+[Heading3] טיפ לדוברי עברית
+בעברית אנחנו אומרים:
+אמא שלי אח שלי המשפחה שלי
+בספרדית הסדר הפוך:
+[MORISpanishExample] ‪mi madre‬ אמא שלי
+[MORISpanishExample] ‪mi hermano‬ אח שלי
+[MORISpanishExample] ‪mi familia‬ המשפחה שלי
+כלומר, מילת השייכות באה לפני שם העצם.
+משפט לזכור:
+[MORISpanishExample] ‪mi‬ באה לפני המילה.
+[Heading3] מיני טקסט
+[MORISpanishExample] ‪Hola, soy Maya.‬ שלום, אני מאיה.
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Tengo una familia pequeña.‬ יש לי משפחה קטנה.
+[MORISpanishExample] ‪Tengo un hermano.‬ יש לי אח.
+[MORISpanishExample] ‪Mi hermano es estudiante.‬ אח שלי תלמיד.
+[MORISpanishExample] ‪Mi madre es profesora.‬ אמא שלי מורה.
+[MORISpanishExample] ‪Nuestra familia es tranquila.‬ המשפחה שלנו רגועה.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪mi / tu / su:‬
+[MORIExerciseItem] ________ ‪familia es grande.‬ המשפחה שלי גדולה.
+[MORIExerciseItem] ________ ‪hermano es estudiante.‬ אח שלך תלמיד.
+[MORIExerciseItem] ________ ‪madre es profesora.‬ אמא שלו / שלה מורה.
+[MORIExerciseItem] ________ ‪amiga está en casa.‬ החברה שלי בבית.
+[MORIExerciseItem] תרגם לספרדית:
+יש לי אח.
+אין לי אחים.
+המשפחה שלי קטנה.
+אמא שלי מורה.
+המשפחה שלנו רגועה.
+[Heading3] משימת סיום יחידה 4
+[MORIExerciseItem] כתוב 6 משפטים על עצמך ועל המשפחה שלך.
+אפשר להשתמש בתבניות:
+[MORISpanishExample] ‪Tengo ___ años.‬ אני בן / בת ___.
+[MORISpanishExample] ‪Tengo una familia ___.‬ יש לי משפחה ___.
+[MORISpanishExample] ‪Tengo un hermano / una hermana.‬ יש לי אח / אחות.
+[MORISpanishExample] ‪No tengo hermanos.‬ אין לי אחים.
+[MORISpanishExample] ‪Mi madre es ___.‬ אמא שלי ___.
+[MORISpanishExample] ‪Nuestra familia es ___.‬ המשפחה שלנו ___.
+עכשיו כתוב:
+[Heading3] אני יכול עכשיו
+בסוף היחידה הזאת אני יכול:
+[MORIChecklist] ☐ להשתמש ב־‪tengo.‬
+[MORIChecklist] ☐ להגיד מה יש לי ומה אין לי.
+[MORIChecklist] ☐ לשאול ‪¿Tienes...?‬
+[MORIChecklist] ☐ להגיד את הגיל שלי.
+[MORIChecklist] ☐ לשאול בן כמה מישהו.
+[MORIChecklist] ☐ לדבר על המשפחה שלי.
+[MORIChecklist] ☐ להשתמש ב־‪mi / tu / su.‬
+[MORIChecklist] ☐ להשתמש בסיסית ב־‪nuestro / nuestra.‬
+[Heading2] חזרה קצרה: יחידה 4
+[Heading3] מה למדתי ביחידה?
+למדתי את הפועל:
+[MORISpanishExample] ‪tener‬ יש ל...
+הצורות החשובות:
+[MORISpanishExample] ‪tengo =‬ יש לי ‪tienes =‬ יש לך ‪tiene =‬ יש לו / לה ‪tenemos =‬ יש לנו ‪tienen =‬ יש להם / לכן / לכם
+משפטים חשובים:
+[MORISpanishExample] ‪Tengo un teléfono.‬ יש לי טלפון.
+[MORISpanishExample] ‪No tengo tiempo.‬ אין לי זמן.
+[MORISpanishExample] ‪Tengo hambre.‬ אני רעב / רעבה.
+[MORISpanishExample] ‪Tengo sed.‬ אני צמא / צמאה.
+[MORISpanishExample] ‪Tengo 30 años.‬ אני בן / בת 30.
+[MORISpanishExample] ‪Tengo una hermana.‬ יש לי אחות.
+[MORISpanishExample] ‪Mi familia es pequeña.‬ המשפחה שלי קטנה.
+[MORIUnitKicker] יחידה 05
+[Heading1] איפה אני ומה יש סביבי?
+[MORIUnitSubtitle] ‪ESTAR, HAY‬ ומילות מקום
+מטרת היחידה: לתאר מקום, מצב זמני וסביבה קרובה.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ להגיד איפה אני ואיך אני מרגיש
+[MORIChecklist] ☐ להבדיל בין ‪HAY‬ ל-‪ESTAR‬
+[MORIChecklist] ☐ לתאר בית, חדר ועיר
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 13: איפה אני ואיך אני מרגיש עכשיו?
+[MORIChapterSubtitle] הפועל ‪ESTAR‬
+עד עכשיו למדת להשתמש ב־‪ser:‬
+[MORISpanishExample] ‪Soy Daniel.‬ אני דניאל.
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Soy estudiante.‬ אני תלמיד / תלמידה.
+עכשיו נלמד פועל חשוב נוסף:
+[MORIKeyword] ‪estar‬
+גם ‪estar‬ יכול להיות “להיות”, אבל משתמשים בו בעיקר כדי להגיד:
+איפה אני נמצא עכשיו. איך אני מרגיש עכשיו.
+[Heading3] הכלל הכי פשוט
+כדי לא להתבלבל, זכור את זה:
+[MORISpanishExample] ‪ser =‬ מי אני / מה אני / מאיפה אני ‪estar =‬ איפה אני / איך אני עכשיו
+דוגמאות:
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Estoy en Israel.‬ אני בישראל.
+[MORISpanishExample] ‪Soy profesor.‬ אני מורה.
+[MORISpanishExample] ‪Estoy en la escuela.‬ אני בבית הספר.
+[MORISpanishExample] ‪Soy una persona tranquila.‬ אני אדם רגוע.
+[MORISpanishExample] ‪Estoy cansado.‬ אני עייף עכשיו.
+[Heading3] הטבלה הקצרה של ‪ESTAR‬
+[TABLE]
+עברית || ספרדית
+אני || ‪estoy‬
+אתה / את || ‪estás‬
+הוא / היא || ‪está‬
+אנחנו || ‪estamos‬
+הם / הן / אתם || ‪están‬
+[/TABLE]
+שימו לב לאקצנטים:
+‪estás está están‬
+[Heading3] איך אומרים איפה אני?
+המבנה הוא:
+[MORISpanishExample] ‪estar + en +‬ מקום
+המילה ‪en‬ בדרך כלל אומרת:
+ב... / בתוך / על
+דוגמאות:
+[MORISpanishExample] ‪Estoy en casa.‬ אני בבית.
+[MORISpanishExample] ‪Estoy en la escuela.‬ אני בבית הספר.
+[MORISpanishExample] ‪Estoy en el trabajo.‬ אני בעבודה.
+[MORISpanishExample] ‪Estoy en un restaurante.‬ אני במסעדה.
+[MORISpanishExample] ‪Estoy en Israel.‬ אני בישראל.
+[Heading3] איך שואלים “איפה אתה?”
+[MORISpanishExample] ‪¿Dónde estás?‬ איפה אתה / את?
+תשובה:
+[MORISpanishExample] ‪Estoy en casa.‬ אני בבית.
+עוד דוגמאות:
+[MORISpanishExample] ‪¿Dónde está Maya?‬ איפה מאיה?
+[MORISpanishExample] ‪Maya está en la escuela.‬ מאיה בבית הספר.
+[MORISpanishExample] ‪¿Dónde están los estudiantes?‬ איפה התלמידים?
+[MORISpanishExample] ‪Los estudiantes están en clase.‬ התלמידים בשיעור.
+[Heading3] איך אומרים איך אני מרגיש עכשיו?
+משתמשים ב־‪estar‬ גם כדי לדבר על מצב עכשיו.
+דוגמאות:
+[MORISpanishExample] ‪Estoy bien.‬ אני בסדר.
+[MORISpanishExample] ‪Estoy mal.‬ אני לא בסדר.
+[MORISpanishExample] ‪Estoy cansado.‬ אני עייף.
+[MORISpanishExample] ‪Estoy cansada.‬ אני עייפה.
+[MORISpanishExample] ‪Estoy ocupado.‬ אני עסוק.
+[MORISpanishExample] ‪Estoy ocupada.‬ אני עסוקה.
+[MORISpanishExample] ‪Estoy feliz.‬ אני שמח / שמחה.
+[MORISpanishExample] ‪Estoy triste.‬ אני עצוב / עצובה.
+[Heading3] זכר ונקבה עם ‪ESTAR‬
+חלק מהמילים משתנות לפי זכר ונקבה.
+גבר אומר:
+[MORISpanishExample] ‪Estoy cansado.‬ אני עייף.
+[MORISpanishExample] ‪Estoy ocupado.‬ אני עסוק.
+אישה אומרת:
+[MORISpanishExample] ‪Estoy cansada.‬ אני עייפה.
+[MORISpanishExample] ‪Estoy ocupada.‬ אני עסוקה.
+אבל יש מילים שלא משתנות:
+[MORISpanishExample] ‪Estoy bien.‬ אני בסדר.
+[MORISpanishExample] ‪Estoy mal.‬ אני לא בסדר.
+[MORISpanishExample] ‪Estoy feliz.‬ אני שמח / שמחה.
+[MORISpanishExample] ‪Estoy triste.‬ אני עצוב / עצובה.
+[Heading3] איך שואלים “מה שלומך?”
+[MORISpanishExample] ‪¿Cómo estás?‬ מה שלומך?
+תשובות שימושיות:
+[MORISpanishExample] ‪Estoy bien.‬ אני בסדר.
+[MORISpanishExample] ‪Estoy muy bien.‬ שלומי טוב מאוד.
+[MORISpanishExample] ‪Estoy un poco cansado.‬ אני קצת עייף.
+[MORISpanishExample] ‪Estoy un poco cansada.‬ אני קצת עייפה.
+[Heading3] טיפ לדוברי עברית
+בעברית אנחנו משתמשים הרבה ב“אני”:
+אני בבית. אני עייף. אני בסדר.
+אבל בספרדית צריך לבחור נכון בין ‪ser‬ ו־‪estar.‬
+אם מדובר בזהות, מוצא או מקצוע:
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+אם מדובר במיקום או מצב עכשיו:
+[MORISpanishExample] ‪Estoy en casa.‬ אני בבית.
+[MORISpanishExample] ‪Estoy cansado.‬ אני עייף עכשיו.
+משפט זהב:
+[MORISpanishExample] ‪ser =‬ מי אני ‪estar =‬ איפה אני / איך אני עכשיו
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: Hola, Maya. ¿Cómo estás?‬ היי מאיה. מה שלומך?
+[MORIDialogue] ‪Maya: Estoy bien, gracias. ¿Y tú?‬ אני בסדר, תודה. ואתה?
+[MORIDialogue] ‪Daniel: Estoy un poco cansado.‬ אני קצת עייף.
+[MORIDialogue] ‪Maya: ¿Dónde estás?‬ איפה אתה?
+[MORIDialogue] ‪Daniel: Estoy en casa. ¿Y tú?‬ אני בבית. ואת?
+[MORIDialogue] ‪Maya: Estoy en la escuela.‬ אני בבית הספר.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪estoy / estás / está:‬
+[MORIExerciseItem] ‪Yo ________ en casa.‬
+[MORIExerciseItem] ‪Tú ________ bien.‬
+[MORIExerciseItem] ‪Ella ________ en la escuela.‬
+[MORIExerciseItem] ‪Daniel ________ cansado.‬
+[MORIExerciseItem] ‪¿Dónde ________?‬
+[MORIExerciseItem] תרגם לספרדית:
+אני בבית.
+אני בסדר.
+אני עייף.
+היא בבית הספר.
+איפה אתה?
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להשתמש ב־‪estoy.‬
+[MORIChecklist] ☐ להגיד איפה אני נמצא.
+[MORIChecklist] ☐ לשאול ‪¿Dónde estás?‬
+[MORIChecklist] ☐ להגיד איך אני מרגיש עכשיו.
+[MORIChecklist] ☐ לשאול ‪¿Cómo estás?‬
+[MORIChecklist] ☐ להבין את ההבדל הבסיסי בין ‪ser‬ ל־‪estar.‬
+[Heading2] פרק 14: הבית והחדר שלי
+[MORIChapterSubtitle] לתאר מקום עם ‪HAY‬ ו־‪ESTAR‬
+כבר פגשת את המילה:
+[MORISpanishExample] ‪hay‬ יש
+עכשיו נשתמש בה כדי לתאר חדר ובית.
+נלמד להגיד:
+יש מיטה בחדר. יש שולחן בחדר. הספר על השולחן. הטלפון בחדר. הבית שלי גדול / קטן.
+[Heading3] מילים חשובות לבית ולחדר
+[TABLE]
+ספרדית || עברית
+‪casa‬ || בית
+‪habitación‬ || חדר
+‪cocina‬ || מטבח
+‪baño‬ || שירותים / מקלחת
+‪salón‬ || סלון
+‪mesa‬ || שולחן
+‪silla‬ || כיסא
+‪cama‬ || מיטה
+‪libro‬ || ספר
+‪teléfono‬ || טלפון
+‪ventana‬ || חלון
+‪puerta‬ || דלת
+[/TABLE]
+[Heading3] ‪Hay =‬ יש
+משתמשים ב־‪hay‬ כדי להגיד מה יש במקום.
+דוגמאות:
+[MORISpanishExample] ‪Hay una mesa.‬ יש שולחן.
+[MORISpanishExample] ‪Hay una cama.‬ יש מיטה.
+[MORISpanishExample] ‪Hay un libro.‬ יש ספר.
+[MORISpanishExample] ‪Hay dos sillas.‬ יש שני כיסאות.
+[MORISpanishExample] ‪No hay televisión.‬ אין טלוויזיה.
+[Heading3] ‪Hay + en‬
+כדי להגיד איפה יש משהו, משתמשים ב:
+[MORISpanishExample] ‪Hay +‬ דבר + ‪en +‬ מקום
+דוגמאות:
+[MORISpanishExample] ‪Hay una cama en mi habitación.‬ יש מיטה בחדר שלי.
+[MORISpanishExample] ‪Hay una mesa en la cocina.‬ יש שולחן במטבח.
+[MORISpanishExample] ‪Hay un libro en la mesa.‬ יש ספר על השולחן.
+[MORISpanishExample] ‪Hay dos sillas en el salón.‬ יש שני כיסאות בסלון.
+[Heading3] ‪ESTAR =‬ איפה הדבר נמצא
+אם אנחנו מדברים על דבר מסוים, משתמשים ב־‪estar.‬
+השווה:
+[MORISpanishExample] ‪Hay un libro en la mesa.‬ יש ספר על השולחן.
+[MORISpanishExample] ‪El libro está en la mesa.‬ הספר נמצא על השולחן.
+במשפט הראשון אנחנו אומרים שיש ספר. במשפט השני אנחנו מדברים על הספר המסוים.
+עוד דוגמאות:
+[MORISpanishExample] ‪Hay un teléfono en la habitación.‬ יש טלפון בחדר.
+[MORISpanishExample] ‪El teléfono está en la habitación.‬ הטלפון נמצא בחדר.
+[MORISpanishExample] ‪Hay una mesa en la cocina.‬ יש שולחן במטבח.
+[MORISpanishExample] ‪La mesa está en la cocina.‬ השולחן נמצא במטבח.
+[Heading3] מילות מקום בסיסיות
+[TABLE]
+ספרדית || עברית
+‪en‬ || ב / על
+‪cerca de‬ || קרוב ל...
+‪lejos de‬ || רחוק מ...
+‪con‬ || עם
+‪sin‬ || בלי
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪El libro está en la mesa.‬ הספר על השולחן.
+[MORISpanishExample] ‪Mi casa está cerca de la escuela.‬ הבית שלי קרוב לבית הספר.
+[MORISpanishExample] ‪Mi casa está lejos del centro.‬ הבית שלי רחוק מהמרכז.
+[MORISpanishExample] ‪Café con leche.‬ קפה עם חלב.
+[MORISpanishExample] ‪Café sin azúcar.‬ קפה בלי סוכר.
+[Heading3] איך מתארים את הבית?
+אפשר להשתמש ב־‪ser‬ כדי לתאר איך הבית באופן כללי:
+[MORISpanishExample] ‪Mi casa es grande.‬ הבית שלי גדול.
+[MORISpanishExample] ‪Mi casa es pequeña.‬ הבית שלי קטן.
+[MORISpanishExample] ‪Mi habitación es bonita.‬ החדר שלי יפה.
+[MORISpanishExample] ‪La cocina es moderna.‬ המטבח מודרני.
+זכור:
+[MORISpanishExample] ‪ser =‬ תיאור כללי ‪estar =‬ מיקום / מצב עכשיו ‪hay =‬ יש / קיים
+[Heading3] טיפ לדוברי עברית
+בעברית אנחנו אומרים:
+הספר על השולחן.
+בספרדית צריך פועל:
+‪El libro está en la mesa.‬
+לא אומרים:
+‪El libro en la mesa.‬
+משפט זהב:
+בספרדית גם מיקום צריך פועל.
+[Heading3] מיני טקסט
+[MORISpanishExample] ‪Mi casa es pequeña, pero bonita.‬ הבית שלי קטן, אבל יפה.
+[MORISpanishExample] ‪En mi casa hay una cocina, un salón y dos habitaciones.‬ בבית שלי יש מטבח, סלון ושני חדרים.
+[MORISpanishExample] ‪Mi habitación es tranquila.‬ החדר שלי שקט.
+[MORISpanishExample] ‪Hay una cama, una mesa y dos sillas.‬ יש מיטה, שולחן ושני כיסאות.
+[MORISpanishExample] ‪El libro está en la mesa.‬ הספר נמצא על השולחן.
+[MORISpanishExample] ‪Mi teléfono está en la habitación.‬ הטלפון שלי נמצא בחדר.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪hay‬ או ‪está:‬
+[MORIExerciseItem] ________ ‪una mesa en mi habitación.‬ יש שולחן בחדר שלי.
+[MORIExerciseItem] ‪El libro ________ en la mesa.‬ הספר על השולחן.
+[MORIExerciseItem] ________ ‪dos sillas en la cocina.‬ יש שני כיסאות במטבח.
+[MORIExerciseItem] ‪El teléfono ________ en la habitación.‬ הטלפון בחדר.
+[MORIExerciseItem] תרגם לספרדית:
+יש מיטה בחדר שלי.
+הספר על השולחן.
+הבית שלי קטן.
+יש שני כיסאות.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ לתאר מה יש בחדר שלי.
+[MORIChecklist] ☐ להשתמש ב־‪hay‬ לתיאור מקום.
+[MORIChecklist] ☐ להשתמש ב־‪está‬ כדי להגיד איפה דבר נמצא.
+[MORIChecklist] ☐ להגיד ‪Mi casa es...‬
+[MORIChecklist] ☐ להבין את ההבדל בין ‪hay‬ לבין ‪está.‬
+[Heading2] פרק 15: העיר שלי ומקומות בעיר
+[MORIChapterSubtitle] לתאר עיר ולשאול איפה מקום נמצא
+עכשיו נצא מהבית אל העיר.
+נלמד לדבר על מקומות כמו:
+בית קפה מסעדה בית ספר סופרמרקט תחנת אוטובוס פארק מרכז העיר
+המטרה היא להשתמש בספרדית כדי לתאר עיר בצורה פשוטה.
+[Heading3] מילים חשובות בעיר
+[TABLE]
+ספרדית || עברית
+‪ciudad‬ || עיר
+‪calle‬ || רחוב
+‪centro‬ || מרכז
+‪café‬ || בית קפה / קפה
+‪restaurante‬ || מסעדה
+‪supermercado‬ || סופרמרקט
+‪escuela‬ || בית ספר
+‪universidad‬ || אוניברסיטה
+‪parque‬ || פארק
+‪hospital‬ || בית חולים
+‪estación‬ || תחנה
+‪parada de autobús‬ || תחנת אוטובוס
+[/TABLE]
+[Heading3] ‪Hay‬ בעיר
+כדי להגיד מה יש בעיר, משתמשים ב־‪hay:‬
+[MORISpanishExample] ‪Hay un café.‬ יש בית קפה.
+[MORISpanishExample] ‪Hay un restaurante.‬ יש מסעדה.
+[MORISpanishExample] ‪Hay una escuela.‬ יש בית ספר.
+[MORISpanishExample] ‪Hay un parque.‬ יש פארק.
+[MORISpanishExample] ‪Hay muchos restaurantes.‬ יש הרבה מסעדות.
+[MORISpanishExample] ‪No hay universidad.‬ אין אוניברסיטה.
+[Heading3] איפה המקום נמצא?
+כדי להגיד איפה מקום נמצא, משתמשים ב־‪estar:‬
+[MORISpanishExample] ‪El café está en el centro.‬ בית הקפה נמצא במרכז.
+[MORISpanishExample] ‪La escuela está cerca de mi casa.‬ בית הספר קרוב לבית שלי.
+[MORISpanishExample] ‪El supermercado está lejos.‬ הסופרמרקט רחוק.
+[MORISpanishExample] ‪La parada de autobús está en la calle principal.‬ תחנת האוטובוס נמצאת ברחוב הראשי.
+[Heading3] קרוב ורחוק
+[TABLE]
+ספרדית || עברית
+‪cerca‬ || קרוב
+‪lejos‬ || רחוק
+‪cerca de‬ || קרוב ל...
+‪lejos de‬ || רחוק מ...
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪El café está cerca.‬ בית הקפה קרוב.
+[MORISpanishExample] ‪El hospital está lejos.‬ בית החולים רחוק.
+[MORISpanishExample] ‪La escuela está cerca de mi casa.‬ בית הספר קרוב לבית שלי.
+[MORISpanishExample] ‪El centro está lejos de mi casa.‬ המרכז רחוק מהבית שלי.
+[Heading3] איך שואלים איפה מקום נמצא?
+[MORISpanishExample] ‪¿Dónde está...?‬ איפה נמצא...?
+דוגמאות:
+[MORISpanishExample] ‪¿Dónde está el café?‬ איפה בית הקפה?
+[MORISpanishExample] ‪¿Dónde está el supermercado?‬ איפה הסופרמרקט?
+[MORISpanishExample] ‪¿Dónde está la parada de autobús?‬ איפה תחנת האוטובוס?
+תשובות אפשריות:
+[MORISpanishExample] ‪Está cerca.‬ זה קרוב.
+[MORISpanishExample] ‪Está lejos.‬ זה רחוק.
+[MORISpanishExample] ‪Está en el centro.‬ זה במרכז.
+[MORISpanishExample] ‪Está cerca de la escuela.‬ זה קרוב לבית הספר.
+[Heading3] ‪mi ciudad‬
+אפשר לתאר את העיר שלך במשפטים פשוטים:
+[MORISpanishExample] ‪Mi ciudad es grande.‬ העיר שלי גדולה.
+[MORISpanishExample] ‪Mi ciudad es pequeña.‬ העיר שלי קטנה.
+[MORISpanishExample] ‪En mi ciudad hay muchos cafés.‬ בעיר שלי יש הרבה בתי קפה.
+[MORISpanishExample] ‪Hay un parque cerca de mi casa.‬ יש פארק קרוב לבית שלי.
+[MORISpanishExample] ‪El supermercado está cerca.‬ הסופרמרקט קרוב.
+[Heading3] טיפ לדוברי עברית
+בעברית אפשר להגיד:
+יש סופר ליד הבית.
+בספרדית כדאי לבנות את זה בצורה פשוטה:
+[MORISpanishExample] ‪Hay un supermercado cerca de mi casa.‬ יש סופרמרקט קרוב לבית שלי.
+אל תנסה לתרגם כל מילה. בנה משפט ספרדי פשוט:
+[MORISpanishExample] ‪Hay +‬ מקום + ‪cerca de +‬ מקום אחר
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Dónde está el café?‬ איפה בית הקפה?
+[MORIDialogue] ‪Maya: Está cerca de la escuela.‬ הוא קרוב לבית הספר.
+[MORIDialogue] ‪Daniel: ¿Hay un supermercado cerca?‬ יש סופרמרקט קרוב?
+[MORIDialogue] ‪Maya: Sí, hay un supermercado en el centro.‬ כן, יש סופרמרקט במרכז.
+[MORIDialogue] ‪Daniel: Perfecto. ¿Y la parada de autobús?‬ מושלם. ותחנת האוטובוס?
+[MORIDialogue] ‪Maya: Está en la calle principal.‬ היא ברחוב הראשי.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪hay / está / es:‬
+[MORIExerciseItem] ‪Mi ciudad ________ grande.‬ העיר שלי גדולה.
+[MORIExerciseItem] ________ ‪un café en el centro.‬ יש בית קפה במרכז.
+[MORIExerciseItem] ‪El supermercado ________ cerca.‬ הסופרמרקט קרוב.
+[MORIExerciseItem] ‪La escuela ________ cerca de mi casa.‬ בית הספר קרוב לבית שלי.
+[MORIExerciseItem] ________ ‪muchos restaurantes.‬ יש הרבה מסעדות.
+[MORIExerciseItem] תרגם לספרדית:
+יש פארק בעיר שלי.
+בית הקפה קרוב.
+העיר שלי קטנה.
+איפה הסופרמרקט?
+יש תחנת אוטובוס במרכז.
+[Heading3] משימת סיום יחידה 5
+[MORIExerciseItem] כתוב 8 משפטים על הבית, החדר או העיר שלך.
+אפשר להשתמש בתבניות:
+[MORISpanishExample] ‪Estoy en...‬ אני ב...
+[MORISpanishExample] ‪Mi casa es...‬ הבית שלי...
+[MORISpanishExample] ‪En mi habitación hay...‬ בחדר שלי יש...
+[MORISpanishExample] ‪El libro está en...‬ הספר נמצא ב/על...
+[MORISpanishExample] ‪Mi ciudad es...‬ העיר שלי...
+[MORISpanishExample] ‪En mi ciudad hay...‬ בעיר שלי יש...
+[MORISpanishExample] ‪El supermercado está cerca/lejos.‬ הסופרמרקט קרוב / רחוק.
+עכשיו כתוב:
+[Heading3] אני יכול עכשיו
+בסוף היחידה הזאת אני יכול:
+[MORIChecklist] ☐ להגיד איפה אני נמצא.
+[MORIChecklist] ☐ להגיד איך אני מרגיש עכשיו.
+[MORIChecklist] ☐ לתאר מה יש בבית או בחדר.
+[MORIChecklist] ☐ להגיד איפה דבר נמצא.
+[MORIChecklist] ☐ להשתמש ב־‪hay‬ ו־‪está‬ בצורה בסיסית.
+[MORIChecklist] ☐ לתאר את העיר שלי.
+[MORIChecklist] ☐ לשאול איפה מקום נמצא.
+[MORIChecklist] ☐ להשתמש ב־‪cerca de‬ ו־‪lejos de.‬
+[Heading2] חזרה קצרה: יחידה 5
+[Heading3] מה למדתי ביחידה?
+למדתי את הפועל:
+[MORISpanishExample] ‪estar‬ להיות, במובן של מיקום או מצב עכשיו
+משפטים חשובים:
+[MORISpanishExample] ‪Estoy en casa.‬ אני בבית.
+[MORISpanishExample] ‪Estoy bien.‬ אני בסדר.
+[MORISpanishExample] ‪Estoy cansado / cansada.‬ אני עייף / עייפה.
+[MORISpanishExample] ‪¿Dónde estás?‬ איפה אתה / את?
+[MORISpanishExample] ‪¿Cómo estás?‬ מה שלומך?
+למדתי לתאר מקום:
+[MORISpanishExample] ‪Hay una mesa.‬ יש שולחן.
+[MORISpanishExample] ‪El libro está en la mesa.‬ הספר על השולחן.
+[MORISpanishExample] ‪Mi casa es pequeña.‬ הבית שלי קטן.
+[MORISpanishExample] ‪En mi ciudad hay un parque.‬ בעיר שלי יש פארק.
+[MORISpanishExample] ‪El café está cerca.‬ בית הקפה קרוב.
+[MORIUnitKicker] יחידה 06
+[Heading1] היום שלי
+[MORIUnitSubtitle] פעולות, שגרה והרגלים
+מטרת היחידה: לעבור ממשפטי תיאור למשפטי פעולה ולדבר על היום שלי.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ להטות פעלים רגילים בהווה
+[MORIChecklist] ☐ לתאר שגרת בוקר וערב
+[MORIChecklist] ☐ לדבר על תדירות
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 16: מה אני עושה ביום־יום?
+[MORIChapterSubtitle] פעלים רגילים בהווה
+פועל הוא מילה שמתארת פעולה.
+בעברית:
+אני לומד אני עובד אני אוכל אני שותה אני גר אני כותב
+בספרדית:
+[MORISpanishExample] ‪estudiar‬ ללמוד
+[MORISpanishExample] ‪trabajar‬ לעבוד
+[MORISpanishExample] ‪comer‬ לאכול
+[MORISpanishExample] ‪beber‬ לשתות
+[MORISpanishExample] ‪vivir‬ לגור / לחיות
+[MORISpanishExample] ‪escribir‬ לכתוב
+בספרדית יש שלוש קבוצות גדולות של פעלים רגילים:
+‪AR ER IR‬
+אל תיבהל מזה. בשלב הזה נלמד בעיקר איך להגיד מה אני עושה, ומה אתה / את עושה.
+[Heading3] פעלים שמסתיימים ב־‪AR‬
+ניקח את הפועל:
+[MORISpanishExample] ‪hablar‬ לדבר
+כדי להגיד “אני מדבר”, מורידים את ‪AR‬ ומוסיפים ‪o:‬
+‪hablar‬ → ‪hablo‬
+דוגמה:
+[MORISpanishExample] ‪Hablo español.‬ אני מדבר / מדברת ספרדית.
+עוד פעלים שימושיים ב־‪AR:‬
+[TABLE]
+ספרדית || עברית
+‪hablar‬ || לדבר
+‪estudiar‬ || ללמוד
+‪trabajar‬ || לעבוד
+‪escuchar‬ || להקשיב / לשמוע
+‪tomar‬ || לקחת / לשתות
+‪comprar‬ || לקנות
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Estudio español.‬ אני לומד / לומדת ספרדית.
+[MORISpanishExample] ‪Trabajo en casa.‬ אני עובד / עובדת בבית.
+[MORISpanishExample] ‪Escucho música.‬ אני שומע / שומעת מוזיקה.
+[MORISpanishExample] ‪Tomo café.‬ אני שותה קפה.
+[MORISpanishExample] ‪Compro un libro.‬ אני קונה ספר.
+[Heading3] איך אומרים “אתה / את”?
+עם ‪tú‬ בדרך כלל מוסיפים ‪s‬ בסוף.
+[TABLE]
+אני || אתה / את
+‪hablo‬ || ‪hablas‬
+‪estudio‬ || ‪estudias‬
+‪trabajo‬ || ‪trabajas‬
+‪tomo‬ || ‪tomas‬
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪¿Hablas español?‬ אתה / את מדבר/ת ספרדית?
+[MORISpanishExample] ‪¿Estudias español?‬ אתה / את לומד/ת ספרדית?
+[MORISpanishExample] ‪¿Tomas café?‬ אתה / את שותה קפה?
+[Heading3] פעלים שמסתיימים ב־‪ER‬
+ניקח את הפועל:
+[MORISpanishExample] ‪comer‬ לאכול
+כדי להגיד “אני אוכל”, מורידים את ‪ER‬ ומוסיפים ‪o:‬
+‪comer‬ → ‪como‬
+דוגמאות:
+[MORISpanishExample] ‪Como sushi.‬ אני אוכל / אוכלת סושי.
+[MORISpanishExample] ‪Bebo café.‬ אני שותה קפה.
+[MORISpanishExample] ‪Leo un libro.‬ אני קורא / קוראת ספר.
+פעלים שימושיים ב־‪ER:‬
+[TABLE]
+ספרדית || עברית
+‪comer‬ || לאכול
+‪beber‬ || לשתות
+‪leer‬ || לקרוא
+‪aprender‬ || ללמוד משהו חדש
+‪comprender‬ || להבין
+[/TABLE]
+[Heading3] פעלים שמסתיימים ב־‪IR‬
+ניקח את הפועל:
+[MORISpanishExample] ‪vivir‬ לגור / לחיות
+כדי להגיד “אני גר”, מורידים את ‪IR‬ ומוסיפים ‪o:‬
+‪vivir‬ → ‪vivo‬
+דוגמאות:
+[MORISpanishExample] ‪Vivo en Israel.‬ אני גר / גרה בישראל.
+[MORISpanishExample] ‪Escribo en español.‬ אני כותב / כותבת בספרדית.
+פעלים שימושיים ב־‪IR:‬
+[TABLE]
+ספרדית || עברית
+‪vivir‬ || לגור / לחיות
+‪escribir‬ || לכתוב
+‪abrir‬ || לפתוח
+‪recibir‬ || לקבל
+[/TABLE]
+[Heading3] הטבלה הקצרה
+בשלב הזה מספיק להבין את הדפוס הבסיסי:
+[TABLE]
+פועל || אני || אתה / את || הוא / היא || אנחנו || הם / הן / אתם
+‪hablar‬ || ‪hablo‬ || ‪hablas‬ || ‪habla‬ || ‪hablamos‬ || ‪hablan‬
+‪comer‬ || ‪como‬ || ‪comes‬ || ‪come‬ || ‪comemos‬ || ‪comen‬
+‪vivir‬ || ‪vivo‬ || ‪vives‬ || ‪vive‬ || ‪vivimos‬ || ‪viven‬
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Yo hablo español.‬ אני מדבר ספרדית.
+[MORISpanishExample] ‪Tú comes sushi.‬ אתה אוכל סושי.
+[MORISpanishExample] ‪Ella vive en Israel.‬ היא גרה בישראל.
+[Heading3] לא תמיד צריך להגיד ‪yo‬
+בספרדית אפשר להגיד:
+[MORISpanishExample] ‪Yo estudio español.‬ אני לומד ספרדית.
+אבל בדיבור טבעי הרבה פעמים אומרים פשוט:
+[MORISpanishExample] ‪Estudio español.‬ אני לומד ספרדית.
+למה? כי הצורה ‪estudio‬ כבר מראה שמדובר ב“אני”.
+[Heading3] טיפ לדוברי עברית
+בעברית הפועל משתנה לפי זכר ונקבה:
+אני לומד אני לומדת
+בספרדית בגוף ראשון זה אותו דבר:
+[MORISpanishExample] ‪Estudio español.‬ אני לומד / לומדת ספרדית.
+גבר ואישה יכולים להגיד אותו משפט.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Hablas español?‬ את מדברת ספרדית?
+[MORIDialogue] ‪Maya: Sí, hablo un poco de español.‬ כן, אני מדברת קצת ספרדית.
+[MORIDialogue] ‪Daniel: ¿Estudias español?‬ את לומדת ספרדית?
+[MORIDialogue] ‪Maya: Sí, estudio español en casa.‬ כן, אני לומדת ספרדית בבית.
+[MORIDialogue] ‪Daniel: ¿Escuchas música en español?‬ את שומעת מוזיקה בספרדית?
+[MORIDialogue] ‪Maya: Sí, escucho música en español.‬ כן, אני שומעת מוזיקה בספרדית.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם את הפועל:
+[MORIExerciseItem] ‪Yo ________ español. hablar‬
+[MORIExerciseItem] ‪Tú ________ café. tomar‬
+[MORIExerciseItem] ‪Ella ________ en casa. trabajar‬
+[MORIExerciseItem] ‪Yo ________ sushi. comer‬
+[MORIExerciseItem] ‪Yo ________ en Israel. vivir‬
+[MORIExerciseItem] תרגם לספרדית:
+אני לומד ספרדית.
+אני עובד בבית.
+אני שותה קפה.
+אני אוכל סושי.
+אני גר בישראל.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ לזהות פעלים שמסתיימים ב־‪AR / ER / IR.‬
+[MORIChecklist] ☐ להגיד כמה פעולות שאני עושה ביום־יום.
+[MORIChecklist] ☐ להגיד ‪Hablo español.‬
+[MORIChecklist] ☐ להגיד ‪Estudio español.‬
+[MORIChecklist] ☐ להגיד ‪Como / Bebo / Vivo.‬
+[MORIChecklist] ☐ לשאול מישהו ‪¿Hablas español?‬
+[MORIChecklist] ☐ להבין שלא תמיד צריך להגיד ‪yo.‬
+[Heading2] פרק 17: שגרת הבוקר והערב שלי
+[MORIChapterSubtitle] לדבר על היום שלי
+עכשיו נשתמש בפעלים כדי לדבר על שגרה.
+שגרה היא הדברים שאנחנו עושים בדרך כלל:
+בבוקר אחר הצהריים בערב כל יום
+[Heading3] מילים חשובות של זמן
+[TABLE]
+ספרדית || עברית
+‪hoy‬ || היום
+‪cada día‬ || כל יום
+‪todos los días‬ || כל יום
+‪por la mañana‬ || בבוקר
+‪por la tarde‬ || אחר הצהריים
+‪por la noche‬ || בערב / בלילה
+‪después‬ || אחר כך
+‪también‬ || גם
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Por la mañana tomo café.‬ בבוקר אני שותה קפה.
+[MORISpanishExample] ‪Por la tarde trabajo.‬ אחר הצהריים אני עובד / עובדת.
+[MORISpanishExample] ‪Por la noche estudio español.‬ בערב אני לומד / לומדת ספרדית.
+[MORISpanishExample] ‪Todos los días escucho música.‬ כל יום אני שומע / שומעת מוזיקה.
+[Heading3] איך בונים משפט על שגרה?
+אפשר להתחיל בזמן:
+[MORISpanishExample] ‪Por la mañana tomo café.‬ בבוקר אני שותה קפה.
+ואפשר להתחיל בפועל:
+[MORISpanishExample] ‪Tomo café por la mañana.‬ אני שותה קפה בבוקר.
+שתי הצורות נכונות.
+בשלב הזה עדיף להשתמש בצורות קצרות וברורות.
+[Heading3] פעלים רפלקסיביים בשגרה
+עכשיו נלמד כמה פעלים חשובים מאוד לשגרת הבוקר והערב.
+הם נקראים פעלים רפלקסיביים, אבל לא צריך להיבהל מהמילה.
+בעברית זה הרבה פעמים נשמע כמו:
+אני מתעורר אני קם אני מתקלח אני מתלבש אני הולך לישון
+בספרדית, כשאני מדבר על עצמי, משתמשים במילה הקטנה:
+[MORIKeyword] ‪me‬
+דוגמאות:
+[MORISpanishExample] ‪Me levanto.‬ אני קם / קמה.
+[MORISpanishExample] ‪Me ducho.‬ אני מתקלח / מתקלחת.
+[MORISpanishExample] ‪Me visto.‬ אני מתלבש / מתלבשת.
+[MORISpanishExample] ‪Me acuesto.‬ אני הולך / הולכת לישון.
+[Heading3] הפעלים החשובים ביותר
+[TABLE]
+ספרדית || עברית
+‪despertarse‬ || להתעורר
+‪levantarse‬ || לקום
+‪ducharse‬ || להתקלח
+‪vestirse‬ || להתלבש
+‪prepararse‬ || להתכונן
+‪acostarse‬ || ללכת לישון
+‪llamarse‬ || להיקרא
+[/TABLE]
+בצורה המקורית הפועל מסתיים ב־‪se:‬
+[MORISpanishExample] ‪levantarse‬ לקום
+אבל כשאני מדבר על עצמי:
+[MORISpanishExample] ‪Me levanto.‬ אני קם.
+[Heading3] ‪me / te / se‬
+בפרק הזה נלמד רק שלוש צורות:
+[TABLE]
+אדם || ספרדית || עברית
+אני || ‪me levanto‬ || אני קם / קמה
+אתה / את || ‪te levantas‬ || אתה / את קם/ה
+הוא / היא || ‪se levanta‬ || הוא / היא קם/ה
+[/TABLE]
+עוד דוגמה:
+[TABLE]
+אדם || ספרדית || עברית
+אני || ‪me ducho‬ || אני מתקלח/ת
+אתה / את || ‪te duchas‬ || אתה / את מתקלח/ת
+הוא / היא || ‪se ducha‬ || הוא / היא מתקלח/ת
+[/TABLE]
+[Heading3] שגרת בוקר פשוטה
+[MORISpanishExample] ‪Por la mañana me despierto a las siete.‬ בבוקר אני מתעורר / מתעוררת בשבע.
+[MORISpanishExample] ‪Me levanto a las siete y media.‬ אני קם / קמה בשבע וחצי.
+[MORISpanishExample] ‪Me ducho.‬ אני מתקלח / מתקלחת.
+[MORISpanishExample] ‪Me visto.‬ אני מתלבש / מתלבשת.
+[MORISpanishExample] ‪Después tomo café.‬ אחר כך אני שותה קפה.
+[MORISpanishExample] ‪Trabajo por la mañana.‬ אני עובד / עובדת בבוקר.
+[Heading3] שגרת ערב פשוטה
+[MORISpanishExample] ‪Por la noche estudio español.‬ בערב אני לומד / לומדת ספרדית.
+[MORISpanishExample] ‪Después leo un libro.‬ אחר כך אני קורא / קוראת ספר.
+[MORISpanishExample] ‪Escucho música.‬ אני שומע / שומעת מוזיקה.
+[MORISpanishExample] ‪Me preparo para dormir.‬ אני מתכונן / מתכוננת לישון.
+[MORISpanishExample] ‪Me acuesto a las once.‬ אני הולך / הולכת לישון באחת עשרה.
+[Heading3] איפה שמים את ‪me?‬
+המילה ‪me‬ באה לפני הפועל.
+נכון:
+[MORISpanishExample] ‪Me levanto.‬ אני קם.
+לא:
+‪Levanto me.‬
+נכון:
+[MORISpanishExample] ‪Me ducho.‬ אני מתקלח.
+לא:
+‪Ducho me.‬
+משפט זהב:
+[MORISpanishExample] ‪me‬ בא לפני הפועל.
+[Heading3] איך שואלים על שגרה?
+שאלות שימושיות:
+[MORISpanishExample] ‪¿A qué hora te levantas?‬ באיזו שעה אתה / את קם/ה?
+[MORISpanishExample] ‪¿Te duchas por la mañana?‬ אתה / את מתקלח/ת בבוקר?
+[MORISpanishExample] ‪¿A qué hora te acuestas?‬ באיזו שעה אתה / את הולך/ת לישון?
+[MORISpanishExample] ‪¿Estudias español por la noche?‬ אתה / את לומד/ת ספרדית בערב?
+תשובות:
+[MORISpanishExample] ‪Me levanto a las siete.‬ אני קם / קמה בשבע.
+[MORISpanishExample] ‪Sí, me ducho por la mañana.‬ כן, אני מתקלח / מתקלחת בבוקר.
+[MORISpanishExample] ‪Me acuesto a las once.‬ אני הולך / הולכת לישון באחת עשרה.
+[Heading3] טיפ לדוברי עברית
+בעברית יש הרבה פעלים בבניין התפעל:
+מתקלח מתלבש מתעורר מתכונן
+בספרדית הרבה פעמים זה יהיה עם ‪me:‬
+[MORISpanishExample] ‪Me ducho.‬ אני מתקלח.
+[MORISpanishExample] ‪Me visto.‬ אני מתלבש.
+[MORISpanishExample] ‪Me preparo.‬ אני מתכונן.
+[Heading3] מיני טקסט: השגרה של דניאל
+[MORISpanishExample] ‪Hola, soy Daniel.‬ שלום, אני דניאל.
+[MORISpanishExample] ‪Vivo en Tel Aviv.‬ אני גר בתל אביב.
+[MORISpanishExample] ‪Por la mañana me levanto a las siete.‬ בבוקר אני קם בשבע.
+[MORISpanishExample] ‪Me ducho y tomo café.‬ אני מתקלח ושותה קפה.
+[MORISpanishExample] ‪Después trabajo en casa.‬ אחר כך אני עובד בבית.
+[MORISpanishExample] ‪Por la tarde como en un restaurante.‬ אחר הצהריים אני אוכל במסעדה.
+[MORISpanishExample] ‪Por la noche estudio español y leo un libro.‬ בערב אני לומד ספרדית וקורא ספר.
+[MORISpanishExample] ‪Me acuesto a las once.‬ אני הולך לישון באחת עשרה.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪me / te / se:‬
+[MORIExerciseItem] ‪Yo ________ levanto a las siete.‬
+[MORIExerciseItem] ‪Tú ________ duchas por la mañana.‬
+[MORIExerciseItem] ‪Ella ________ acuesta a las once.‬
+[MORIExerciseItem] ‪Yo ________ visto.‬
+[MORIExerciseItem] ‪Daniel ________ prepara para el trabajo.‬
+[MORIExerciseItem] תרגם לספרדית:
+אני קם בשבע.
+אני מתקלח בבוקר.
+אני שותה קפה.
+בערב אני לומד ספרדית.
+אני הולך לישון באחת עשרה.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ לדבר על הבוקר שלי.
+[MORIChecklist] ☐ לדבר על הערב שלי.
+[MORIChecklist] ☐ להשתמש ב־‪por la mañana / por la tarde / por la noche.‬
+[MORIChecklist] ☐ להשתמש ב־‪me levanto.‬
+[MORIChecklist] ☐ להשתמש ב־‪me ducho.‬
+[MORIChecklist] ☐ להשתמש ב־‪me acuesto.‬
+[MORIChecklist] ☐ לשאול מישהו על השגרה שלו.
+[Heading2] פרק 18: באיזו תדירות אני עושה דברים?
+[MORIChapterSubtitle] תמיד, לפעמים, אף פעם
+עכשיו נלמד איך לדבר על הרגלים.
+לא רק:
+אני לומד ספרדית.
+אלא:
+אני תמיד לומד ספרדית בבוקר. אני לפעמים קורא ספר. אני אף פעם לא שותה קפה בלילה.
+[Heading3] מילות תדירות חשובות
+[TABLE]
+ספרדית || עברית
+‪siempre‬ || תמיד
+‪normalmente‬ || בדרך כלל
+‪a veces‬ || לפעמים
+‪nunca‬ || אף פעם
+‪todos los días‬ || כל יום
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Siempre tomo café por la mañana.‬ אני תמיד שותה קפה בבוקר.
+[MORISpanishExample] ‪Normalmente trabajo en casa.‬ בדרך כלל אני עובד / עובדת בבית.
+[MORISpanishExample] ‪A veces leo un libro.‬ לפעמים אני קורא / קוראת ספר.
+[MORISpanishExample] ‪Nunca tomo café por la noche.‬ אני אף פעם לא שותה קפה בערב.
+[MORISpanishExample] ‪Todos los días estudio español.‬ כל יום אני לומד / לומדת ספרדית.
+[Heading3] איפה שמים את מילת התדירות?
+בדרך כלל אפשר לשים אותה בתחילת המשפט או לפני הפועל.
+דוגמאות:
+[MORISpanishExample] ‪Normalmente trabajo en casa.‬ בדרך כלל אני עובד בבית.
+[MORISpanishExample] ‪A veces estudio español por la noche.‬ לפעמים אני לומד ספרדית בערב.
+[MORISpanishExample] ‪Siempre tomo café.‬ אני תמיד שותה קפה.
+בשלב הזה לא צריך להסתבך. השתמש במבנים הקצרים האלה.
+[Heading3] ‪nunca‬
+המילה ‪nunca‬ אומרת:
+אף פעם
+דוגמאות:
+[MORISpanishExample] ‪Nunca bebo café por la noche.‬ אני אף פעם לא שותה קפה בלילה.
+[MORISpanishExample] ‪Nunca estudio por la mañana.‬ אני אף פעם לא לומד בבוקר.
+שימו לב:
+בעברית אומרים “אף פעם לא”. בספרדית ‪nunca‬ כבר כוללת את הרעיון של “לא”.
+בשלב הזה אפשר לזכור פשוט:
+[MORISpanishExample] ‪Nunca +‬ פועל
+[Heading3] שאלות על הרגלים
+שאלות שימושיות:
+[MORISpanishExample] ‪¿Estudias español todos los días?‬ אתה / את לומד/ת ספרדית כל יום?
+[MORISpanishExample] ‪¿Tomas café por la mañana?‬ אתה / את שותה קפה בבוקר?
+[MORISpanishExample] ‪¿Lees libros?‬ אתה / את קורא/ת ספרים?
+[MORISpanishExample] ‪¿A qué hora te levantas normalmente?‬ באיזו שעה אתה / את בדרך כלל קם/ה?
+תשובות:
+[MORISpanishExample] ‪Sí, estudio español todos los días.‬ כן, אני לומד ספרדית כל יום.
+[MORISpanishExample] ‪No, a veces estudio español.‬ לא, לפעמים אני לומד ספרדית.
+[MORISpanishExample] ‪Normalmente me levanto a las siete.‬ בדרך כלל אני קם בשבע.
+[Heading3] טיפ לדוברי עברית
+בעברית אנחנו הרבה פעמים שמים “תמיד / לפעמים / אף פעם” במקום די חופשי.
+גם בספרדית יש גמישות, אבל בשלב ראשון כדאי להשתמש בתבניות קבועות:
+[MORISpanishExample] ‪Siempre +‬ פועל ‪A veces +‬ פועל ‪Normalmente +‬ פועל ‪Nunca +‬ פועל
+דוגמאות:
+‪Siempre tomo café. A veces leo un libro. Normalmente trabajo en casa. Nunca bebo café por la noche.‬
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Estudias español todos los días?‬ את לומדת ספרדית כל יום?
+[MORIDialogue] ‪Maya: No, estudio español a veces.‬ לא, אני לומדת ספרדית לפעמים.
+[MORIDialogue] ‪Daniel: ¿Tomas café por la mañana?‬ את שותה קפה בבוקר?
+[MORIDialogue] ‪Maya: Sí, siempre tomo café por la mañana.‬ כן, אני תמיד שותה קפה בבוקר.
+[MORIDialogue] ‪Daniel: ¿Lees libros?‬ את קוראת ספרים?
+[MORIDialogue] ‪Maya: Sí, normalmente leo por la noche.‬ כן, בדרך כלל אני קוראת בערב.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם מילת תדירות:
+‪siempre / normalmente / a veces / nunca / todos los días‬
+[MORIExerciseItem] ________ ‪tomo café por la mañana.‬ אני תמיד שותה קפה בבוקר.
+[MORIExerciseItem] ________ ‪estudio español.‬ אני לומד ספרדית כל יום.
+[MORIExerciseItem] ________ ‪leo un libro.‬ אני לפעמים קורא ספר.
+[MORIExerciseItem] ________ ‪trabajo en casa.‬ אני בדרך כלל עובד בבית.
+[MORIExerciseItem] ________ ‪bebo café por la noche.‬ אני אף פעם לא שותה קפה בלילה.
+[Heading3] משימת סיום יחידה 6
+[MORIExerciseItem] כתוב 8 משפטים על היום שלך.
+השתמש לפחות ב־5 מהביטויים:
+‪Por la mañana... Por la tarde... Por la noche... Me levanto... Me ducho... Tomo café... Trabajo... Estudio español... A veces... Siempre... Nunca...‬
+עכשיו כתוב:
+[Heading3] אני יכול עכשיו
+בסוף היחידה הזאת אני יכול:
+[MORIChecklist] ☐ להגיד מה אני עושה ביום־יום.
+[MORIChecklist] ☐ להשתמש בפעלים רגילים בסיסיים.
+[MORIChecklist] ☐ לדבר על הבוקר, אחר הצהריים והערב שלי.
+[MORIChecklist] ☐ להשתמש בפעלים רפלקסיביים בסיסיים.
+[MORIChecklist] ☐ להגיד ‪me levanto / me ducho / me acuesto.‬
+[MORIChecklist] ☐ להשתמש במילות תדירות כמו ‪siempre / a veces / nunca.‬
+[MORIChecklist] ☐ לכתוב שגרת יום קצרה בספרדית.
+[Heading2] חזרה קצרה: יחידה 6
+[Heading3] מה למדתי ביחידה?
+למדתי פעלים רגילים:
+[MORISpanishExample] ‪hablar‬ → ‪hablo‬ לדבר → אני מדבר
+[MORISpanishExample] ‪estudiar‬ → ‪estudio‬ ללמוד → אני לומד
+[MORISpanishExample] ‪comer‬ → ‪como‬ לאכול → אני אוכל
+[MORISpanishExample] ‪beber‬ → ‪bebo‬ לשתות → אני שותה
+[MORISpanishExample] ‪vivir‬ → ‪vivo‬ לגור → אני גר
+[MORISpanishExample] ‪escribir‬ → ‪escribo‬ לכתוב → אני כותב
+למדתי שגרה:
+[MORISpanishExample] ‪Por la mañana tomo café.‬ בבוקר אני שותה קפה.
+[MORISpanishExample] ‪Por la noche estudio español.‬ בערב אני לומד ספרדית.
+למדתי פעלים רפלקסיביים:
+[MORISpanishExample] ‪Me levanto.‬ אני קם.
+[MORISpanishExample] ‪Me ducho.‬ אני מתקלח.
+[MORISpanishExample] ‪Me acuesto.‬ אני הולך לישון.
+למדתי תדירות:
+[MORISpanishExample] ‪Siempre =‬ תמיד ‪Normalmente =‬ בדרך כלל ‪A veces =‬ לפעמים ‪Nunca =‬ אף פעם ‪Todos los días =‬ כל יום
+[MORIUnitKicker] יחידה 07
+[Heading1] מה אני אוהב, רוצה וצריך?
+[MORIUnitSubtitle] העדפות, רצונות ויכולות
+מטרת היחידה: לבטא העדפות, רצונות, צרכים ויכולות.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ להשתמש ב-‪me gusta‬ ו-‪me gustan‬
+[MORIChecklist] ☐ להגיד מה אני רוצה וצריך
+[MORIChecklist] ☐ להגיד מה אני יכול לעשות
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 19: מה אני אוהב?
+[MORIChapterSubtitle] ‪Me gusta / Me gustan‬
+בספרדית לא אומרים “אני אוהב” כמו בעברית.
+בעברית:
+אני אוהב קפה. אני אוהבת ספרים. אני אוהב ללמוד ספרדית.
+בספרדית משתמשים במבנה:
+[MORISpanishExample] ‪Me gusta...‬ מוצא חן בעיניי / אני אוהב
+הדרך הטבעית לתרגם לעברית היא:
+אני אוהב / אוהבת...
+[Heading3] ‪Me gusta +‬ דבר אחד
+כאשר מדברים על דבר אחד, משתמשים ב:
+‪Me gusta‬
+דוגמאות:
+[MORISpanishExample] ‪Me gusta el café.‬ אני אוהב / אוהבת קפה.
+[MORISpanishExample] ‪Me gusta la música.‬ אני אוהב / אוהבת מוזיקה.
+[MORISpanishExample] ‪Me gusta el español.‬ אני אוהב / אוהבת ספרדית.
+[MORISpanishExample] ‪Me gusta la clase.‬ אני אוהב / אוהבת את השיעור.
+[Heading3] ‪Me gusta +‬ פועל
+כאשר מדברים על פעולה, משתמשים גם ב־‪Me gusta.‬
+דוגמאות:
+[MORISpanishExample] ‪Me gusta estudiar español.‬ אני אוהב / אוהבת ללמוד ספרדית.
+[MORISpanishExample] ‪Me gusta escuchar música.‬ אני אוהב / אוהבת לשמוע מוזיקה.
+[MORISpanishExample] ‪Me gusta tomar café.‬ אני אוהב / אוהבת לשתות קפה.
+[MORISpanishExample] ‪Me gusta leer.‬ אני אוהב / אוהבת לקרוא.
+שימו לב:
+אחרי ‪Me gusta‬ הפועל נשאר בצורה המקורית:
+[MORISpanishExample] ‪estudiar‬ ללמוד
+[MORISpanishExample] ‪escuchar‬ לשמוע
+[MORISpanishExample] ‪tomar‬ לשתות / לקחת
+[MORISpanishExample] ‪leer‬ לקרוא
+[Heading3] ‪Me gustan +‬ רבים
+כאשר מדברים על כמה דברים, משתמשים ב:
+‪Me gustan‬
+דוגמאות:
+[MORISpanishExample] ‪Me gustan los libros.‬ אני אוהב / אוהבת ספרים.
+[MORISpanishExample] ‪Me gustan los cafés.‬ אני אוהב / אוהבת בתי קפה.
+[MORISpanishExample] ‪Me gustan las ciudades grandes.‬ אני אוהב / אוהבת ערים גדולות.
+[MORISpanishExample] ‪Me gustan las clases de español.‬ אני אוהב / אוהבת שיעורי ספרדית.
+[Heading3] הטבלה הכי חשובה
+[TABLE]
+ספרדית || מתי משתמשים? || דוגמה
+‪Me gusta‬ || דבר אחד או פעולה || ‪Me gusta el café.‬
+‪Me gustan‬ || כמה דברים || ‪Me gustan los libros.‬
+[/TABLE]
+משפט לזכור:
+[MORISpanishExample] ‪Me gusta =‬ דבר אחד / פעולה ‪Me gustan =‬ כמה דברים
+[Heading3] איך אומרים “אני לא אוהב”?
+כדי להגיד “אני לא אוהב”, מוסיפים ‪no‬ בהתחלה:
+[MORISpanishExample] ‪No me gusta el café.‬ אני לא אוהב / אוהבת קפה.
+[MORISpanishExample] ‪No me gusta estudiar por la noche.‬ אני לא אוהב / אוהבת ללמוד בערב.
+[MORISpanishExample] ‪No me gustan los hospitales.‬ אני לא אוהב / אוהבת בתי חולים.
+[Heading3] איך שואלים “אתה אוהב?”
+כדי לשאול אדם אחר, משתמשים ב:
+[MORISpanishExample] ‪¿Te gusta...?‬ אתה / את אוהב/ת...?
+דוגמאות:
+[MORISpanishExample] ‪¿Te gusta el café?‬ אתה / את אוהב/ת קפה?
+[MORISpanishExample] ‪¿Te gusta estudiar español?‬ אתה / את אוהב/ת ללמוד ספרדית?
+[MORISpanishExample] ‪¿Te gustan los libros?‬ אתה / את אוהב/ת ספרים?
+תשובות:
+[MORISpanishExample] ‪Sí, me gusta.‬ כן, אני אוהב / אוהבת.
+[MORISpanishExample] ‪No, no me gusta.‬ לא, אני לא אוהב / אוהבת.
+[MORISpanishExample] ‪Sí, me gustan.‬ כן, אני אוהב / אוהבת אותם.
+[MORISpanishExample] ‪No, no me gustan.‬ לא, אני לא אוהב / אוהבת אותם.
+[Heading3] אוצר מילים שימושי
+[TABLE]
+ספרדית || עברית
+‪café‬ || קפה
+‪música‬ || מוזיקה
+‪libros‬ || ספרים
+‪español‬ || ספרדית
+‪sushi‬ || סושי
+‪playa‬ || חוף
+‪ciudad‬ || עיר
+‪restaurantes‬ || מסעדות
+‪viajar‬ || לטייל / לנסוע
+‪leer‬ || לקרוא
+‪estudiar‬ || ללמוד
+‪trabajar‬ || לעבוד
+‪escuchar música‬ || לשמוע מוזיקה
+[/TABLE]
+[Heading3] טיפ לדוברי עברית
+ישראלים נוטים לחשוב:
+[MORISpanishExample] אני אוהב קפה = ‪Yo gusto café‬
+אבל זה לא נכון בספרדית.
+הדרך הטבעית היא:
+‪Me gusta el café.‬
+לא:
+‪Yo gusto café.‬
+משפט זהב:
+בספרדית לא “אני אוהב את הקפה”, אלא “הקפה מוצא חן בעיניי”.
+אבל בתרגום לעברית נגיד פשוט:
+אני אוהב / אוהבת קפה.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Te gusta el café?‬ את אוהבת קפה?
+[MORIDialogue] ‪Maya: Sí, me gusta mucho. ¿Y a ti?‬ כן, אני מאוד אוהבת. ואתה?
+[MORIDialogue] ‪Daniel: También me gusta el café.‬ גם אני אוהב קפה.
+[MORIDialogue] ‪Maya: ¿Te gusta estudiar español?‬ אתה אוהב ללמוד ספרדית?
+[MORIDialogue] ‪Daniel: Sí, me gusta estudiar español, pero a veces es difícil.‬ כן, אני אוהב ללמוד ספרדית, אבל לפעמים זה קשה.
+[MORIDialogue] ‪Maya: A mí también.‬ גם לי.
+[Heading3] תרגול קצר
+[MORIExerciseItem] בחר ‪Me gusta‬ או ‪Me gustan:‬
+[MORIExerciseItem] __________ ‪el café.‬ אני אוהב קפה.
+[MORIExerciseItem] __________ ‪los libros.‬ אני אוהב ספרים.
+[MORIExerciseItem] __________ ‪estudiar español.‬ אני אוהב ללמוד ספרדית.
+[MORIExerciseItem] __________ ‪las ciudades grandes.‬ אני אוהב ערים גדולות.
+[MORIExerciseItem] __________ ‪la música.‬ אני אוהב מוזיקה.
+[MORIExerciseItem] תרגם לספרדית:
+אני אוהב קפה.
+אני לא אוהב סושי.
+אני אוהב ללמוד ספרדית.
+אני אוהב ספרים.
+אתה אוהב מוזיקה?
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להגיד מה אני אוהב.
+[MORIChecklist] ☐ להגיד מה אני לא אוהב.
+[MORIChecklist] ☐ להשתמש ב־‪Me gusta.‬
+[MORIChecklist] ☐ להשתמש ב־‪Me gustan.‬
+[MORIChecklist] ☐ לשאול ‪¿Te gusta...?‬
+[MORIChecklist] ☐ לדבר על העדפות אישיות בסיסיות.
+[Heading2] פרק 20: מה אני רוצה, צריך ויכול לעשות?
+[MORIChapterSubtitle] ‪Quiero / Necesito / Puedo‬
+עכשיו נלמד שלוש מילים מאוד שימושיות:
+[MORISpanishExample] ‪quiero‬ אני רוצה
+[MORISpanishExample] ‪necesito‬ אני צריך / צריכה
+[MORISpanishExample] ‪puedo‬ אני יכול / יכולה
+בעזרת שלוש המילים האלה אפשר לבנות המון משפטים שימושיים כבר ברמת ‪A1.‬
+[Heading3] ‪Quiero =‬ אני רוצה
+דוגמאות:
+[MORISpanishExample] ‪Quiero café.‬ אני רוצה קפה.
+[MORISpanishExample] ‪Quiero agua.‬ אני רוצה מים.
+[MORISpanishExample] ‪Quiero un libro.‬ אני רוצה ספר.
+[MORISpanishExample] ‪Quiero estudiar español.‬ אני רוצה ללמוד ספרדית.
+[MORISpanishExample] ‪Quiero viajar a España.‬ אני רוצה לנסוע לספרד.
+[Heading3] ‪Quiero +‬ שם עצם
+אפשר להשתמש ב־‪quiero‬ עם דבר:
+[MORISpanishExample] ‪Quiero un café.‬ אני רוצה קפה.
+[MORISpanishExample] ‪Quiero una mesa.‬ אני רוצה שולחן.
+[MORISpanishExample] ‪Quiero un libro.‬ אני רוצה ספר.
+[Heading3] ‪Quiero +‬ פועל
+אפשר להשתמש ב־‪quiero‬ גם עם פעולה.
+אחרי ‪quiero,‬ הפועל השני נשאר בצורה המקורית:
+[MORISpanishExample] ‪Quiero estudiar.‬ אני רוצה ללמוד.
+[MORISpanishExample] ‪Quiero viajar.‬ אני רוצה לטייל / לנסוע.
+[MORISpanishExample] ‪Quiero comprar un libro.‬ אני רוצה לקנות ספר.
+[MORISpanishExample] ‪Quiero hablar español.‬ אני רוצה לדבר ספרדית.
+שימו לב:
+לא אומרים:
+‪Quiero estudio español.‬
+אומרים:
+‪Quiero estudiar español.‬
+[Heading3] ‪Necesito =‬ אני צריך / צריכה
+דוגמאות:
+[MORISpanishExample] ‪Necesito agua.‬ אני צריך / צריכה מים.
+[MORISpanishExample] ‪Necesito tiempo.‬ אני צריך / צריכה זמן.
+[MORISpanishExample] ‪Necesito practicar.‬ אני צריך / צריכה לתרגל.
+[MORISpanishExample] ‪Necesito estudiar más.‬ אני צריך / צריכה ללמוד יותר.
+[MORISpanishExample] ‪Necesito descansar.‬ אני צריך / צריכה לנוח.
+[Heading3] ‪Puedo =‬ אני יכול / יכולה
+דוגמאות:
+[MORISpanishExample] ‪Puedo hablar un poco de español.‬ אני יכול / יכולה לדבר קצת ספרדית.
+[MORISpanishExample] ‪Puedo leer en español.‬ אני יכול / יכולה לקרוא בספרדית.
+[MORISpanishExample] ‪Puedo estudiar hoy.‬ אני יכול / יכולה ללמוד היום.
+[MORISpanishExample] ‪No puedo trabajar hoy.‬ אני לא יכול / יכולה לעבוד היום.
+[MORISpanishExample] ‪No puedo entender todo.‬ אני לא יכול / יכולה להבין הכול.
+[Heading3] הטבלה הכי שימושית
+[TABLE]
+ספרדית || עברית || דוגמה
+‪Quiero‬ || אני רוצה || ‪Quiero estudiar.‬
+‪Necesito‬ || אני צריך / צריכה || ‪Necesito practicar.‬
+‪Puedo‬ || אני יכול / יכולה || ‪Puedo hablar un poco.‬
+[/TABLE]
+[Heading3] אחרי ‪quiero / necesito / puedo‬
+כאשר יש פועל נוסף אחרי ‪quiero / necesito / puedo,‬ הוא נשאר בצורה המקורית.
+[TABLE]
+נכון || לא נכון
+‪Quiero estudiar.‬ || ‪Quiero estudio.‬
+‪Necesito practicar.‬ || ‪Necesito practico.‬
+‪Puedo hablar.‬ || ‪Puedo hablo.‬
+[/TABLE]
+משפט זהב:
+אחרי ‪quiero / necesito / puedo‬ בא פועל בצורת המקור.
+[Heading3] איך שואלים?
+[MORISpanishExample] ‪¿Quieres...?‬ אתה / את רוצה...?
+[MORISpanishExample] ‪¿Necesitas...?‬ אתה / את צריך/ה...?
+[MORISpanishExample] ‪¿Puedes...?‬ אתה / את יכול/ה...?
+דוגמאות:
+[MORISpanishExample] ‪¿Quieres café?‬ אתה רוצה קפה?
+[MORISpanishExample] ‪¿Quieres estudiar español?‬ את רוצה ללמוד ספרדית?
+[MORISpanishExample] ‪¿Necesitas ayuda?‬ אתה צריך עזרה?
+[MORISpanishExample] ‪¿Puedes hablar español?‬ אתה יכול לדבר ספרדית?
+[Heading3] תשובות קצרות
+[MORISpanishExample] ‪Sí, quiero.‬ כן, אני רוצה.
+[MORISpanishExample] ‪No, no quiero.‬ לא, אני לא רוצה.
+[MORISpanishExample] ‪Sí, necesito practicar.‬ כן, אני צריך / צריכה לתרגל.
+[MORISpanishExample] ‪No, no puedo.‬ לא, אני לא יכול / יכולה.
+[MORISpanishExample] ‪Puedo hablar un poco de español.‬ אני יכול / יכולה לדבר קצת ספרדית.
+[Heading3] אוצר מילים שימושי
+[TABLE]
+ספרדית || עברית
+‪agua‬ || מים
+‪café‬ || קפה
+‪tiempo‬ || זמן
+‪ayuda‬ || עזרה
+‪descansar‬ || לנוח
+‪practicar‬ || לתרגל
+‪estudiar‬ || ללמוד
+‪hablar‬ || לדבר
+‪leer‬ || לקרוא
+‪viajar‬ || לטייל / לנסוע
+‪comprar‬ || לקנות
+‪entender‬ || להבין
+[/TABLE]
+[Heading3] טיפ לדוברי עברית
+בעברית אומרים:
+אני רוצה לומד ספרדית? לא. אנחנו אומרים: אני רוצה ללמוד ספרדית.
+גם בספרדית אחרי ‪quiero‬ צריך להשתמש בצורה המקורית:
+‪Quiero estudiar español.‬
+לא:
+‪Quiero estudio español.‬
+אותו דבר עם ‪necesito‬ ו־‪puedo:‬
+[MORISpanishExample] ‪Necesito practicar.‬ אני צריך לתרגל.
+[MORISpanishExample] ‪Puedo hablar.‬ אני יכול לדבר.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Quieres café?‬ את רוצה קפה?
+[MORIDialogue] ‪Maya: Sí, quiero café, gracias.‬ כן, אני רוצה קפה, תודה.
+[MORIDialogue] ‪Daniel: ¿Quieres estudiar español hoy?‬ את רוצה ללמוד ספרדית היום?
+[MORIDialogue] ‪Maya: Sí, pero necesito practicar más.‬ כן, אבל אני צריכה לתרגל יותר.
+[MORIDialogue] ‪Daniel: Puedes hablar un poco.‬ את יכולה לדבר קצת.
+[MORIDialogue] ‪Maya: Sí, puedo hablar un poco, pero no puedo entender todo.‬ כן, אני יכולה לדבר קצת, אבל אני לא יכולה להבין הכול.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪quiero / necesito / puedo:‬
+[MORIExerciseItem] __________ ‪café.‬ אני רוצה קפה.
+[MORIExerciseItem] __________ ‪practicar español.‬ אני צריך לתרגל ספרדית.
+[MORIExerciseItem] __________ ‪hablar un poco.‬ אני יכול לדבר קצת.
+[MORIExerciseItem] ‪No __________ trabajar hoy.‬ אני לא יכול לעבוד היום.
+[MORIExerciseItem] __________ ‪estudiar más.‬ אני רוצה ללמוד יותר.
+[MORIExerciseItem] בחר את המשפט הנכון:
+אני רוצה ללמוד ספרדית. א. ‪Quiero estudio español.‬ ב. ‪Quiero estudiar español.‬
+אני צריך לתרגל. א. ‪Necesito practicar.‬ ב. ‪Necesito practico.‬
+אני יכול לדבר קצת. א. ‪Puedo hablar un poco.‬ ב. ‪Puedo hablo un poco.‬
+[Heading3] משימת סיום יחידה 7
+[MORIExerciseItem] כתוב 8 משפטים על מה שאתה אוהב, רוצה, צריך ויכול לעשות.
+השתמש לפחות ב־6 מהביטויים:
+‪Me gusta... Me gustan... No me gusta... Quiero... Necesito... Puedo... No puedo...‬
+דוגמה:
+[MORISpanishExample] ‪Me gusta el café.‬ אני אוהב קפה.
+[MORISpanishExample] ‪Me gusta estudiar español.‬ אני אוהב ללמוד ספרדית.
+[MORISpanishExample] ‪Quiero hablar español.‬ אני רוצה לדבר ספרדית.
+[MORISpanishExample] ‪Necesito practicar.‬ אני צריך לתרגל.
+[MORISpanishExample] ‪Puedo hablar un poco.‬ אני יכול לדבר קצת.
+עכשיו כתוב:
+[Heading3] אני יכול עכשיו
+בסוף היחידה הזאת אני יכול:
+[MORIChecklist] ☐ להגיד מה אני אוהב.
+[MORIChecklist] ☐ להגיד מה אני לא אוהב.
+[MORIChecklist] ☐ לשאול אדם אחר מה הוא אוהב.
+[MORIChecklist] ☐ להגיד מה אני רוצה.
+[MORIChecklist] ☐ להגיד מה אני צריך.
+[MORIChecklist] ☐ להגיד מה אני יכול ולא יכול לעשות.
+[MORIChecklist] ☐ להשתמש נכון בפועל בצורת המקור אחרי ‪quiero / necesito / puedo.‬
+[Heading2] חזרה קצרה: יחידה 7
+[Heading3] מה למדתי ביחידה?
+למדתי לדבר על העדפות:
+[MORISpanishExample] ‪Me gusta el café.‬ אני אוהב / אוהבת קפה.
+[MORISpanishExample] ‪Me gusta estudiar español.‬ אני אוהב / אוהבת ללמוד ספרדית.
+[MORISpanishExample] ‪Me gustan los libros.‬ אני אוהב / אוהבת ספרים.
+[MORISpanishExample] ‪No me gusta el sushi.‬ אני לא אוהב / אוהבת סושי.
+למדתי לדבר על רצונות, צרכים ויכולות:
+[MORISpanishExample] ‪Quiero estudiar español.‬ אני רוצה ללמוד ספרדית.
+[MORISpanishExample] ‪Necesito practicar.‬ אני צריך / צריכה לתרגל.
+[MORISpanishExample] ‪Puedo hablar un poco de español.‬ אני יכול / יכולה לדבר קצת ספרדית.
+[MORISpanishExample] ‪No puedo entender todo.‬ אני לא יכול / יכולה להבין הכול.
+משפטים חשובים:
+[MORISpanishExample] ‪Me gusta =‬ דבר אחד / פעולה ‪Me gustan =‬ כמה דברים
+[MORISpanishExample] ‪Quiero +‬ פועל מקור ‪Necesito +‬ פועל מקור ‪Puedo +‬ פועל מקור
+[MORIUnitKicker] יחידה 08
+[Heading1] השבוע שלי ותוכניות קרובות
+[MORIUnitSubtitle] ‪IR,‬ ימים, שעה ותכנון
+מטרת היחידה: לדבר על תנועה, לוח זמנים ותוכניות קרובות.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ להגיד לאן אני הולך
+[MORIChecklist] ☐ להשתמש ב-‪ir a +‬ פועל
+[MORIChecklist] ☐ לדבר על ימים, שעה ותאריך
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 21: לאן אני הולך?
+[MORIChapterSubtitle] הפועל ‪IR‬
+הפועל ‪ir‬ הוא אחד הפעלים הכי חשובים בספרדית.
+הוא אומר:
+ללכת או לנסוע
+בעברית אנחנו מבדילים הרבה פעמים בין “ללכת” ו“לנסוע”.
+בספרדית ‪ir‬ יכול לכסות את שניהם.
+דוגמאות:
+[MORISpanishExample] ‪Voy a casa.‬ אני הולך / נוסע הביתה.
+[MORISpanishExample] ‪Voy al trabajo.‬ אני הולך / נוסע לעבודה.
+[MORISpanishExample] ‪Voy a la escuela.‬ אני הולך / נוסע לבית הספר.
+[Heading3] הצורה הכי חשובה: ‪voy‬
+כדי להגיד “אני הולך / אני נוסע”, משתמשים ב:
+[MORIKeyword] ‪voy‬
+דוגמאות:
+[MORISpanishExample] ‪Voy a casa.‬ אני הולך / נוסע הביתה.
+[MORISpanishExample] ‪Voy al trabajo.‬ אני הולך / נוסע לעבודה.
+[MORISpanishExample] ‪Voy a la escuela.‬ אני הולך / נוסע לבית הספר.
+[MORISpanishExample] ‪Voy a un restaurante.‬ אני הולך / נוסע למסעדה.
+[Heading3] הטבלה הקצרה של ‪IR‬
+[TABLE]
+עברית || ספרדית
+אני הולך / נוסע || ‪voy‬
+אתה / את הולך / נוסע || ‪vas‬
+הוא / היא הולך / נוסע || ‪va‬
+אנחנו הולכים / נוסעים || ‪vamos‬
+הם / הן / אתם הולכים / נוסעים || ‪van‬
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Voy a casa.‬ אני הולך הביתה.
+[MORISpanishExample] ‪Vas al trabajo.‬ אתה הולך לעבודה.
+[MORISpanishExample] ‪Ella va a la escuela.‬ היא הולכת לבית הספר.
+[MORISpanishExample] ‪Vamos al restaurante.‬ אנחנו הולכים למסעדה.
+[MORISpanishExample] ‪Ellos van al parque.‬ הם הולכים לפארק.
+[Heading3] ‪a, al, a la‬
+אחרי ‪ir‬ משתמשים הרבה במילה:
+[MORISpanishExample] ‪a‬ ל...
+דוגמאות:
+[MORISpanishExample] ‪Voy a casa.‬ אני הולך הביתה.
+[MORISpanishExample] ‪Voy a la escuela.‬ אני הולך לבית הספר.
+אבל כאשר יש:
+‪a + el‬
+זה מתחבר ל־:
+[MORIKeyword] ‪al‬
+לכן אומרים:
+[MORISpanishExample] ‪Voy al trabajo.‬ אני הולך לעבודה.
+לא:
+‪Voy a el trabajo.‬
+[Heading3] הטבלה הכי חשובה
+[TABLE]
+ספרדית || עברית
+‪Voy a casa.‬ || אני הולך הביתה
+‪Voy a la escuela.‬ || אני הולך לבית הספר
+‪Voy al trabajo.‬ || אני הולך לעבודה
+‪Voy al restaurante.‬ || אני הולך למסעדה
+‪Voy a la clase.‬ || אני הולך לשיעור
+[/TABLE]
+משפט זהב:
+‪a + el = al‬
+[Heading3] לאן אתה הולך?
+כדי לשאול “לאן אתה הולך?”, משתמשים ב:
+[MORISpanishExample] ‪¿Adónde vas?‬ לאן אתה / את הולך/ת?
+תשובות:
+[MORISpanishExample] ‪Voy a casa.‬ אני הולך הביתה.
+[MORISpanishExample] ‪Voy al trabajo.‬ אני הולך לעבודה.
+[MORISpanishExample] ‪Voy a la escuela.‬ אני הולך לבית הספר.
+[Heading3] מקומות שימושיים
+[TABLE]
+ספרדית || עברית
+‪casa‬ || בית
+‪trabajo‬ || עבודה
+‪escuela‬ || בית ספר
+‪clase‬ || שיעור
+‪universidad‬ || אוניברסיטה
+‪restaurante‬ || מסעדה
+‪café‬ || בית קפה
+‪supermercado‬ || סופרמרקט
+‪parque‬ || פארק
+‪centro‬ || מרכז
+[/TABLE]
+[Heading3] טיפ לדוברי עברית
+בעברית אנחנו אומרים:
+אני הולך לעבודה. אני נוסע לעבודה.
+בספרדית בהרבה מצבים אפשר פשוט להשתמש ב־‪voy.‬
+[MORISpanishExample] ‪Voy al trabajo.‬ אני הולך / נוסע לעבודה.
+לא צריך כרגע להחליט אם זה ברגל, באוטובוס או ברכב. את זה נלמד ביחידת התחבורה.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Adónde vas?‬ לאן אתה הולך?
+[MORIDialogue] ‪Maya: Voy a la escuela. ¿Y tú?‬ אני הולכת לבית הספר. ואתה?
+[MORIDialogue] ‪Daniel: Voy al trabajo.‬ אני הולך לעבודה.
+[MORIDialogue] ‪Maya: ¿Vas al trabajo todos los días?‬ אתה הולך לעבודה כל יום?
+[MORIDialogue] ‪Daniel: Sí, voy al trabajo todos los días.‬ כן, אני הולך לעבודה כל יום.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪voy / vas / va:‬
+[MORIExerciseItem] ‪Yo ________ a casa.‬
+[MORIExerciseItem] ‪Tú ________ al trabajo.‬
+[MORIExerciseItem] ‪Ella ________ a la escuela.‬
+[MORIExerciseItem] ‪Daniel ________ al restaurante.‬
+[MORIExerciseItem] ‪¿Adónde ________?‬
+[MORIExerciseItem] בחר ‪a la‬ או ‪al:‬
+[MORIExerciseItem] ‪Voy ________ escuela.‬
+[MORIExerciseItem] ‪Voy ________ trabajo.‬
+[MORIExerciseItem] ‪Voy ________ restaurante.‬
+[MORIExerciseItem] ‪Voy ________ clase.‬
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להשתמש ב־‪voy.‬
+[MORIChecklist] ☐ להגיד לאן אני הולך / נוסע.
+[MORIChecklist] ☐ לשאול ‪¿Adónde vas?‬
+[MORIChecklist] ☐ להשתמש ב־‪a la.‬
+[MORIChecklist] ☐ להשתמש ב־‪al.‬
+[MORIChecklist] ☐ להבין ש־‪a + el = al.‬
+[Heading2] פרק 22: מה אני הולך לעשות?
+[MORIChapterSubtitle] ‪ir a +‬ פועל
+עכשיו נלמד מבנה חשוב מאוד:
+[MORISpanishExample] ‪ir a +‬ פועל
+בעברית:
+אני הולך ללמוד. אני הולך לעבוד. אני הולך לקנות קפה. אני הולך לקרוא ספר.
+בספרדית:
+[MORISpanishExample] ‪Voy a estudiar.‬ אני הולך / הולכת ללמוד.
+[MORISpanishExample] ‪Voy a trabajar.‬ אני הולך / הולכת לעבוד.
+[MORISpanishExample] ‪Voy a comprar café.‬ אני הולך / הולכת לקנות קפה.
+[Heading3] ‪Voy a +‬ פועל
+המבנה הוא:
+[MORISpanishExample] ‪Voy a +‬ פועל בצורת המקור
+דוגמאות:
+[MORISpanishExample] ‪Voy a estudiar español.‬ אני הולך ללמוד ספרדית.
+[MORISpanishExample] ‪Voy a trabajar.‬ אני הולך לעבוד.
+[MORISpanishExample] ‪Voy a tomar café.‬ אני הולך לשתות קפה.
+[MORISpanishExample] ‪Voy a comprar un libro.‬ אני הולך לקנות ספר.
+[MORISpanishExample] ‪Voy a leer por la noche.‬ אני הולך לקרוא בערב.
+[Heading3] חשוב: הפועל השני נשאר בצורת המקור
+כמו שלמדנו עם ‪quiero / necesito / puedo,‬ גם כאן הפועל השני נשאר בצורה המקורית.
+נכון:
+[MORISpanishExample] ‪Voy a estudiar español.‬ אני הולך ללמוד ספרדית.
+לא:
+‪Voy a estudio español.‬
+נכון:
+[MORISpanishExample] ‪Voy a comprar café.‬ אני הולך לקנות קפה.
+לא:
+‪Voy a compro café.‬
+משפט זהב:
+אחרי ‪voy a‬ בא פועל בצורת המקור.
+[Heading3] ‪Vas a / Va a‬
+כדי לדבר על מישהו אחר:
+[MORISpanishExample] ‪¿Qué vas a hacer?‬ מה אתה / את הולך/ת לעשות?
+[MORISpanishExample] ‪Voy a estudiar.‬ אני הולך ללמוד.
+[MORISpanishExample] ‪Maya va a trabajar.‬ מאיה הולכת לעבוד.
+[MORISpanishExample] ‪Daniel va a comprar café.‬ דניאל הולך לקנות קפה.
+[Heading3] מה אתה הולך לעשות?
+השאלה החשובה:
+[MORISpanishExample] ‪¿Qué vas a hacer?‬ מה אתה / את הולך/ת לעשות?
+תשובות:
+[MORISpanishExample] ‪Voy a estudiar español.‬ אני הולך ללמוד ספרדית.
+[MORISpanishExample] ‪Voy a trabajar.‬ אני הולך לעבוד.
+[MORISpanishExample] ‪Voy a descansar.‬ אני הולך לנוח.
+[MORISpanishExample] ‪Voy a leer un libro.‬ אני הולך לקרוא ספר.
+[MORISpanishExample] ‪Voy a tomar café.‬ אני הולך לשתות קפה.
+[Heading3] מילים שימושיות לתוכניות
+[TABLE]
+ספרדית || עברית
+‪hacer‬ || לעשות
+‪estudiar‬ || ללמוד
+‪trabajar‬ || לעבוד
+‪descansar‬ || לנוח
+‪leer‬ || לקרוא
+‪comprar‬ || לקנות
+‪tomar café‬ || לשתות קפה
+‪escuchar música‬ || לשמוע מוזיקה
+‪ir a casa‬ || ללכת הביתה
+‪ir al trabajo‬ || ללכת לעבודה
+[/TABLE]
+[Heading3] היום, מחר, השבוע
+[TABLE]
+ספרדית || עברית
+‪hoy‬ || היום
+‪mañana‬ || מחר
+‪esta semana‬ || השבוע
+‪el fin de semana‬ || סוף השבוע
+‪por la mañana‬ || בבוקר
+‪por la tarde‬ || אחר הצהריים
+‪por la noche‬ || בערב / בלילה
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Hoy voy a estudiar español.‬ היום אני הולך ללמוד ספרדית.
+[MORISpanishExample] ‪Mañana voy a trabajar.‬ מחר אני הולך לעבוד.
+[MORISpanishExample] ‪Esta semana voy a practicar.‬ השבוע אני הולך לתרגל.
+[MORISpanishExample] ‪El fin de semana voy a descansar.‬ בסוף השבוע אני הולך לנוח.
+[Heading3] טיפ לדוברי עברית
+בעברית “אני הולך ללמוד” יכול להיות ממש פיזית ללכת, אבל גם תוכנית לעתיד.
+גם בספרדית ‪voy a estudiar‬ אומר:
+אני הולך ללמוד או אני מתכוון ללמוד
+זה מבנה מצוין לרמת ‪A1,‬ כי הוא מאפשר לדבר על עתיד בלי ללמוד זמן עתיד אמיתי.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Qué vas a hacer hoy?‬ מה את הולכת לעשות היום?
+[MORIDialogue] ‪Maya: Voy a estudiar español. ¿Y tú?‬ אני הולכת ללמוד ספרדית. ואתה?
+[MORIDialogue] ‪Daniel: Voy a trabajar por la mañana.‬ אני הולך לעבוד בבוקר.
+[MORIDialogue] ‪Maya: ¿Y por la noche?‬ ובערב?
+[MORIDialogue] ‪Daniel: Por la noche voy a leer un libro.‬ בערב אני הולך לקרוא ספר.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם פועל בצורת המקור:
+[MORIExerciseItem] ‪Voy a ________ español.‬ אני הולך ללמוד ספרדית. ‪estudiar / estudio‬
+[MORIExerciseItem] ‪Voy a ________ café.‬ אני הולך לשתות קפה. ‪tomar / tomo‬
+[MORIExerciseItem] ‪Voy a ________ un libro.‬ אני הולך לקנות ספר. ‪comprar / compro‬
+[MORIExerciseItem] ‪Voy a ________ por la noche.‬ אני הולך לקרוא בערב. ‪leer / leo‬
+[MORIExerciseItem] תרגם לספרדית:
+אני הולך ללמוד ספרדית.
+אני הולך לעבוד.
+אני הולך לקנות קפה.
+מה אתה הולך לעשות היום?
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להשתמש ב־‪Voy a +‬ פועל.
+[MORIChecklist] ☐ לדבר על תוכניות קרובות.
+[MORIChecklist] ☐ לשאול ‪¿Qué vas a hacer?‬
+[MORIChecklist] ☐ להגיד מה אני הולך לעשות היום.
+[MORIChecklist] ☐ להבין שאחרי ‪voy a‬ הפועל נשאר בצורת המקור.
+[Heading2] פרק 23: ימים, שעה ותאריך בסיסי
+[MORIChapterSubtitle] לתכנן את השבוע
+עכשיו נלמד איך לשלב תוכניות עם זמן.
+נלמד להגיד:
+ביום שני יש לי שיעור. ביום שלישי אני הולך לעבוד. בשמונה אני לומד ספרדית. מחר אני הולך לקנות קפה. יום ההולדת שלי במאי.
+[Heading3] ימי השבוע
+[TABLE]
+ספרדית || עברית
+‪lunes‬ || יום שני
+‪martes‬ || יום שלישי
+‪miércoles‬ || יום רביעי
+‪jueves‬ || יום חמישי
+‪viernes‬ || יום שישי
+‪sábado‬ || שבת
+‪domingo‬ || יום ראשון
+[/TABLE]
+שימו לב:
+בספרדית שבוע רגיל מתחיל הרבה פעמים מ־‪lunes.‬
+[Heading3] איך אומרים “ביום שני”?
+כדי להגיד “ביום שני”, משתמשים ב:
+‪el lunes‬
+דוגמאות:
+[MORISpanishExample] ‪El lunes tengo clase.‬ ביום שני יש לי שיעור.
+[MORISpanishExample] ‪El martes voy al trabajo.‬ ביום שלישי אני הולך לעבודה.
+[MORISpanishExample] ‪El viernes voy a descansar.‬ ביום שישי אני הולך לנוח.
+[Heading3] היום, מחר, סוף השבוע
+[TABLE]
+ספרדית || עברית
+‪hoy‬ || היום
+‪mañana‬ || מחר
+‪esta semana‬ || השבוע
+‪el fin de semana‬ || סוף השבוע
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Hoy voy a estudiar.‬ היום אני הולך ללמוד.
+[MORISpanishExample] ‪Mañana voy a trabajar.‬ מחר אני הולך לעבוד.
+[MORISpanishExample] ‪El fin de semana voy a descansar.‬ בסוף השבוע אני הולך לנוח.
+[Heading3] שעה בסיסית
+כדי לשאול “מה השעה?”:
+[MORISpanishExample] ‪¿Qué hora es?‬ מה השעה?
+תשובות בסיסיות:
+[MORISpanishExample] ‪Es la una.‬ השעה אחת.
+[MORISpanishExample] ‪Son las dos.‬ השעה שתיים.
+[MORISpanishExample] ‪Son las tres.‬ השעה שלוש.
+[MORISpanishExample] ‪Son las ocho.‬ השעה שמונה.
+שימו לב:
+רק עם אחת משתמשים ב:
+‪Es la una.‬
+עם שאר השעות:
+‪Son las...‬
+[Heading3] באיזו שעה?
+כדי להגיד “בשעה...”, משתמשים ב:
+[MORISpanishExample] ‪a la una‬ באחת
+[MORISpanishExample] ‪a las dos‬ בשתיים
+[MORISpanishExample] ‪a las ocho‬ בשמונה
+דוגמאות:
+[MORISpanishExample] ‪A las ocho estudio español.‬ בשמונה אני לומד ספרדית.
+[MORISpanishExample] ‪A las nueve voy al trabajo.‬ בתשע אני הולך לעבודה.
+[MORISpanishExample] ‪A la una como.‬ באחת אני אוכל.
+[Heading3] חצי ורבע, רק בסיסי
+בשלב הזה מספיק להכיר:
+[MORISpanishExample] ‪y media‬ וחצי
+[MORISpanishExample] ‪y cuarto‬ ורבע
+דוגמאות:
+[MORISpanishExample] ‪Son las ocho y media.‬ השעה שמונה וחצי.
+[MORISpanishExample] ‪Son las nueve y cuarto.‬ השעה תשע ורבע.
+[MORISpanishExample] ‪A las siete y media me levanto.‬ בשבע וחצי אני קם.
+[Heading3] חודשים
+[TABLE]
+ספרדית || עברית
+‪enero‬ || ינואר
+‪febrero‬ || פברואר
+‪marzo‬ || מרץ
+‪abril‬ || אפריל
+‪mayo‬ || מאי
+‪junio‬ || יוני
+‪julio‬ || יולי
+‪agosto‬ || אוגוסט
+‪septiembre‬ || ספטמבר
+‪octubre‬ || אוקטובר
+‪noviembre‬ || נובמבר
+‪diciembre‬ || דצמבר
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Mi cumpleaños es en mayo.‬ יום ההולדת שלי במאי.
+[MORISpanishExample] ‪La clase es en julio.‬ השיעור ביולי.
+[MORISpanishExample] ‪Voy a España en septiembre.‬ אני נוסע לספרד בספטמבר.
+[Heading3] תאריך בסיסי
+כדי להגיד תאריך פשוט:
+[MORISpanishExample] ‪el 15 de junio‬ ה־15 ביוני
+[MORISpanishExample] ‪el 3 de marzo‬ ה־3 במרץ
+דוגמאות:
+[MORISpanishExample] ‪Mi cumpleaños es el 15 de junio.‬ יום ההולדת שלי הוא ב־15 ביוני.
+[MORISpanishExample] ‪La clase es el 3 de marzo.‬ השיעור הוא ב־3 במרץ.
+בשלב הזה לא צריך להיכנס לכל חוקי התאריכים. רק להכיר את המבנה:
+[MORISpanishExample] ‪el +‬ מספר + ‪de +‬ חודש
+[Heading3] טיפ לדוברי עברית
+בעברית אומרים:
+ביום שני בשמונה במאי ב־15 ביוני
+בספרדית אין מילה אחת קבועה ל־“ב”. לכן כדאי ללמוד ביטויים שלמים:
+[MORISpanishExample] ‪el lunes‬ ביום שני
+[MORISpanishExample] ‪a las ocho‬ בשמונה
+[MORISpanishExample] ‪en mayo‬ במאי
+[MORISpanishExample] ‪el 15 de junio‬ ב־15 ביוני
+אל תנסה לתרגם כל “ב” לעברית. למד את הביטויים כמו שהם.
+[Heading3] מיני טקסט: השבוע של מאיה
+[MORISpanishExample] ‪El lunes tengo clase de español.‬ ביום שני יש לי שיעור ספרדית.
+[MORISpanishExample] ‪El martes voy al trabajo.‬ ביום שלישי אני הולכת לעבודה.
+[MORISpanishExample] ‪El miércoles voy a estudiar por la noche.‬ ביום רביעי אני הולכת ללמוד בערב.
+[MORISpanishExample] ‪El viernes voy a tomar café con una amiga.‬ ביום שישי אני הולכת לשתות קפה עם חברה.
+[MORISpanishExample] ‪El fin de semana voy a descansar.‬ בסוף השבוע אני הולכת לנוח.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם את היום המתאים:
+[MORIExerciseItem] יום שני = __________________
+[MORIExerciseItem] יום שלישי = __________________
+[MORIExerciseItem] יום שישי = __________________
+[MORIExerciseItem] שבת = __________________
+[MORIExerciseItem] יום ראשון = __________________
+[MORIExerciseItem] תרגם לספרדית:
+ביום שני יש לי שיעור.
+מחר אני הולך לעבוד.
+בשמונה אני לומד ספרדית.
+יום ההולדת שלי במאי.
+השיעור הוא ב־15 ביוני.
+[Heading3] משימת סיום יחידה 8
+בנה תוכנית שבועית קצרה בספרדית.
+[MORIExerciseItem] כתוב לפחות 7 משפטים.
+אפשר להשתמש בתבניות:
+[MORISpanishExample] ‪El lunes...‬ ביום שני...
+[MORISpanishExample] ‪El martes...‬ ביום שלישי...
+[MORISpanishExample] ‪Hoy voy a...‬ היום אני הולך...
+[MORISpanishExample] ‪Mañana voy a...‬ מחר אני הולך...
+[MORISpanishExample] ‪A las ocho...‬ בשמונה...
+[MORISpanishExample] ‪El fin de semana voy a...‬ בסוף השבוע אני הולך...
+דוגמה:
+[MORISpanishExample] ‪El lunes tengo clase de español.‬ ביום שני יש לי שיעור ספרדית.
+[MORISpanishExample] ‪El martes voy al trabajo.‬ ביום שלישי אני הולך לעבודה.
+[MORISpanishExample] ‪El viernes voy a tomar café con una amiga.‬ ביום שישי אני הולך לשתות קפה עם חברה.
+עכשיו כתוב:
+[Heading3] אני יכול עכשיו
+בסוף היחידה הזאת אני יכול:
+[MORIChecklist] ☐ להשתמש ב־‪voy / vas / va.‬
+[MORIChecklist] ☐ להגיד לאן אני הולך או נוסע.
+[MORIChecklist] ☐ להשתמש ב־‪al / a la.‬
+[MORIChecklist] ☐ לדבר על תוכניות עם ‪voy a +‬ פועל.
+[MORIChecklist] ☐ לשאול ‪¿Qué vas a hacer?‬
+[MORIChecklist] ☐ להשתמש בימי השבוע.
+[MORIChecklist] ☐ להגיד שעה בסיסית.
+[MORIChecklist] ☐ לדבר על חודש ותאריך בסיסי.
+[MORIChecklist] ☐ לבנות תוכנית שבועית פשוטה בספרדית.
+[Heading2] חזרה קצרה: יחידה 8
+[Heading3] מה למדתי ביחידה?
+למדתי את הפועל:
+[MORISpanishExample] ‪ir‬ ללכת / לנסוע
+הצורות החשובות:
+[MORISpanishExample] ‪voy =‬ אני הולך / נוסע ‪vas =‬ אתה / את הולך / נוסע ‪va =‬ הוא / היא הולך / נוסע ‪vamos =‬ אנחנו הולכים / נוסעים ‪van =‬ הם / אתם הולכים / נוסעים
+משפטים חשובים:
+[MORISpanishExample] ‪Voy a casa.‬ אני הולך הביתה.
+[MORISpanishExample] ‪Voy al trabajo.‬ אני הולך לעבודה.
+[MORISpanishExample] ‪Voy a la escuela.‬ אני הולך לבית הספר.
+[MORISpanishExample] ‪¿Adónde vas?‬ לאן אתה הולך?
+למדתי גם לדבר על תוכניות:
+[MORISpanishExample] ‪Voy a estudiar español.‬ אני הולך ללמוד ספרדית.
+[MORISpanishExample] ‪Voy a trabajar.‬ אני הולך לעבוד.
+[MORISpanishExample] ‪¿Qué vas a hacer hoy?‬ מה אתה הולך לעשות היום?
+ולמדתי זמן בסיסי:
+[MORISpanishExample] ‪el lunes =‬ ביום שני ‪mañana =‬ מחר ‪a las ocho =‬ בשמונה ‪en mayo =‬ במאי ‪el 15 de junio =‬ ב־15 ביוני
+[MORIUnitKicker] יחידה 09
+[Heading1] ספרדית בחיים האמיתיים
+[MORIUnitSubtitle] בית קפה, קניות, בגדים, תחבורה וכיוונים
+מטרת היחידה: להשתמש בספרדית במצבים יומיומיים אמיתיים.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ להזמין ולבקש חשבון
+[MORIChecklist] ☐ לקנות ולשאול מחיר
+[MORIChecklist] ☐ להשתמש בתחבורה ולשאול על כיוונים
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 24: בבית קפה ובמסעדה
+[MORIChapterSubtitle] להזמין בצורה פשוטה
+אחד המצבים הכי שימושיים בספרדית הוא להזמין משהו בבית קפה או במסעדה.
+החדשות הטובות: לא צריך לדעת הרבה דקדוק בשביל להתחיל.
+המשפט הכי שימושי הוא:
+[MORISpanishExample] ‪Quiero...‬ אני רוצה...
+דוגמאות:
+[MORISpanishExample] ‪Quiero un café.‬ אני רוצה קפה.
+[MORISpanishExample] ‪Quiero agua.‬ אני רוצה מים.
+[MORISpanishExample] ‪Quiero un té.‬ אני רוצה תה.
+[MORISpanishExample] ‪Quiero una mesa.‬ אני רוצה שולחן.
+אפשר להוסיף נימוס:
+[MORISpanishExample] ‪Quiero un café, por favor.‬ אני רוצה קפה, בבקשה.
+[Heading3] מילים חשובות בבית קפה
+[TABLE]
+ספרדית || עברית
+‪café‬ || קפה
+‪té‬ || תה
+‪agua‬ || מים
+‪leche‬ || חלב
+‪azúcar‬ || סוכר
+‪pan‬ || לחם
+‪sándwich‬ || כריך
+‪ensalada‬ || סלט
+‪mesa‬ || שולחן
+‪menú‬ || תפריט
+‪cuenta‬ || חשבון
+[/TABLE]
+[Heading3] עם ובלי
+כבר פגשת את המילים:
+[MORISpanishExample] ‪con‬ עם
+[MORISpanishExample] ‪sin‬ בלי
+בבית קפה הן שימושיות מאוד.
+דוגמאות:
+[MORISpanishExample] ‪Café con leche.‬ קפה עם חלב.
+[MORISpanishExample] ‪Café sin azúcar.‬ קפה בלי סוכר.
+[MORISpanishExample] ‪Agua sin gas.‬ מים בלי גז.
+[MORISpanishExample] ‪Agua con gas.‬ מים עם גז.
+[Heading3] משפטים שימושיים
+[MORISpanishExample] ‪Un café, por favor.‬ קפה אחד, בבקשה.
+[MORISpanishExample] ‪Un café con leche, por favor.‬ קפה עם חלב, בבקשה.
+[MORISpanishExample] ‪Un café sin azúcar, por favor.‬ קפה בלי סוכר, בבקשה.
+[MORISpanishExample] ‪Agua, por favor.‬ מים, בבקשה.
+[MORISpanishExample] ‪La cuenta, por favor.‬ החשבון, בבקשה.
+[MORISpanishExample] ‪Gracias.‬ תודה.
+[Heading3] איך שואלים “כמה זה עולה?”
+השאלה החשובה:
+[MORISpanishExample] ‪¿Cuánto cuesta?‬ כמה זה עולה?
+דוגמאות:
+[MORISpanishExample] ‪¿Cuánto cuesta el café?‬ כמה עולה הקפה?
+[MORISpanishExample] ‪¿Cuánto cuesta el sándwich?‬ כמה עולה הכריך?
+תשובות:
+[MORISpanishExample] ‪Cuesta cinco euros.‬ זה עולה חמישה אירו.
+[MORISpanishExample] ‪Cuesta diez pesos.‬ זה עולה עשרה פסו.
+[Heading3] טיפ לדוברי עברית
+בעברית אנחנו אומרים לפעמים:
+אפשר קפה?
+בספרדית אפשר להשתמש במבנה פשוט יותר:
+‪Quiero un café, por favor.‬
+זה נשמע ישיר, אבל עם ‪por favor‬ זה טבעי ומנומס.
+משפט זהב:
+[MORISpanishExample] ‪Quiero +‬ דבר + ‪por favor‬
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Camarero: Hola, buenos días.‬ שלום, בוקר טוב.
+[MORIDialogue] ‪Maya: Hola. Quiero un café con leche, por favor.‬ שלום. אני רוצה קפה עם חלב, בבקשה.
+[MORIDialogue] ‪Camarero: Muy bien. ¿Algo más?‬ טוב מאוד. עוד משהו?
+[MORIDialogue] ‪Maya: Sí, agua sin gas, por favor.‬ כן, מים בלי גז, בבקשה.
+[MORIDialogue] ‪Camarero: Perfecto.‬ מושלם.
+[MORIDialogue] ‪Maya: Gracias.‬ תודה.
+[MORIDialogue] ‪Maya: La cuenta, por favor.‬ החשבון, בבקשה.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪con‬ או ‪sin:‬
+[MORIExerciseItem] ‪Café ________ leche.‬ קפה עם חלב.
+[MORIExerciseItem] ‪Café ________ azúcar.‬ קפה בלי סוכר.
+[MORIExerciseItem] ‪Agua ________ gas.‬ מים עם גז.
+[MORIExerciseItem] ‪Agua ________ gas.‬ מים בלי גז.
+[MORIExerciseItem] תרגם לספרדית:
+אני רוצה קפה.
+קפה עם חלב, בבקשה.
+מים בלי גז, בבקשה.
+החשבון, בבקשה.
+כמה עולה הקפה?
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להזמין קפה או מים.
+[MORIChecklist] ☐ להשתמש ב־‪quiero‬ בבית קפה.
+[MORIChecklist] ☐ להשתמש ב־‪con‬ ו־‪sin.‬
+[MORIChecklist] ☐ לבקש חשבון.
+[MORIChecklist] ☐ לשאול כמה משהו עולה.
+[Heading2] פרק 25: קניות ומחירים
+[MORIChapterSubtitle] איך קונים משהו בספרדית?
+עכשיו נעבור לחנות.
+נלמד להגיד:
+אני רוצה לקנות... כמה זה עולה? זה יקר. זה זול. אני צריך... אני לא רוצה...
+המשפט המרכזי:
+[MORISpanishExample] ‪Quiero comprar...‬ אני רוצה לקנות...
+[Heading3] ‪Quiero comprar‬
+דוגמאות:
+[MORISpanishExample] ‪Quiero comprar un libro.‬ אני רוצה לקנות ספר.
+[MORISpanishExample] ‪Quiero comprar un teléfono.‬ אני רוצה לקנות טלפון.
+[MORISpanishExample] ‪Quiero comprar una camisa.‬ אני רוצה לקנות חולצה.
+[MORISpanishExample] ‪Quiero comprar agua.‬ אני רוצה לקנות מים.
+שימו לב:
+אחרי ‪quiero‬ הפועל נשאר בצורת המקור:
+[MORISpanishExample] ‪Quiero comprar.‬ אני רוצה לקנות.
+לא:
+‪Quiero compro.‬
+[Heading3] מילים שימושיות לקניות
+[TABLE]
+ספרדית || עברית
+‪tienda‬ || חנות
+‪supermercado‬ || סופרמרקט
+‪libro‬ || ספר
+‪teléfono‬ || טלפון
+‪camisa‬ || חולצה
+‪zapatos‬ || נעליים
+‪agua‬ || מים
+‪café‬ || קפה
+‪precio‬ || מחיר
+‪dinero‬ || כסף
+[/TABLE]
+[Heading3] כמה זה עולה?
+[MORISpanishExample] ‪¿Cuánto cuesta?‬ כמה זה עולה?
+דוגמאות:
+[MORISpanishExample] ‪¿Cuánto cuesta el libro?‬ כמה עולה הספר?
+[MORISpanishExample] ‪¿Cuánto cuesta la camisa?‬ כמה עולה החולצה?
+[MORISpanishExample] ‪¿Cuánto cuestan los zapatos?‬ כמה עולות הנעליים?
+שימו לב:
+דבר אחד:
+‪¿Cuánto cuesta?‬
+כמה דברים:
+‪¿Cuánto cuestan?‬
+בשלב הזה מספיק לזכור:
+[MORISpanishExample] ‪¿Cuánto cuesta?‬ כמה זה עולה?
+[Heading3] מחיר
+תשובות אפשריות:
+[MORISpanishExample] ‪Cuesta diez euros.‬ זה עולה עשרה אירו.
+[MORISpanishExample] ‪Cuesta veinte pesos.‬ זה עולה עשרים פסו.
+[MORISpanishExample] ‪Cuesta treinta dólares.‬ זה עולה שלושים דולר.
+אפשר גם להגיד:
+[MORISpanishExample] ‪Es caro.‬ זה יקר.
+[MORISpanishExample] ‪Es barato.‬ זה זול.
+[Heading3] אני צריך / אני לא רוצה
+עוד משפטים שימושיים:
+[MORISpanishExample] ‪Necesito agua.‬ אני צריך / צריכה מים.
+[MORISpanishExample] ‪Necesito una camisa.‬ אני צריך / צריכה חולצה.
+[MORISpanishExample] ‪No quiero esto.‬ אני לא רוצה את זה.
+[MORISpanishExample] ‪Quiero esto.‬ אני רוצה את זה.
+[MORISpanishExample] ‪Esto es caro.‬ זה יקר.
+[MORISpanishExample] ‪Esto es barato.‬ זה זול.
+[Heading3] טיפ לדוברי עברית
+בעברית אפשר להגיד:
+כמה זה?
+בספרדית עדיף ללמוד את המשפט השלם:
+[MORISpanishExample] ‪¿Cuánto cuesta?‬ כמה זה עולה?
+זה משפט זהב לקניות, בית קפה, שוק, חנות ומסעדה.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Cliente: Hola. Quiero comprar un libro.‬ שלום. אני רוצה לקנות ספר.
+[MORIDialogue] ‪Vendedor: Muy bien.‬ טוב מאוד.
+[MORIDialogue] ‪Cliente: ¿Cuánto cuesta?‬ כמה זה עולה?
+[MORIDialogue] ‪Vendedor: Cuesta diez euros.‬ זה עולה עשרה אירו.
+[MORIDialogue] ‪Cliente: Es barato. Lo quiero.‬ זה זול. אני רוצה אותו.
+[MORIDialogue] ‪Vendedor: Perfecto.‬ מושלם.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪quiero / necesito / cuesta:‬
+[MORIExerciseItem] ________ ‪comprar un libro.‬ אני רוצה לקנות ספר.
+[MORIExerciseItem] ________ ‪agua.‬ אני צריך מים.
+[MORIExerciseItem] ‪¿Cuánto ________?‬ כמה זה עולה?
+[MORIExerciseItem] ________ ‪una camisa.‬ אני רוצה חולצה.
+[MORIExerciseItem] תרגם לספרדית:
+אני רוצה לקנות טלפון.
+כמה זה עולה?
+זה יקר.
+זה זול.
+אני צריך מים.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להגיד שאני רוצה לקנות משהו.
+[MORIChecklist] ☐ לשאול כמה זה עולה.
+[MORIChecklist] ☐ להבין מחיר בסיסי.
+[MORIChecklist] ☐ להגיד שזה יקר או זול.
+[MORIChecklist] ☐ להשתמש ב־‪quiero comprar.‬
+[MORIChecklist] ☐ להשתמש ב־‪necesito‬ בקניות.
+[Heading2] פרק 26: בגדים וצבעים
+[MORIChapterSubtitle] לקנות ולתאר בגדים
+עכשיו נשתמש בקניות כדי לדבר על בגדים וצבעים.
+נלמד להגיד:
+אני רוצה חולצה לבנה. אני אוהב נעליים שחורות. החולצה יפה. השמלה יקרה. המכנסיים כחולים.
+[Heading3] בגדים בסיסיים
+[TABLE]
+ספרדית || עברית
+‪camisa‬ || חולצה
+‪camiseta‬ || טי־שירט
+‪pantalones‬ || מכנסיים
+‪zapatos‬ || נעליים
+‪vestido‬ || שמלה
+‪chaqueta‬ || ז׳קט
+‪falda‬ || חצאית
+‪sombrero‬ || כובע
+[/TABLE]
+שימו לב:
+[MORISpanishExample] ‪vestido =‬ שמלה
+למרות שבעברית “שמלה” היא נקבה, בספרדית ‪vestido‬ הוא זכר:
+[MORISpanishExample] ‪el vestido‬ השמלה
+זה אחד המקומות שבהם אסור לחשוב לפי עברית.
+[Heading3] צבעים בסיסיים
+[TABLE]
+ספרדית || עברית
+‪blanco / blanca‬ || לבן / לבנה
+‪negro / negra‬ || שחור / שחורה
+‪rojo / roja‬ || אדום / אדומה
+‪azul‬ || כחול / כחולה
+‪verde‬ || ירוק / ירוקה
+‪gris‬ || אפור / אפורה
+[/TABLE]
+[Heading3] התאמה בין בגד לצבע
+בספרדית, הרבה צבעים משתנים לפי זכר ונקבה.
+דוגמאות:
+[MORISpanishExample] ‪una camisa blanca‬ חולצה לבנה
+[MORISpanishExample] ‪un vestido rojo‬ שמלה אדומה
+[MORISpanishExample] ‪unos zapatos negros‬ נעליים שחורות
+[MORISpanishExample] ‪una chaqueta negra‬ ז׳קט שחור
+אבל יש צבעים שלא משתנים בזכר ונקבה:
+[MORISpanishExample] ‪azul‬ כחול / כחולה
+[MORISpanishExample] ‪verde‬ ירוק / ירוקה
+[MORISpanishExample] ‪gris‬ אפור / אפורה
+דוגמאות:
+[MORISpanishExample] ‪una camisa azul‬ חולצה כחולה
+[MORISpanishExample] ‪un vestido verde‬ שמלה ירוקה
+[Heading3] משפטים שימושיים
+[MORISpanishExample] ‪Quiero comprar una camisa blanca.‬ אני רוצה לקנות חולצה לבנה.
+[MORISpanishExample] ‪Quiero comprar unos zapatos negros.‬ אני רוצה לקנות נעליים שחורות.
+[MORISpanishExample] ‪Me gusta la camisa azul.‬ אני אוהב / אוהבת את החולצה הכחולה.
+[MORISpanishExample] ‪Me gustan los zapatos negros.‬ אני אוהב / אוהבת את הנעליים השחורות.
+[MORISpanishExample] ‪El vestido es caro.‬ השמלה יקרה.
+[MORISpanishExample] ‪La camisa es bonita.‬ החולצה יפה.
+[Heading3] טיפ לדוברי עברית
+עברית לא תמיד עוזרת לנו עם זכר ונקבה בספרדית.
+בעברית:
+שמלה = נקבה
+אבל בספרדית:
+[MORISpanishExample] ‪el vestido‬ השמלה
+לכן לא לומדים לפי עברית. לומדים לפי הספרדית:
+‪el vestido rojo la camisa blanca‬
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Cliente: Hola. Quiero comprar una camisa.‬ שלום. אני רוצה לקנות חולצה.
+[MORIDialogue] ‪Vendedor: ¿Qué color?‬ איזה צבע?
+[MORIDialogue] ‪Cliente: Blanca, por favor.‬ לבנה, בבקשה.
+[MORIDialogue] ‪Vendedor: Esta camisa es bonita.‬ החולצה הזאת יפה.
+[MORIDialogue] ‪Cliente: ¿Cuánto cuesta?‬ כמה היא עולה?
+[MORIDialogue] ‪Vendedor: Cuesta veinte euros.‬ היא עולה עשרים אירו.
+[MORIDialogue] ‪Cliente: Es un poco cara.‬ היא קצת יקרה.
+[Heading3] תרגול קצר
+[MORIExerciseItem] בחר את הצורה הנכונה:
+‪una camisa blanco / blanca‬
+‪un vestido rojo / roja‬
+‪unos zapatos negro / negros‬
+‪una camiseta azul / azula‬
+‪una chaqueta negro / negra‬
+[MORIExerciseItem] תרגם לספרדית:
+אני רוצה לקנות חולצה לבנה.
+אני אוהב את הנעליים השחורות.
+השמלה יקרה.
+החולצה יפה.
+כמה עולה החולצה?
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להגיד שמות של בגדים בסיסיים.
+[MORIChecklist] ☐ להגיד צבעים בסיסיים.
+[MORIChecklist] ☐ לתאר בגד עם צבע.
+[MORIChecklist] ☐ להגיד שאני רוצה לקנות בגד.
+[MORIChecklist] ☐ לשאול כמה הבגד עולה.
+[MORIChecklist] ☐ להבין שלא תמיד המין הדקדוקי דומה לעברית.
+[Heading2] פרק 27: תחבורה וכיוונים
+[MORIChapterSubtitle] להגיע ממקום למקום
+עכשיו נלמד להשתמש בספרדית בעיר אמיתית.
+נלמד להגיד:
+אני נוסע באוטובוס. אני הולך ברגל. איפה התחנה? איפה הסופרמרקט? ישר. ימינה. שמאלה.
+[Heading3] תחבורה בסיסית
+[TABLE]
+ספרדית || עברית
+‪autobús‬ || אוטובוס
+‪tren‬ || רכבת
+‪metro‬ || מטרו
+‪taxi‬ || מונית
+‪coche‬ || רכב
+‪bicicleta‬ || אופניים
+‪a pie‬ || ברגל
+[/TABLE]
+‪Voy en...‬
+כדי להגיד באיזה אמצעי תחבורה משתמשים, אומרים:
+[MORISpanishExample] ‪Voy en...‬ אני נוסע / נוסעת ב...
+דוגמאות:
+[MORISpanishExample] ‪Voy en autobús.‬ אני נוסע / נוסעת באוטובוס.
+[MORISpanishExample] ‪Voy en tren.‬ אני נוסע / נוסעת ברכבת.
+[MORISpanishExample] ‪Voy en metro.‬ אני נוסע / נוסעת במטרו.
+[MORISpanishExample] ‪Voy en taxi.‬ אני נוסע / נוסעת במונית.
+[MORISpanishExample] ‪Voy en coche.‬ אני נוסע / נוסעת ברכב.
+אבל:
+[MORISpanishExample] ‪Voy a pie.‬ אני הולך / הולכת ברגל.
+לא אומרים:
+‪Voy en pie.‬
+[Heading3] לאן ואיך?
+אפשר לחבר יעד ותחבורה:
+[MORISpanishExample] ‪Voy al trabajo en autobús.‬ אני נוסע / נוסעת לעבודה באוטובוס.
+[MORISpanishExample] ‪Voy a la escuela en metro.‬ אני נוסע / נוסעת לבית הספר במטרו.
+[MORISpanishExample] ‪Voy al centro en taxi.‬ אני נוסע / נוסעת למרכז במונית.
+[MORISpanishExample] ‪Voy a casa a pie.‬ אני הולך / הולכת הביתה ברגל.
+[Heading3] איפה המקום נמצא?
+השאלה החשובה:
+[MORISpanishExample] ‪¿Dónde está...?‬ איפה נמצא...?
+דוגמאות:
+[MORISpanishExample] ‪¿Dónde está la estación?‬ איפה התחנה?
+[MORISpanishExample] ‪¿Dónde está la parada de autobús?‬ איפה תחנת האוטובוס?
+[MORISpanishExample] ‪¿Dónde está el supermercado?‬ איפה הסופרמרקט?
+[MORISpanishExample] ‪¿Dónde está el café?‬ איפה בית הקפה?
+[Heading3] מילים לכיוונים
+[TABLE]
+ספרדית || עברית
+‪todo recto‬ || ישר
+‪a la derecha‬ || ימינה
+‪a la izquierda‬ || שמאלה
+‪cerca‬ || קרוב
+‪lejos‬ || רחוק
+‪aquí‬ || כאן
+‪allí‬ || שם
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪Todo recto.‬ ישר.
+[MORISpanishExample] ‪A la derecha.‬ ימינה.
+[MORISpanishExample] ‪A la izquierda.‬ שמאלה.
+[MORISpanishExample] ‪Está cerca.‬ זה קרוב.
+[MORISpanishExample] ‪Está lejos.‬ זה רחוק.
+[Heading3] תשובות פשוטות לכיוונים
+[MORISpanishExample] ‪Está aquí.‬ זה כאן.
+[MORISpanishExample] ‪Está allí.‬ זה שם.
+[MORISpanishExample] ‪Está cerca.‬ זה קרוב.
+[MORISpanishExample] ‪Está lejos.‬ זה רחוק.
+[MORISpanishExample] ‪Todo recto y a la derecha.‬ ישר ואז ימינה.
+[MORISpanishExample] ‪Todo recto y a la izquierda.‬ ישר ואז שמאלה.
+[Heading3] ‪¿Dónde?‬ או ‪¿Adónde?‬
+כבר למדנו:
+[MORISpanishExample] ‪¿Adónde vas?‬ לאן אתה הולך?
+משתמשים בזה עם תנועה.
+עכשיו נלמד:
+[MORISpanishExample] ‪¿Dónde está...?‬ איפה נמצא...?
+משתמשים בזה כדי לשאול על מיקום.
+דוגמאות:
+[MORISpanishExample] ‪¿Adónde vas?‬ לאן אתה הולך?
+[MORISpanishExample] ‪Voy al trabajo.‬ אני הולך לעבודה.
+אבל:
+[MORISpanishExample] ‪¿Dónde está el trabajo?‬ איפה העבודה נמצאת?
+[MORISpanishExample] ‪Está cerca.‬ היא קרובה.
+[Heading3] טיפ לדוברי עברית
+בעברית אומרים:
+אני נוסע באוטובוס.
+בספרדית אומרים:
+‪Voy en autobús.‬
+אבל ברגל אומרים:
+‪Voy a pie.‬
+משפט זהב:
+[MORISpanishExample] ‪en autobús / en tren / en taxi‬ אבל ‪a pie‬
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: Perdón, ¿dónde está la estación?‬ סליחה, איפה התחנה?
+[MORIDialogue] ‪Maya: Está cerca.‬ היא קרובה.
+[MORIDialogue] ‪Daniel: ¿Dónde exactamente?‬ איפה בדיוק?
+[MORIDialogue] ‪Maya: Todo recto y a la derecha.‬ ישר ואז ימינה.
+[MORIDialogue] ‪Daniel: Gracias.‬ תודה.
+[MORIDialogue] ‪Maya: De nada.‬ בבקשה.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם ‪en‬ או ‪a:‬
+[MORIExerciseItem] ‪Voy ________ autobús.‬
+[MORIExerciseItem] ‪Voy ________ tren.‬
+[MORIExerciseItem] ‪Voy ________ taxi.‬
+[MORIExerciseItem] ‪Voy ________ pie.‬
+[MORIExerciseItem] ‪Voy ________ metro.‬
+[MORIExerciseItem] תרגם לספרדית:
+אני נוסע באוטובוס.
+אני הולך ברגל.
+איפה התחנה?
+ישר ואז ימינה.
+בית הקפה קרוב.
+[Heading3] משימת סיום יחידה 9
+סימולציה: יום בעיר דוברת ספרדית.
+[MORIExerciseItem] כתוב דיאלוג קצר שבו אתה:
+מזמין קפה.
+שואל כמה זה עולה.
+קונה משהו.
+שואל איפה התחנה או הסופרמרקט.
+מקבל הוראות הגעה.
+אפשר להשתמש במשפטים:
+‪Quiero un café, por favor. ¿Cuánto cuesta? Quiero comprar... ¿Dónde está...? Todo recto y a la derecha.‬
+[Heading3] אני יכול עכשיו
+בסוף היחידה הזאת אני יכול:
+[MORIChecklist] ☐ להזמין קפה או מים.
+[MORIChecklist] ☐ לבקש חשבון.
+[MORIChecklist] ☐ לשאול כמה משהו עולה.
+[MORIChecklist] ☐ להגיד שאני רוצה לקנות משהו.
+[MORIChecklist] ☐ לתאר בגדים וצבעים בסיסיים.
+[MORIChecklist] ☐ להשתמש ב־‪voy en...‬ לתחבורה.
+[MORIChecklist] ☐ להשתמש ב־‪voy a pie.‬
+[MORIChecklist] ☐ לשאול איפה מקום נמצא.
+[MORIChecklist] ☐ להבין כיוונים בסיסיים.
+[Heading2] חזרה קצרה: יחידה 9
+[Heading3] מה למדתי ביחידה?
+משפטים בבית קפה:
+[MORISpanishExample] ‪Quiero un café, por favor.‬ אני רוצה קפה, בבקשה.
+[MORISpanishExample] ‪Café con leche.‬ קפה עם חלב.
+[MORISpanishExample] ‪Café sin azúcar.‬ קפה בלי סוכר.
+[MORISpanishExample] ‪La cuenta, por favor.‬ החשבון, בבקשה.
+קניות:
+[MORISpanishExample] ‪Quiero comprar un libro.‬ אני רוצה לקנות ספר.
+[MORISpanishExample] ‪¿Cuánto cuesta?‬ כמה זה עולה?
+[MORISpanishExample] ‪Es caro.‬ זה יקר.
+[MORISpanishExample] ‪Es barato.‬ זה זול.
+בגדים:
+[MORISpanishExample] ‪una camisa blanca‬ חולצה לבנה
+[MORISpanishExample] ‪unos zapatos negros‬ נעליים שחורות
+תחבורה וכיוונים:
+[MORISpanishExample] ‪Voy en autobús.‬ אני נוסע באוטובוס.
+[MORISpanishExample] ‪Voy a pie.‬ אני הולך ברגל.
+[MORISpanishExample] ‪¿Dónde está la estación?‬ איפה התחנה?
+[MORISpanishExample] ‪Todo recto.‬ ישר.
+[MORISpanishExample] ‪A la derecha.‬ ימינה.
+[MORISpanishExample] ‪A la izquierda.‬ שמאלה.
+[MORIUnitKicker] יחידה 10
+[Heading1] מזג אוויר, בריאות וסיכום ‪A1‬
+[MORIUnitSubtitle] מצב, צורך ובעיה בסיסית
+מטרת היחידה: לדבר על מזג האוויר ובריאות בסיסית ולחבר את כל מה שנלמד.
+[MORISubsectionHeading] בסיום היחידה אוכל:
+[MORIChecklist] ☐ לתאר מזג אוויר ועונות
+[MORIChecklist] ☐ להגיד מה כואב ואיך אני מרגיש
+[MORIChecklist] ☐ לבצע משימת סיום ברמת ‪A1‬
+[MORISmallNote] להבין  •  להגיד  •  להשתמש
+[Heading2] פרק 28: מזג אוויר ועונות
+[MORIChapterSubtitle] לדבר על מזג האוויר
+מזג אוויר הוא נושא קטן, אבל מאוד שימושי.
+אפשר לדבר עליו בטיול, בשיחה קצרה, בשיעור, או כשמתכננים מה לעשות.
+בספרדית משתמשים בכמה מבנים קבועים.
+הכי חשובים:
+[MORISpanishExample] ‪Hace calor.‬ חם.
+[MORISpanishExample] ‪Hace frío.‬ קר.
+[MORISpanishExample] ‪Hace sol.‬ שמשי.
+[MORISpanishExample] ‪Llueve.‬ יורד גשם.
+[MORISpanishExample] ‪Está nublado.‬ מעונן.
+[Heading3] ‪Hace‬
+המילה ‪hace‬ מופיעה בהרבה משפטים על מזג אוויר.
+דוגמאות:
+[MORISpanishExample] ‪Hace calor.‬ חם.
+[MORISpanishExample] ‪Hace frío.‬ קר.
+[MORISpanishExample] ‪Hace sol.‬ יש שמש / שמשי.
+[MORISpanishExample] ‪Hace viento.‬ יש רוח.
+שימו לב:
+לא אומרים:
+‪Es calor.‬
+אומרים:
+‪Hace calor.‬
+[Heading3] גשם ושלג
+בספרדית לגשם ושלג יש פעלים משלהם:
+[MORISpanishExample] ‪Llueve.‬ יורד גשם.
+[MORISpanishExample] ‪Nieva.‬ יורד שלג.
+דוגמאות:
+[MORISpanishExample] ‪Hoy llueve.‬ היום יורד גשם.
+[MORISpanishExample] ‪En invierno nieva.‬ בחורף יורד שלג.
+[Heading3] ‪Está nublado‬
+כדי להגיד “מעונן”, משתמשים ב:
+[MORISpanishExample] ‪Está nublado.‬ מעונן.
+דוגמאות:
+[MORISpanishExample] ‪Hoy está nublado.‬ היום מעונן.
+[MORISpanishExample] ‪Está nublado, pero no llueve.‬ מעונן, אבל לא יורד גשם.
+[Heading3] איך שואלים “מה מזג האוויר?”
+השאלה החשובה:
+[MORISpanishExample] ‪¿Qué tiempo hace?‬ מה מזג האוויר?
+תשובות אפשריות:
+[MORISpanishExample] ‪Hace calor.‬ חם.
+[MORISpanishExample] ‪Hace frío.‬ קר.
+[MORISpanishExample] ‪Hace sol.‬ שמשי.
+[MORISpanishExample] ‪Llueve.‬ יורד גשם.
+[MORISpanishExample] ‪Está nublado.‬ מעונן.
+[Heading3] עונות השנה
+[TABLE]
+ספרדית || עברית
+‪primavera‬ || אביב
+‪verano‬ || קיץ
+‪otoño‬ || סתיו
+‪invierno‬ || חורף
+[/TABLE]
+דוגמאות:
+[MORISpanishExample] ‪En verano hace calor.‬ בקיץ חם.
+[MORISpanishExample] ‪En invierno hace frío.‬ בחורף קר.
+[MORISpanishExample] ‪En primavera hace buen tiempo.‬ באביב מזג האוויר טוב.
+[MORISpanishExample] ‪En otoño llueve.‬ בסתיו יורד גשם.
+[Heading3] העונה האהובה עליי
+אפשר להשתמש ב־‪me gusta:‬
+[MORISpanishExample] ‪Me gusta el verano.‬ אני אוהב / אוהבת את הקיץ.
+[MORISpanishExample] ‪No me gusta el invierno.‬ אני לא אוהב / אוהבת את החורף.
+אפשר גם להסביר למה:
+[MORISpanishExample] ‪Me gusta el verano porque hace calor.‬ אני אוהב / אוהבת את הקיץ כי חם.
+[MORISpanishExample] ‪No me gusta el invierno porque hace frío.‬ אני לא אוהב / אוהבת את החורף כי קר.
+[Heading3] טיפ לדוברי עברית
+בעברית אומרים:
+יש שמש.
+בספרדית לא אומרים בדרך כלל:
+‪Hay sol.‬
+הדרך הטבעית היא:
+[MORISpanishExample] ‪Hace sol.‬ שמשי / יש שמש.
+משפט זהב:
+מזג אוויר בספרדית לומדים כביטויים שלמים.
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Qué tiempo hace hoy?‬ מה מזג האוויר היום?
+[MORIDialogue] ‪Maya: Hace calor y hace sol.‬ חם ושמשי.
+[MORIDialogue] ‪Daniel: Perfecto. Me gusta el verano.‬ מושלם. אני אוהב את הקיץ.
+[MORIDialogue] ‪Maya: A mí también, pero hoy hace mucho calor.‬ גם אני, אבל היום חם מאוד.
+[MORIDialogue] ‪Daniel: Sí, necesito agua.‬ כן, אני צריך מים.
+[Heading3] תרגול קצר
+[MORIExerciseItem] השלם עם הביטוי המתאים:
+[MORIExerciseItem] __________ ‪calor.‬ חם.
+[MORIExerciseItem] __________ ‪frío.‬ קר.
+[MORIExerciseItem] __________ ‪sol.‬ שמשי.
+[MORIExerciseItem] __________. יורד גשם.
+[MORIExerciseItem] ‪Está __________.‬ מעונן.
+[MORIExerciseItem] תרגם לספרדית:
+היום חם.
+בחורף קר.
+אני אוהב את הקיץ.
+יורד גשם.
+מה מזג האוויר?
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ לדבר על מזג האוויר.
+[MORIChecklist] ☐ להשתמש ב־‪Hace calor / Hace frío / Hace sol.‬
+[MORIChecklist] ☐ להגיד שיורד גשם.
+[MORIChecklist] ☐ להגיד שמעונן.
+[MORIChecklist] ☐ להשתמש בשמות העונות.
+[MORIChecklist] ☐ להגיד איזו עונה אני אוהב ולמה.
+[Heading2] פרק 29: גוף ובריאות בסיסית
+[MORIChapterSubtitle] כשלא מרגישים טוב
+עכשיו נלמד איך להגיד דברים בסיסיים על הגוף ועל בריאות.
+זה לא שיעור רפואי. המטרה היא לדעת להגיד משפטים פשוטים כמו:
+כואב לי הראש. כואבת לי הבטן. יש לי חום. אני עייף. אני צריך לנוח. אני צריך ללכת לרופא.
+[Heading3] חלקי גוף בסיסיים
+[TABLE]
+ספרדית || עברית
+‪cabeza‬ || ראש
+‪ojos‬ || עיניים
+‪boca‬ || פה
+‪mano‬ || יד
+‪manos‬ || ידיים
+‪pierna‬ || רגל
+‪piernas‬ || רגליים
+‪espalda‬ || גב
+‪estómago‬ || בטן
+‪dientes‬ || שיניים
+[/TABLE]
+[Heading3] ‪Me duele‬
+כדי להגיד “כואב לי...”, משתמשים ב:
+‪Me duele...‬
+כאשר מדברים על דבר אחד:
+[MORISpanishExample] ‪Me duele la cabeza.‬ כואב לי הראש.
+[MORISpanishExample] ‪Me duele el estómago.‬ כואבת לי הבטן.
+[MORISpanishExample] ‪Me duele la espalda.‬ כואב לי הגב.
+[Heading3] ‪Me duelen‬
+כאשר מדברים על כמה דברים, משתמשים ב:
+‪Me duelen...‬
+דוגמאות:
+[MORISpanishExample] ‪Me duelen los ojos.‬ כואבות לי העיניים.
+[MORISpanishExample] ‪Me duelen las piernas.‬ כואבות לי הרגליים.
+[MORISpanishExample] ‪Me duelen los dientes.‬ כואבות לי השיניים.
+משפט לזכור:
+[MORISpanishExample] ‪Me duele =‬ דבר אחד ‪Me duelen =‬ כמה דברים
+[Heading3] ‪Tengo fiebre‬
+כבר למדנו את ‪tener:‬
+[MORISpanishExample] ‪Tengo hambre.‬ אני רעב / רעבה.
+[MORISpanishExample] ‪Tengo sed.‬ אני צמא / צמאה.
+בבריאות משתמשים בו גם עם:
+[MORISpanishExample] ‪Tengo fiebre.‬ יש לי חום.
+[MORISpanishExample] ‪Tengo frío.‬ קר לי.
+[MORISpanishExample] ‪Tengo calor.‬ חם לי.
+שימו לב להבדל:
+[MORISpanishExample] ‪Hace frío.‬ קר בחוץ / מזג האוויר קר.
+[MORISpanishExample] ‪Tengo frío.‬ קר לי.
+[MORISpanishExample] ‪Hace calor.‬ חם בחוץ.
+[MORISpanishExample] ‪Tengo calor.‬ חם לי.
+[Heading3] איך אני מרגיש?
+אפשר להשתמש גם ב־‪estar:‬
+[MORISpanishExample] ‪Estoy bien.‬ אני בסדר.
+[MORISpanishExample] ‪No estoy bien.‬ אני לא בסדר.
+[MORISpanishExample] ‪Estoy mal.‬ אני מרגיש / מרגישה לא טוב.
+[MORISpanishExample] ‪Estoy cansado.‬ אני עייף.
+[MORISpanishExample] ‪Estoy cansada.‬ אני עייפה.
+[MORISpanishExample] ‪Estoy enfermo.‬ אני חולה.
+[MORISpanishExample] ‪Estoy enferma.‬ אני חולה.
+[Heading3] מה אני צריך?
+כדי להגיד מה אני צריך, משתמשים ב־‪necesito:‬
+[MORISpanishExample] ‪Necesito descansar.‬ אני צריך / צריכה לנוח.
+[MORISpanishExample] ‪Necesito dormir.‬ אני צריך / צריכה לישון.
+[MORISpanishExample] ‪Necesito agua.‬ אני צריך / צריכה מים.
+[MORISpanishExample] ‪Necesito ir al médico.‬ אני צריך / צריכה ללכת לרופא.
+[Heading3] שאלות שימושיות
+[MORISpanishExample] ‪¿Qué te duele?‬ מה כואב לך?
+[MORISpanishExample] ‪¿Te duele la cabeza?‬ כואב לך הראש?
+[MORISpanishExample] ‪¿Estás bien?‬ אתה / את בסדר?
+[MORISpanishExample] ‪¿Tienes fiebre?‬ יש לך חום?
+תשובות:
+[MORISpanishExample] ‪Me duele la cabeza.‬ כואב לי הראש.
+[MORISpanishExample] ‪No estoy bien.‬ אני לא בסדר.
+[MORISpanishExample] ‪Sí, tengo fiebre.‬ כן, יש לי חום.
+[MORISpanishExample] ‪Necesito descansar.‬ אני צריך / צריכה לנוח.
+[Heading3] טיפ לדוברי עברית
+בעברית אומרים:
+כואב לי הראש.
+בספרדית אומרים כמעט אותו רעיון:
+‪Me duele la cabeza.‬
+אבל חשוב לשים לב:
+לא אומרים:
+[MORISpanishExample] ‪Tengo dolor cabeza‬ בשלב הזה.
+המשפט הטבעי והחשוב הוא:
+‪Me duele la cabeza.‬
+משפט זהב:
+[MORISpanishExample] ‪Me duele +‬ דבר אחד ‪Me duelen +‬ כמה דברים
+[Heading3] מיני דיאלוג
+[MORIDialogue] ‪Daniel: ¿Estás bien?‬ את בסדר?
+[MORIDialogue] ‪Maya: No, no estoy bien.‬ לא, אני לא בסדר.
+[MORIDialogue] ‪Daniel: ¿Qué te duele?‬ מה כואב לך?
+[MORIDialogue] ‪Maya: Me duele la cabeza.‬ כואב לי הראש.
+[MORIDialogue] ‪Daniel: ¿Tienes fiebre?‬ יש לך חום?
+[MORIDialogue] ‪Maya: Sí, tengo fiebre.‬ כן, יש לי חום.
+[MORIDialogue] ‪Daniel: Necesitas descansar.‬ את צריכה לנוח.
+[MORIDialogue] ‪Maya: Sí, necesito dormir.‬ כן, אני צריכה לישון.
+[Heading3] תרגול קצר
+[MORIExerciseItem] בחר ‪Me duele‬ או ‪Me duelen:‬
+[MORIExerciseItem] __________ ‪la cabeza.‬ כואב לי הראש.
+[MORIExerciseItem] __________ ‪los ojos.‬ כואבות לי העיניים.
+[MORIExerciseItem] __________ ‪el estómago.‬ כואבת לי הבטן.
+[MORIExerciseItem] __________ ‪las piernas.‬ כואבות לי הרגליים.
+[MORIExerciseItem] __________ ‪los dientes.‬ כואבות לי השיניים.
+[MORIExerciseItem] תרגם לספרדית:
+כואב לי הראש.
+יש לי חום.
+אני לא בסדר.
+אני צריך לנוח.
+אני צריך ללכת לרופא.
+[Heading3] אני יכול עכשיו
+בסוף הפרק הזה אני יכול:
+[MORIChecklist] ☐ להגיד חלקי גוף בסיסיים.
+[MORIChecklist] ☐ להגיד שכואב לי משהו.
+[MORIChecklist] ☐ להשתמש ב־‪Me duele / Me duelen.‬
+[MORIChecklist] ☐ להגיד שיש לי חום.
+[MORIChecklist] ☐ להגיד שאני לא מרגיש טוב.
+[MORIChecklist] ☐ להגיד שאני צריך לנוח או ללכת לרופא.
+[Heading2] פרק 30: חזרה גדולה וסיכום ‪A1‬
+[MORIChapterSubtitle] מה אני כבר יודע לעשות?
+אם הגעת לכאן, יש לך בסיס אמיתי בספרדית.
+אתה עדיין לא צריך לדבר מהר. אתה עדיין לא צריך להבין הכול. אבל אתה כן אמור להיות מסוגל להשתמש בספרדית במצבים בסיסיים.
+רמת ‪A1‬ היא לא שלמות. רמת ‪A1‬ היא התחלה יציבה.
+[Heading3] אני יכול להציג את עצמי
+[MORISpanishExample] ‪Hola, soy Daniel.‬ שלום, אני דניאל.
+[MORISpanishExample] ‪Soy de Israel.‬ אני מישראל.
+[MORISpanishExample] ‪Soy estudiante de español.‬ אני תלמיד / תלמידה לספרדית.
+[MORISpanishExample] ‪Soy una persona curiosa.‬ אני אדם סקרן.
+[Heading3] אני יכול לדבר על דברים שיש לי
+[MORISpanishExample] ‪Tengo un teléfono.‬ יש לי טלפון.
+[MORISpanishExample] ‪No tengo tiempo.‬ אין לי זמן.
+[MORISpanishExample] ‪Tengo 30 años.‬ אני בן / בת 30.
+[MORISpanishExample] ‪Tengo una familia pequeña.‬ יש לי משפחה קטנה.
+[Heading3] אני יכול לדבר על מקום
+[MORISpanishExample] ‪Estoy en casa.‬ אני בבית.
+[MORISpanishExample] ‪Estoy bien.‬ אני בסדר.
+[MORISpanishExample] ‪Hay una mesa en mi habitación.‬ יש שולחן בחדר שלי.
+[MORISpanishExample] ‪El libro está en la mesa.‬ הספר על השולחן.
+[Heading3] אני יכול לדבר על השגרה שלי
+[MORISpanishExample] ‪Me levanto a las siete.‬ אני קם / קמה בשבע.
+[MORISpanishExample] ‪Tomo café por la mañana.‬ אני שותה קפה בבוקר.
+[MORISpanishExample] ‪Trabajo en casa.‬ אני עובד / עובדת בבית.
+[MORISpanishExample] ‪Estudio español por la noche.‬ אני לומד / לומדת ספרדית בערב.
+[Heading3] אני יכול לדבר על העדפות ורצונות
+[MORISpanishExample] ‪Me gusta el café.‬ אני אוהב / אוהבת קפה.
+[MORISpanishExample] ‪Me gusta estudiar español.‬ אני אוהב / אוהבת ללמוד ספרדית.
+[MORISpanishExample] ‪Quiero hablar español.‬ אני רוצה לדבר ספרדית.
+[MORISpanishExample] ‪Necesito practicar.‬ אני צריך / צריכה לתרגל.
+[MORISpanishExample] ‪Puedo hablar un poco de español.‬ אני יכול / יכולה לדבר קצת ספרדית.
+[Heading3] אני יכול לדבר על תוכניות
+[MORISpanishExample] ‪Voy al trabajo.‬ אני הולך / נוסע לעבודה.
+[MORISpanishExample] ‪Voy a estudiar español.‬ אני הולך / הולכת ללמוד ספרדית.
+[MORISpanishExample] ‪El lunes tengo clase.‬ ביום שני יש לי שיעור.
+[MORISpanishExample] ‪A las ocho estudio español.‬ בשמונה אני לומד / לומדת ספרדית.
+[Heading3] אני יכול להסתדר במצבים אמיתיים
+[MORISpanishExample] ‪Quiero un café, por favor.‬ אני רוצה קפה, בבקשה.
+[MORISpanishExample] ‪¿Cuánto cuesta?‬ כמה זה עולה?
+[MORISpanishExample] ‪La cuenta, por favor.‬ החשבון, בבקשה.
+[MORISpanishExample] ‪¿Dónde está la estación?‬ איפה התחנה?
+[MORISpanishExample] ‪Voy en autobús.‬ אני נוסע / נוסעת באוטובוס.
+[Heading3] אני יכול לדבר על מזג אוויר ובריאות
+[MORISpanishExample] ‪Hace calor.‬ חם.
+[MORISpanishExample] ‪Hace frío.‬ קר.
+[MORISpanishExample] ‪Está nublado.‬ מעונן.
+[MORISpanishExample] ‪Me duele la cabeza.‬ כואב לי הראש.
+[MORISpanishExample] ‪Tengo fiebre.‬ יש לי חום.
+[MORISpanishExample] ‪Necesito descansar.‬ אני צריך / צריכה לנוח.
+[Heading3] משימת סיום ‪A1‬
+[MORIExerciseItem] כתוב טקסט קצר של 10-12 משפטים על עצמך.
+הטקסט צריך לכלול:
+מי אתה
+מאיפה אתה
+בן כמה אתה
+משהו על המשפחה שלך
+איפה אתה גר
+משהו על השגרה שלך
+משהו שאתה אוהב
+משהו שאתה רוצה ללמוד או לעשות
+תוכנית קרובה
+משפט על מזג האוויר או על מצב בריאותי
+אפשר להשתמש בתבניות:
+‪Hola, soy... Soy de... Tengo ___ años. Tengo una familia... Vivo en... Por la mañana... Me gusta... Quiero... Voy a... Hace... / Estoy... / Me duele...‬
+[Heading3] דף “אני יכול עכשיו”
+[MORIExerciseItem] סמן מה אתה כבר יכול לעשות:
+[MORIChecklist] ☐ אני יכול לקרוא מילים בסיסיות בספרדית.
+[MORIChecklist] ☐ אני יכול להגיד שלום, תודה ובבקשה.
+[MORIChecklist] ☐ אני יכול להציג את עצמי.
+[MORIChecklist] ☐ אני יכול להגיד מאיפה אני.
+[MORIChecklist] ☐ אני יכול להגיד בן כמה אני.
+[MORIChecklist] ☐ אני יכול לדבר על המשפחה שלי.
+[MORIChecklist] ☐ אני יכול לתאר חדר או בית.
+[MORIChecklist] ☐ אני יכול לדבר על השגרה שלי.
+[MORIChecklist] ☐ אני יכול להגיד מה אני אוהב.
+[MORIChecklist] ☐ אני יכול להגיד מה אני רוצה, צריך ויכול לעשות.
+[MORIChecklist] ☐ אני יכול לדבר על תוכניות קרובות.
+[MORIChecklist] ☐ אני יכול להזמין קפה.
+[MORIChecklist] ☐ אני יכול לשאול כמה משהו עולה.
+[MORIChecklist] ☐ אני יכול לשאול איפה מקום נמצא.
+[MORIChecklist] ☐ אני יכול לדבר על מזג האוויר.
+[MORIChecklist] ☐ אני יכול להגיד שכואב לי משהו.
+[Heading2] בדיקת סיום ‪A1‬
+[MORIChapterSubtitle] בדיקה עצמית קצרה שמחברת בין דקדוק, אוצר מילים והבנת הנקרא.
+איך עובדים: ענו בלי להסתכל בפרקים הקודמים. לאחר מכן בדקו את התשובות וחזרו רק לנושאים שעדיין אינם יציבים.
+[MORISectionHeading] חלק א: משלימים את המשפט
+[MORIExerciseItem] ‪1. Yo ________ de Israel. ser‬
+[MORIExerciseItem] ‪2. Maya ________ en casa. estar‬
+[MORIExerciseItem] ‪3. En mi habitación ________ una mesa. hay / está‬
+[MORIExerciseItem] ‪4. Yo ________ 30 años. tener‬
+[MORIExerciseItem] ‪5. ¿________ hermanos? tener, tú‬
+[MORIExerciseItem] ‪6. Todos los días yo ________ español. estudiar‬
+[MORIExerciseItem] ‪7. Por la mañana me ________ a las siete. levantar‬
+[MORIExerciseItem] ‪8. Me ________ los libros. gusta / gustan‬
+[MORIExerciseItem] ‪9. Mañana voy a ________ español. practicar‬
+[MORIExerciseItem] ‪10. Voy al trabajo ________ autobús. en / a‬
+[MORISectionHeading] חלק ב: מתרגמים לספרדית
+[MORIExerciseItem] 11. אני מישראל.
+[MORIExerciseItem] 12. יש לי אחות.
+[MORIExerciseItem] 13. אני בבית.
+[MORIExerciseItem] 14. אני אוהב ללמוד ספרדית.
+[MORIExerciseItem] 15. איפה התחנה?
+[MORISectionHeading] חלק ג: הבנת הנקרא
+[MORIDialogue] ‪Hola, soy Laura. Soy de México y vivo en Madrid. Tengo 28 años y trabajo en una escuela. Por la mañana me levanto a las siete y voy al trabajo en metro. Me gusta el café, pero no me gusta el té. Este fin de semana voy a visitar a mi familia.‬
+[MORIExerciseItem] ‪16. ¿De dónde es Laura?‬
+[MORIExerciseItem] ‪17. ¿Dónde vive?‬
+[MORIExerciseItem] ‪18. ¿Dónde trabaja?‬
+[MORIExerciseItem] ‪19. ¿Cómo va al trabajo?‬
+[MORIExerciseItem] ‪20. ¿Qué va a hacer este fin de semana?‬
+[MORISectionHeading] חלק ד: מדברים וכותבים
+[MORIExerciseItem] כתבו 8-10 משפטים על עצמכם. כללו הצגה עצמית, משפחה, שגרה, העדפה אחת ותוכנית קרובה.
+[MORIExerciseItem] קראו את הטקסט בקול והקליטו את עצמכם. המטרה היא רצף ברור, לא מהירות.
+[Heading2] מפתח תשובות לבדיקת הסיום
+[MORISpanishExample] ‪1. soy‬
+[MORISpanishExample] ‪2. está‬
+[MORISpanishExample] ‪3. hay‬
+[MORISpanishExample] ‪4. tengo‬
+[MORISpanishExample] ‪5. Tienes‬
+[MORISpanishExample] ‪6. estudio‬
+[MORISpanishExample] ‪7. levanto‬
+[MORISpanishExample] ‪8. gustan‬
+[MORISpanishExample] ‪9. practicar‬
+[MORISpanishExample] ‪10. en‬
+[MORISpanishExample] ‪11. Soy de Israel.‬
+[MORISpanishExample] ‪12. Tengo una hermana.‬
+[MORISpanishExample] ‪13. Estoy en casa.‬
+[MORISpanishExample] ‪14. Me gusta estudiar español.‬
+[MORISpanishExample] ‪15. ¿Dónde está la estación?‬
+[MORISpanishExample] ‪16. Es de México.‬
+[MORISpanishExample] ‪17. Vive en Madrid.‬
+[MORISpanishExample] ‪18. Trabaja en una escuela.‬
+[MORISpanishExample] ‪19. Va en metro.‬
+[MORISpanishExample] ‪20. Va a visitar a su familia.‬
+איך לפרש את התוצאה: 16-20 תשובות נכונות מצביעות על בסיס יציב. 11-15 מצביעות על בסיס טוב שדורש חזרה ממוקדת. עד 10 תשובות נכונות הן הזמנה לחזור ליחידות הרלוונטיות ולנסות שוב.

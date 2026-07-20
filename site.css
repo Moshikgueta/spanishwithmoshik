@@ -1,0 +1,399 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700;800&family=Frank+Ruhl+Libre:wght@500;700;900&display=swap");
+
+:root {
+  --navy: #1e3a5c;
+  --navy-deep: #122a45;
+  --rust: #b5502f;
+  --rust-dark: #8f3b24;
+  --gold: #e0a63c;
+  --cream: #fbf7ef;
+  --paper: #fffdf8;
+  --ink: #2a2520;
+  --muted: #746d63;
+  --line: #e5ded2;
+  --green: #2f7657;
+  --green-soft: #eaf5ef;
+  --amber-soft: #fff4d9;
+  --red-soft: #fae9e4;
+  --shadow: 0 18px 55px rgba(31, 43, 56, 0.11);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: "Assistant", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration: none; }
+button, textarea { font: inherit; }
+button { cursor: pointer; }
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  flex: 0 0 auto;
+}
+.brand-mark {
+  width: 43px;
+  height: 43px;
+  display: grid;
+  place-items: center;
+  border-radius: 50% 50% 50% 9px;
+  background: var(--rust);
+  color: white;
+  font: 900 24px/1 "Frank Ruhl Libre", serif;
+  transform: rotate(-5deg);
+  box-shadow: 0 7px 18px rgba(181, 80, 47, 0.18);
+}
+.brand > span:last-child { display: grid; line-height: 1.08; }
+.brand strong { color: var(--navy); font: 700 18px "Frank Ruhl Libre", serif; }
+.brand small { margin-top: 5px; color: var(--muted); font-size: 11px; }
+.eyebrow {
+  margin: 0 0 12px;
+  color: var(--rust);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+/* Home */
+.site-home { min-height: 100vh; overflow: hidden; }
+.site-header {
+  width: min(1180px, calc(100% - 48px));
+  height: 92px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+}
+.site-header nav { display: flex; align-items: center; gap: 30px; color: var(--navy); font-weight: 700; font-size: 14px; }
+.site-header nav a:hover { color: var(--rust); }
+.nav-pill { padding: 11px 20px; border-radius: 999px; background: var(--navy); color: white !important; }
+.nav-pill:hover { background: var(--rust); }
+
+.home-hero {
+  width: min(1180px, calc(100% - 48px));
+  min-height: 690px;
+  margin: 0 auto;
+  padding: 60px 0 105px;
+  display: grid;
+  grid-template-columns: 1.04fr 0.96fr;
+  align-items: center;
+  gap: 72px;
+}
+.hero-copy h1 {
+  max-width: 720px;
+  margin: 0;
+  color: var(--navy);
+  font: 900 clamp(54px, 6vw, 83px)/0.98 "Frank Ruhl Libre", serif;
+  letter-spacing: -0.04em;
+}
+.hero-copy h1 span { color: var(--rust); }
+.hero-lead { max-width: 650px; margin: 28px 0 0; color: #514a42; font-size: 19px; line-height: 1.75; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 34px; }
+.button {
+  min-height: 51px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 0 27px;
+  border: 0;
+  border-radius: 999px;
+  font-weight: 800;
+  transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease;
+}
+.button:hover { transform: translateY(-2px); }
+.button-primary { background: var(--navy); color: white; box-shadow: 0 12px 30px rgba(30, 58, 92, 0.18); }
+.button-primary:hover { background: var(--rust); }
+.button-secondary { border: 1px solid #cec4b4; background: rgba(255, 255, 255, 0.5); color: var(--navy); }
+.button-secondary:hover { border-color: var(--rust); color: var(--rust); }
+.hero-stats { margin-top: 42px; display: flex; color: var(--muted); font-size: 13px; }
+.hero-stats span { padding: 0 22px; border-left: 1px solid #d8cfc1; }
+.hero-stats span:first-child { padding-right: 0; }
+.hero-stats span:last-child { border-left: 0; }
+.hero-stats b { margin-left: 5px; color: var(--navy); font: 800 23px "Frank Ruhl Libre", serif; }
+
+.product-stack { min-height: 560px; position: relative; }
+.product-stack::before {
+  content: "";
+  position: absolute;
+  inset: 45px 44px 30px 20px;
+  border-radius: 50%;
+  background: rgba(224, 166, 60, 0.22);
+  filter: blur(2px);
+}
+.product-cover {
+  width: 302px;
+  min-height: 394px;
+  position: absolute;
+  border-radius: 8px 18px 18px 8px;
+  padding: 34px;
+  box-shadow: -16px 22px 48px rgba(26, 42, 59, 0.24);
+  overflow: hidden;
+}
+.product-cover::after {
+  content: "";
+  position: absolute;
+  width: 190px;
+  height: 190px;
+  left: -70px;
+  bottom: -94px;
+  border-radius: 50%;
+  opacity: 0.8;
+}
+.book-product { top: 28px; right: 38px; z-index: 2; background: var(--navy); color: white; transform: rotate(3deg); }
+.book-product::after { background: var(--gold); }
+.workbook-product { bottom: 12px; left: 8px; z-index: 3; background: var(--paper); color: var(--ink); transform: rotate(-4deg); }
+.workbook-product::after { background: var(--rust); }
+.product-kicker { position: relative; z-index: 1; color: var(--gold); font-size: 11px; font-weight: 800; letter-spacing: 0.12em; }
+.workbook-product .product-kicker { color: var(--rust); }
+.product-icon { width: 58px; height: 58px; margin-top: 36px; display: grid; place-items: center; border: 1px solid rgba(255,255,255,.26); border-radius: 14px; font: 800 25px "Frank Ruhl Libre", serif; }
+.workbook-product .product-icon { border-color: var(--line); color: var(--rust); }
+.product-cover h2 { position: relative; z-index: 1; margin: 27px 0 10px; font: 800 33px/1.1 "Frank Ruhl Libre", serif; }
+.product-cover p { position: relative; z-index: 1; min-height: 80px; margin: 0; color: #c8d2de; font-size: 14px; line-height: 1.65; }
+.workbook-product p { color: var(--muted); }
+.product-cover a { position: relative; z-index: 1; display: inline-flex; gap: 12px; margin-top: 20px; font-weight: 800; color: var(--gold); }
+.workbook-product a { color: var(--rust); }
+.stack-note { position: absolute; z-index: 5; left: 164px; top: 230px; min-width: 205px; padding: 14px 18px; display: grid; border-radius: 13px; border: 1px solid var(--line); background: white; box-shadow: var(--shadow); transform: rotate(2deg); }
+.stack-note b { color: var(--navy); }
+.stack-note span { margin-top: 2px; color: var(--muted); font-size: 11px; }
+
+.method-band { padding: 102px max(24px, calc((100vw - 1180px) / 2)); background: var(--navy); color: white; }
+.section-intro { max-width: 760px; }
+.section-intro h2 { margin: 0; color: var(--navy); font: 900 clamp(38px, 4.3vw, 56px)/1.1 "Frank Ruhl Libre", serif; letter-spacing: -0.02em; }
+.section-intro > p:last-child { margin: 17px 0 0; color: var(--muted); font-size: 17px; line-height: 1.7; }
+.section-intro.light h2 { color: white; }
+.section-intro.light > p:last-child { color: #bdc9d5; }
+.section-intro.light .eyebrow { color: var(--gold); }
+.method-steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; margin-top: 52px; }
+.method-steps article { min-height: 225px; padding: 25px; position: relative; border: 1px solid rgba(255,255,255,.12); border-radius: 17px; background: rgba(255,255,255,.055); }
+.method-steps article > span { width: 48px; height: 48px; display: grid; place-items: center; border-radius: 13px; background: var(--gold); color: var(--navy); font: 900 22px "Frank Ruhl Libre", serif; }
+.method-steps h3 { margin: 25px 0 8px; font: 700 24px "Frank Ruhl Libre", serif; }
+.method-steps p { margin: 0; color: #c7d2de; line-height: 1.7; font-size: 14px; }
+
+.path-section { width: min(1180px, calc(100% - 48px)); margin: 0 auto; padding: 110px 0; }
+.unit-path { margin-top: 52px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+.unit-path article { min-height: 118px; display: grid; grid-template-columns: 66px 1fr; align-items: center; column-gap: 22px; padding: 22px 26px; border: 1px solid var(--line); border-radius: 15px; background: var(--paper); transition: transform .2s ease, box-shadow .2s ease; }
+.unit-path article:hover { transform: translateY(-3px); box-shadow: 0 14px 35px rgba(58,48,36,.07); }
+.unit-path article > span { grid-row: 1 / 3; color: var(--gold); font: 900 42px "Frank Ruhl Libre", serif; border-left: 1px solid var(--line); }
+.unit-path h3 { margin: 0; color: var(--navy); font: 700 22px "Frank Ruhl Libre", serif; }
+.unit-path small { color: var(--rust); font-weight: 700; }
+
+.final-cta { padding: 76px max(24px, calc((100vw - 1180px) / 2)); display: flex; align-items: center; justify-content: space-between; gap: 40px; background: var(--rust); color: white; }
+.final-cta h2 { margin: 0; font: 800 clamp(34px, 4vw, 48px) "Frank Ruhl Libre", serif; }
+.final-cta .eyebrow { color: #f4cc83; }
+.final-actions { display: flex; gap: 12px; }
+.button-light { background: white; color: var(--rust); }
+.button-gold { background: var(--gold); color: var(--navy); }
+.site-footer { width: min(1180px, calc(100% - 48px)); min-height: 128px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 30px; color: var(--muted); font-size: 13px; }
+
+/* Workbook shell */
+.workbook-app { min-height: 100vh; background: #f7f3eb; }
+.workbook-header {
+  height: 82px;
+  padding: 0 28px;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 34px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 253, 248, 0.96);
+  backdrop-filter: blur(16px);
+}
+.workbook-header nav { justify-self: center; display: flex; align-items: center; gap: 26px; color: var(--muted); font-size: 13px; font-weight: 700; }
+.workbook-header nav a:hover { color: var(--rust); }
+.current-product { padding: 9px 15px; border-radius: 999px; background: #efe7da; color: var(--navy); }
+.overall-progress { width: 166px; direction: rtl; }
+.overall-progress > span { display: flex; align-items: baseline; justify-content: space-between; color: var(--muted); }
+.overall-progress b { color: var(--navy); font-size: 17px; }
+.overall-progress small { font-size: 10px; }
+.overall-progress > div { height: 5px; margin-top: 5px; overflow: hidden; border-radius: 99px; background: #e7dfd2; }
+.overall-progress i { height: 100%; display: block; border-radius: inherit; background: var(--rust); transition: width .35s ease; }
+.sidebar-toggle { display: none; border: 0; padding: 9px 15px; border-radius: 9px; background: var(--navy); color: white; font-weight: 800; }
+
+.workbook-shell { min-height: calc(100vh - 82px); display: grid; grid-template-columns: 300px minmax(0, 1fr); direction: ltr; }
+.workbook-sidebar { padding: 30px 18px; direction: rtl; border-left: 1px solid var(--line); background: var(--paper); }
+.sidebar-heading { padding: 0 10px 19px; }
+.sidebar-heading p { margin: 0; color: var(--rust); font-size: 11px; font-weight: 800; letter-spacing: .08em; }
+.sidebar-heading h2 { margin: 5px 0 0; color: var(--navy); font: 800 26px "Frank Ruhl Libre", serif; }
+.unit-list { display: grid; gap: 6px; }
+.unit-list button {
+  min-height: 72px;
+  padding: 10px 12px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  align-items: center;
+  gap: 10px;
+  overflow: hidden;
+  text-align: right;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  background: transparent;
+  color: var(--ink);
+}
+.unit-list button:hover { background: #f7f2e9; }
+.unit-list button.active { border-color: #ddcdbb; background: #f2eadf; }
+.unit-list button > span:first-child { color: var(--gold); font: 900 25px "Frank Ruhl Libre", serif; }
+.unit-list button > span:nth-child(2) { display: grid; min-width: 0; }
+.unit-list button b { overflow: hidden; color: var(--navy); font-size: 13px; text-overflow: ellipsis; white-space: nowrap; }
+.unit-list button small { margin-top: 4px; color: var(--muted); font-size: 10px; }
+.unit-list button i { height: 3px; position: absolute; right: 0; bottom: 0; left: 0; background: linear-gradient(to left, var(--rust) var(--progress), transparent var(--progress)); }
+.sidebar-tip { margin: 24px 8px 0; padding: 18px; border-radius: 13px; background: var(--navy); color: white; }
+.sidebar-tip span { color: var(--gold); font-size: 11px; font-weight: 800; }
+.sidebar-tip p { margin: 7px 0 0; color: #d1dbe5; font-size: 12px; line-height: 1.6; }
+
+.workbook-main { width: min(980px, calc(100% - 56px)); margin: 0 auto; padding: 28px 0 90px; direction: rtl; }
+.lesson-selector { display: flex; align-items: center; gap: 18px; margin-bottom: 22px; overflow-x: auto; scrollbar-width: none; }
+.lesson-selector::-webkit-scrollbar { display: none; }
+.lesson-selector > span { flex: 0 0 auto; color: var(--rust); font-size: 12px; font-weight: 800; }
+.lesson-selector > div { display: flex; gap: 7px; }
+.lesson-selector button { min-width: max-content; padding: 8px 13px; display: inline-flex; align-items: center; gap: 8px; border: 1px solid var(--line); border-radius: 999px; background: var(--paper); color: var(--muted); font-size: 12px; font-weight: 700; }
+.lesson-selector button small { color: #9b9185; font-size: 9px; }
+.lesson-selector button.active { border-color: var(--navy); background: var(--navy); color: white; }
+.lesson-selector button.active small { color: #ccd7e1; }
+
+.lesson-hero { min-height: 226px; padding: 42px 46px; display: grid; grid-template-columns: 1fr 120px; align-items: center; gap: 34px; border-radius: 22px; background: var(--navy); color: white; box-shadow: 0 18px 44px rgba(30,58,92,.16); }
+.lesson-hero .eyebrow { color: var(--gold); }
+.lesson-hero h1 { max-width: 720px; margin: 0; font: 800 clamp(35px, 4.5vw, 52px)/1.08 "Frank Ruhl Libre", serif; }
+.lesson-hero p:last-child { margin: 17px 0 0; color: #c6d1dc; }
+.lesson-progress-ring { width: 108px; height: 108px; padding: 7px; display: grid; place-items: center; border-radius: 50%; background: conic-gradient(var(--gold) var(--lesson-progress), rgba(255,255,255,.13) 0); }
+.lesson-progress-ring::before { content: ""; grid-area: 1 / 1; width: 88px; height: 88px; border-radius: 50%; background: var(--navy); }
+.lesson-progress-ring span { grid-area: 1 / 1; z-index: 1; display: grid; place-items: center; }
+.lesson-progress-ring b { font: 800 24px "Frank Ruhl Libre", serif; }
+.lesson-progress-ring small { color: #bfcbd7; font-size: 10px; }
+.lesson-intro { margin-top: 18px; padding: 22px 26px; border: 1px solid #dfceb5; border-right: 4px solid var(--gold); border-radius: 13px; background: #fff8e8; }
+.lesson-intro span { color: var(--rust); font-size: 11px; font-weight: 800; }
+.lesson-intro p { margin: 7px 0 0; line-height: 1.75; }
+
+.exercise-list { margin-top: 28px; display: grid; gap: 22px; }
+.exercise-card { padding: 30px; border: 1px solid var(--line); border-radius: 18px; background: var(--paper); box-shadow: 0 8px 28px rgba(44,39,33,.045); transition: border-color .2s ease; }
+.exercise-card.is-complete { border-color: #a8cbb8; }
+.exercise-card > header { display: grid; grid-template-columns: 52px 1fr auto; align-items: center; gap: 15px; }
+.exercise-number { width: 49px; height: 49px; display: grid; place-items: center; border-radius: 13px; background: #f0e8da; color: var(--rust); font: 900 22px "Frank Ruhl Libre", serif; }
+.exercise-card > header > div:nth-child(2) > span { color: var(--rust); font-size: 10px; font-weight: 800; letter-spacing: .06em; }
+.exercise-card h2 { margin: 3px 0 0; color: var(--navy); font: 700 23px/1.2 "Frank Ruhl Libre", serif; }
+.complete-badge { padding: 7px 11px; border-radius: 999px; background: var(--green-soft); color: var(--green); font-size: 10px; font-weight: 800; }
+.exercise-prompt { margin: 24px 0; padding: 22px 24px; border-radius: 13px; background: #f7f2e9; }
+.exercise-prompt p { margin: 0 0 7px; direction: auto; unicode-bidi: plaintext; white-space: pre-wrap; line-height: 1.75; }
+.exercise-prompt p:last-child { margin-bottom: 0; }
+.answer-box { display: grid; }
+.answer-box > span { margin-bottom: 8px; color: var(--navy); font-size: 13px; font-weight: 800; }
+.answer-box textarea { width: 100%; resize: vertical; padding: 16px 18px; direction: auto; unicode-bidi: plaintext; border: 1px solid #d7cdbf; border-radius: 12px; outline: none; background: white; color: var(--ink); line-height: 1.65; transition: border .2s ease, box-shadow .2s ease; }
+.answer-box textarea:focus { border-color: var(--navy); box-shadow: 0 0 0 3px rgba(30,58,92,.09); }
+.answer-box textarea::placeholder { color: #a59b8e; }
+.answer-box small { margin-top: 5px; color: #9c9286; font-size: 10px; text-align: left; }
+.feedback { margin-top: 13px; padding: 13px 15px; display: flex; align-items: center; gap: 10px; border-radius: 10px; }
+.feedback > span { width: 24px; height: 24px; flex: 0 0 auto; display: grid; place-items: center; border-radius: 50%; font-weight: 900; }
+.feedback p { margin: 0; font-size: 13px; font-weight: 700; }
+.feedback-correct { background: var(--green-soft); color: var(--green); }
+.feedback-correct > span { background: var(--green); color: white; }
+.feedback-partial, .feedback-self { background: var(--amber-soft); color: #7b5a18; }
+.feedback-partial > span, .feedback-self > span { background: var(--gold); color: var(--navy); }
+.feedback-retry, .feedback-empty { background: var(--red-soft); color: var(--rust-dark); }
+.feedback-retry > span, .feedback-empty > span { background: var(--rust); color: white; }
+.hint-panel { margin-top: 13px; padding: 15px 18px; border-right: 3px solid var(--gold); border-radius: 9px; background: #fff8e7; }
+.hint-panel b { color: var(--rust); font-size: 11px; }
+.hint-panel p { margin: 3px 0 0; font-size: 13px; }
+.model-answer { margin-top: 15px; padding: 19px; border: 1px solid #c7d6e3; border-radius: 12px; background: #edf4f8; }
+.model-answer > div { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; }
+.model-answer span { color: var(--navy); font-weight: 800; }
+.model-answer small { color: var(--muted); font-size: 10px; }
+.model-answer p { margin: 11px 0 0; direction: auto; unicode-bidi: plaintext; white-space: pre-wrap; line-height: 1.7; }
+.model-answer button { margin-top: 13px; padding: 8px 13px; border: 0; border-radius: 8px; background: var(--green); color: white; font-size: 11px; font-weight: 800; }
+.exercise-actions { margin-top: 18px; display: flex; flex-wrap: wrap; gap: 8px; }
+.exercise-actions button { padding: 9px 14px; border: 1px solid #d8cfc2; border-radius: 9px; background: white; color: var(--navy); font-size: 12px; font-weight: 800; }
+.exercise-actions button:hover { border-color: var(--navy); }
+.exercise-actions .check-button { padding-inline: 21px; border-color: var(--navy); background: var(--navy); color: white; }
+.exercise-actions .check-button:hover { background: var(--rust); border-color: var(--rust); }
+.exercise-actions .reset-button { margin-right: auto; color: var(--muted); }
+
+.lesson-complete-card { margin-top: 28px; padding: 30px 34px; display: flex; align-items: center; justify-content: space-between; gap: 30px; border-radius: 17px; background: var(--rust); color: white; }
+.lesson-complete-card span { color: #f6ce87; font-size: 11px; font-weight: 800; }
+.lesson-complete-card h2 { margin: 5px 0 0; font: 700 27px "Frank Ruhl Libre", serif; }
+.lesson-complete-card p { margin: 7px 0 0; color: #f0d7cd; font-size: 12px; }
+.lesson-complete-card button { min-width: 150px; min-height: 45px; border: 0; border-radius: 999px; background: white; color: var(--rust); font-weight: 800; }
+.lesson-complete-card button span { margin-right: 8px; color: inherit; }
+
+.workbook-loading { min-height: 100vh; display: grid; place-items: center; align-content: center; gap: 26px; background: var(--cream); }
+.loader { width: 48px; height: 48px; border: 4px solid #e2d8c8; border-top-color: var(--rust); border-radius: 50%; animation: spin 1s linear infinite; }
+.workbook-loading p { color: var(--muted); }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+@media (max-width: 980px) {
+  .home-hero { grid-template-columns: 1fr; gap: 30px; }
+  .hero-copy { text-align: center; }
+  .hero-copy h1, .hero-lead { margin-inline: auto; }
+  .hero-actions, .hero-stats { justify-content: center; }
+  .product-stack { width: min(580px, 100%); margin: 0 auto; }
+  .method-steps { grid-template-columns: repeat(2, 1fr); }
+  .workbook-header { grid-template-columns: auto 1fr auto; }
+  .workbook-header nav { display: none; }
+  .workbook-shell { grid-template-columns: 1fr; }
+  .workbook-sidebar { width: min(330px, 88vw); position: fixed; z-index: 45; top: 82px; right: 0; bottom: 0; transform: translateX(105%); overflow-y: auto; box-shadow: -14px 0 40px rgba(20,35,48,.18); transition: transform .25s ease; }
+  .workbook-sidebar.is-open { transform: translateX(0); }
+  .sidebar-toggle { display: block; }
+}
+
+@media (max-width: 720px) {
+  .site-header { width: calc(100% - 32px); height: 76px; }
+  .site-header nav a:not(.nav-pill) { display: none; }
+  .site-header nav { gap: 0; }
+  .brand strong { font-size: 16px; }
+  .home-hero { width: calc(100% - 32px); padding: 48px 0 80px; }
+  .hero-copy h1 { font-size: clamp(45px, 14vw, 64px); }
+  .hero-lead { font-size: 17px; }
+  .hero-actions { flex-direction: column; }
+  .hero-actions .button { width: 100%; }
+  .hero-stats span { padding: 0 12px; }
+  .hero-stats b { display: block; }
+  .product-stack { min-height: 690px; }
+  .product-cover { width: min(300px, 82vw); }
+  .book-product { right: 0; }
+  .workbook-product { left: 0; bottom: 20px; }
+  .stack-note { left: 22%; top: 286px; }
+  .method-steps { grid-template-columns: 1fr; }
+  .method-band { padding-block: 76px; }
+  .path-section { width: calc(100% - 32px); padding-block: 80px; }
+  .unit-path { grid-template-columns: 1fr; }
+  .final-cta { flex-direction: column; align-items: flex-start; }
+  .final-actions { width: 100%; flex-direction: column; }
+  .final-actions .button { width: 100%; }
+  .site-footer { width: calc(100% - 32px); flex-direction: column; justify-content: center; text-align: center; }
+
+  .workbook-header { height: 72px; padding: 0 15px; gap: 10px; grid-template-columns: 1fr auto; }
+  .workbook-header .brand small { display: none; }
+  .workbook-header .brand-mark { width: 37px; height: 37px; }
+  .overall-progress { display: none; }
+  .workbook-sidebar { top: 72px; }
+  .workbook-main { width: calc(100% - 28px); padding-top: 18px; }
+  .lesson-selector { align-items: flex-start; flex-direction: column; gap: 8px; }
+  .lesson-selector > div { max-width: 100%; overflow-x: auto; padding-bottom: 2px; }
+  .lesson-hero { min-height: 0; padding: 30px 24px; grid-template-columns: 1fr; }
+  .lesson-hero h1 { font-size: 34px; }
+  .lesson-progress-ring { width: 90px; height: 90px; }
+  .lesson-progress-ring::before { width: 72px; height: 72px; }
+  .exercise-card { padding: 21px 16px; border-radius: 14px; }
+  .exercise-card > header { grid-template-columns: 44px 1fr; }
+  .exercise-number { width: 42px; height: 42px; }
+  .complete-badge { grid-column: 2; width: max-content; }
+  .exercise-card h2 { font-size: 20px; }
+  .exercise-prompt { padding: 17px 15px; }
+  .model-answer > div { align-items: flex-start; flex-direction: column; }
+  .exercise-actions .reset-button { margin-right: 0; }
+  .lesson-complete-card { align-items: flex-start; flex-direction: column; }
+  .lesson-complete-card button { width: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation-duration: .01ms !important; }
+}

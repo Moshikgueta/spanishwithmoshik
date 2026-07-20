@@ -1,184 +1,30 @@
-<!DOCTYPE html>
-<html lang="he" dir="rtl">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Spanish with Moshik</title>
-  <meta name="description" content="ספרדית מעשית לדוברי עברית, מרמת אפס עד A1. עשר יחידות, שלושים פרקים ותרגול הדרגתי.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700&family=Frank+Ruhl+Libre:wght@500;700;900&display=swap" rel="stylesheet">
-  <style>
-    :root{--navy:#1e3a5c;--navy-dark:#132a45;--rust:#b5502f;--gold:#e0a63c;--cream:#fbf7ef;--paper:#fffdf8;--ink:#2a2520;--muted:#746d63;--line:#e5ded2}
-    *{box-sizing:border-box}
-    html{scroll-behavior:smooth}
-    body{margin:0;background:var(--cream);color:var(--ink);font-family:"Assistant",Arial,sans-serif}
-    a{color:inherit;text-decoration:none}
-    .site-shell{min-height:100vh;overflow:hidden}
-    .topbar{width:min(1180px,calc(100% - 48px));height:92px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;position:relative;z-index:10}
-    .brand{display:flex;align-items:center;gap:12px}
-    .brand-mark{width:42px;height:42px;display:grid;place-items:center;border-radius:50% 50% 50% 8px;background:var(--rust);color:#fff;font:900 24px/1 "Frank Ruhl Libre",serif;transform:rotate(-5deg)}
-    .brand>span:last-child{display:grid;line-height:1.15}
-    .brand strong{color:var(--navy);font:700 18px "Frank Ruhl Libre",serif}
-    .brand small{color:var(--muted);font-size:11px;margin-top:4px}
-    .topbar nav{display:flex;align-items:center;gap:30px;color:var(--navy);font-size:14px;font-weight:600}
-    .topbar nav a:hover{color:var(--rust)}
-    .topbar .nav-cta{background:var(--navy);color:#fff;padding:11px 20px;border-radius:999px}
-    .topbar .nav-cta:hover{background:var(--rust);color:#fff}
-    .hero{width:min(1180px,calc(100% - 48px));min-height:650px;margin:0 auto;display:grid;grid-template-columns:1.02fr .98fr;align-items:center;gap:60px;padding:54px 0 88px}
-    .eyebrow{margin:0 0 12px;color:var(--rust);font-size:13px;font-weight:700;letter-spacing:.09em}
-    .hero h1{color:var(--navy);font:900 clamp(54px,6vw,82px)/.98 "Frank Ruhl Libre",serif;margin:0;letter-spacing:-.035em}
-    .hero h1 span{color:var(--rust)}
-    .hero-lead{max-width:610px;color:#514a42;font-size:19px;line-height:1.75;margin:26px 0 0}
-    .hero-actions{display:flex;gap:12px;margin-top:34px}
-    .button{min-height:50px;display:inline-flex;align-items:center;justify-content:center;gap:18px;border-radius:999px;padding:0 26px;font-weight:700;transition:transform .2s ease,background .2s ease}
-    .button:hover{transform:translateY(-2px)}
-    .button.primary{color:#fff;background:var(--navy);box-shadow:0 12px 30px rgba(30,58,92,.18)}
-    .button.primary:hover{background:var(--rust)}
-    .button.secondary{border:1px solid #cec4b4;color:var(--navy);background:rgba(255,255,255,.45)}
-    .trust-row{display:flex;align-items:center;margin-top:38px;color:var(--muted);font-size:13px}
-    .trust-row span{padding:0 20px;border-left:1px solid #d8cfc1}
-    .trust-row span:first-child{padding-right:0}
-    .trust-row span:last-child{border:0}
-    .trust-row b{color:var(--navy);font:700 22px "Frank Ruhl Libre",serif;margin-left:5px}
-    .hero-visual{min-height:560px;position:relative;display:grid;place-items:center}
-    .sun{position:absolute;width:430px;height:430px;border-radius:50%;background:#f1cf85;opacity:.48}
-    .book-shadow{position:absolute;width:320px;height:70px;bottom:36px;border-radius:50%;background:rgba(24,34,42,.2);filter:blur(24px);transform:rotate(-4deg)}
-    .book-cover{width:318px;height:456px;background:var(--navy);border-radius:5px 16px 16px 5px;box-shadow:-18px 24px 48px rgba(26,42,59,.28),inset 7px 0 rgba(255,255,255,.04);transform:rotate(-4deg);color:var(--cream);padding:38px 34px;position:relative;overflow:hidden;z-index:2}
-    .cover-top{color:var(--gold);font-size:11px;font-weight:700;letter-spacing:.08em}
-    .cover-title{font:900 47px/1.03 "Frank Ruhl Libre",serif;margin-top:48px;position:relative;z-index:2}
-    .cover-subtitle{color:#c8d2de;font-size:13px;letter-spacing:.12em;margin-top:18px;position:relative;z-index:2}
-    .cover-author{position:absolute;bottom:28px;right:34px;font-size:13px;font-weight:600}
-    .cover-shape{position:absolute}
-    .cover-shape.one{width:220px;height:220px;border-radius:50%;background:var(--gold);left:-90px;bottom:-68px}
-    .cover-shape.two{width:120px;height:62px;border-radius:80px 80px 0 0;background:var(--rust);left:72px;bottom:64px}
-    .floating-note{position:absolute;z-index:3;display:grid;background:var(--paper);border:1px solid rgba(30,58,92,.08);border-radius:13px;box-shadow:0 14px 35px rgba(35,48,58,.14);padding:13px 17px}
-    .floating-note span,.floating-note b{color:var(--rust);font:700 22px "Frank Ruhl Libre",serif}
-    .floating-note small{color:var(--muted);font-size:10px;margin-top:2px}
-    .note-one{right:0;top:78px;transform:rotate(4deg)}
-    .note-two{left:8px;bottom:110px;transform:rotate(-3deg)}
-    .method-section{background:var(--navy);color:#fff;padding:96px max(24px,calc((100vw - 1180px)/2))}
-    .section-heading{max-width:680px}
-    .section-heading h2{font:900 clamp(36px,4.2vw,54px)/1.1 "Frank Ruhl Libre",serif;color:var(--navy);margin:0;letter-spacing:-.02em}
-    .section-heading>p:last-child{color:var(--muted);font-size:17px;line-height:1.7;margin:16px 0 0}
-    .method-section .section-heading h2{color:#fff}
-    .method-section .section-heading>p:last-child{color:#bcc9d6}
-    .method-section .eyebrow{color:var(--gold)}
-    .method-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:48px}
-    .method-grid article{min-height:240px;position:relative;background:rgba(255,255,255,.055);border:1px solid rgba(255,255,255,.12);border-radius:16px;padding:24px}
-    .method-grid article>span{position:absolute;left:20px;top:18px;font:700 32px "Frank Ruhl Libre",serif;color:rgba(255,255,255,.12)}
-    .method-icon{width:48px;height:48px;display:grid;place-items:center;border-radius:12px;background:var(--gold);color:var(--navy);font:700 18px "Frank Ruhl Libre",serif}
-    .method-grid h3{font:700 23px "Frank Ruhl Libre",serif;margin:24px 0 9px}
-    .method-grid p{color:#c8d2de;line-height:1.7;margin:0;font-size:14px}
-    .units-section{width:min(1180px,calc(100% - 48px));margin:0 auto;padding:108px 0}
-    .section-heading.split{max-width:none;display:grid;grid-template-columns:1fr .75fr;align-items:end;gap:70px}
-    .section-heading.split>p{margin-bottom:6px}
-    .units-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:50px}
-    .unit-card{min-height:144px;display:grid;grid-template-columns:64px 1fr 38px;align-items:center;gap:17px;background:var(--paper);border:1px solid var(--line);border-radius:15px;padding:22px 24px;transition:border .2s ease,transform .2s ease,box-shadow .2s ease}
-    .unit-card:hover{transform:translateY(-3px);border-color:#c6b89f;box-shadow:0 14px 35px rgba(58,48,36,.08)}
-    .unit-number{color:var(--gold);font:900 42px "Frank Ruhl Libre",serif;border-left:1px solid var(--line)}
-    .unit-content small{color:var(--rust);font-size:11px;font-weight:700}
-    .unit-content h3{color:var(--navy);font:700 22px "Frank Ruhl Libre",serif;margin:5px 0}
-    .unit-content p{color:var(--muted);font-size:13px;margin:0}
-    .unit-arrow{width:34px;height:34px;display:grid;place-items:center;border-radius:50%;color:var(--navy);background:#f1ece3}
-    .unit-card:hover .unit-arrow{background:var(--rust);color:#fff}
-    .closing-cta{width:min(1180px,calc(100% - 48px));margin:0 auto 80px;background:var(--rust);color:#fff;border-radius:22px;padding:52px 58px;display:flex;justify-content:space-between;align-items:center;gap:40px;position:relative;overflow:hidden}
-    .closing-cta::after{content:"";width:230px;height:230px;position:absolute;left:-80px;bottom:-140px;border-radius:50%;background:var(--gold);opacity:.55}
-    .closing-cta .eyebrow{color:#f2d191}
-    .closing-cta h2{font:900 40px/1.1 "Frank Ruhl Libre",serif;margin:0}
-    .closing-cta p:last-child{margin:12px 0 0;color:#f5dfd6}
-    .closing-actions{position:relative;z-index:2;display:grid;justify-items:center;gap:12px;flex:none}
-    .button.light{background:#fff;color:var(--navy);min-width:190px}
-    footer{width:min(1180px,calc(100% - 48px));min-height:110px;margin:0 auto;border-top:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;color:var(--muted);font-size:12px}
-    @media(max-width:900px){.topbar nav a:not(.nav-cta){display:none}.hero{grid-template-columns:1fr;padding-top:38px}.hero-copy{text-align:center}.hero-lead{margin-left:auto;margin-right:auto}.hero-actions,.trust-row{justify-content:center}.hero-visual{min-height:540px}.method-grid{grid-template-columns:repeat(2,1fr)}.section-heading.split{grid-template-columns:1fr;gap:14px}.units-grid{grid-template-columns:1fr}.closing-cta{text-align:center;flex-direction:column}}
-    @media(max-width:660px){.topbar{width:calc(100% - 28px);height:76px}.brand small{display:none}.hero,.units-section,.closing-cta,footer{width:calc(100% - 28px)}.hero{gap:20px;padding-bottom:60px}.hero h1{font-size:50px}.hero-lead{font-size:16px}.hero-actions{flex-direction:column}.trust-row{font-size:11px}.trust-row span{padding:0 10px}.hero-visual{min-height:470px;transform:scale(.88);margin:-20px -30px}.method-section{padding-top:70px;padding-bottom:70px}.method-grid{grid-template-columns:1fr}.units-section{padding:76px 0}.unit-card{grid-template-columns:48px 1fr;padding:18px}.unit-number{font-size:34px}.unit-arrow{display:none}.unit-content h3{font-size:19px}.closing-cta{padding:42px 24px;margin-bottom:50px}.closing-cta h2{font-size:34px}footer{justify-content:center;text-align:center}footer .footer-brand{display:none}}
-    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
-  </style>
-</head>
-<body>
-  <main class="site-shell">
-    <header class="topbar">
-      <a class="brand" href="#top" aria-label="דף הבית">
-        <span class="brand-mark">S</span>
-        <span><strong>Spanish with Moshik</strong><small>ספרדית מעשית לדוברי עברית</small></span>
-      </a>
-      <nav aria-label="ניווט ראשי">
-        <a href="#method">איך זה עובד</a>
-        <a href="#units">היחידות</a>
-        <a class="nav-cta" href="00 Cover + Front.dc.html">כניסה לספר</a>
-      </nav>
-    </header>
-
-    <section id="top" class="hero">
-      <div class="hero-copy">
-        <p class="eyebrow">Spanish with Moshik · רמת A0 עד A1</p>
-        <h1>ספרדית אמיתית.<br><span>בלי להסתבך.</span></h1>
-        <p class="hero-lead">ספר דיגיטלי שנבנה במיוחד לדוברי עברית. הסברים קצרים, דיאלוגים שימושיים, תרגול הדרגתי וספרדית שאפשר להתחיל לדבר מהיום הראשון.</p>
-        <div class="hero-actions">
-          <a class="button primary" href="00 Cover + Front.dc.html">פתחו את הספר <span>←</span></a>
-          <a class="button secondary" href="#units">הצצה למסלול</a>
-        </div>
-        <div class="trust-row" aria-label="פרטי הספר">
-          <span><b>10</b> יחידות</span><span><b>30</b> פרקים</span><span><b>A1</b> יעד ברור</span>
-        </div>
-      </div>
-
-      <div class="hero-visual" aria-label="עטיפת הספר ספרדית בלי כאב ראש">
-        <div class="sun"></div><div class="book-shadow"></div>
-        <div class="book-cover">
-          <div class="cover-top">ספרדית מעשית לדוברי עברית</div>
-          <div class="cover-title">ספרדית<br>בלי כאב ראש</div>
-          <div class="cover-subtitle">להבין · להגיד · להשתמש</div>
-          <div class="cover-shape one"></div><div class="cover-shape two"></div>
-          <div class="cover-author">מושיק גואטה</div>
-        </div>
-        <div class="floating-note note-one"><span>¡Hola!</span><small>כבר בפרק הראשון</small></div>
-        <div class="floating-note note-two"><b>A1</b><small>מסלול מלא</small></div>
-      </div>
-    </section>
-
-    <section id="method" class="method-section">
-      <div class="section-heading">
-        <p class="eyebrow">שיטה פשוטה שחוזרת בכל פרק</p>
-        <h2>לא רק לקרוא. להתחיל להשתמש.</h2>
-        <p>כל פרק מוביל אתכם מהבנה קצרה לשימוש עצמאי בספרדית.</p>
-      </div>
-      <div class="method-grid">
-        <article><span>01</span><div class="method-icon">Aa</div><h3>מבינים</h3><p>הסבר קצר ובהיר בעברית, בלי עומס של מונחים.</p></article>
-        <article><span>02</span><div class="method-icon">¡!</div><h3>רואים דוגמה</h3><p>משפטים ודיאלוגים שמגיעים מחיי היום יום.</p></article>
-        <article><span>03</span><div class="method-icon">✓</div><h3>מתרגלים</h3><p>תרגול ממוקד שעוזר להפוך ידע להרגל.</p></article>
-        <article><span>04</span><div class="method-icon">↗</div><h3>משתמשים</h3><p>משימת דיבור או כתיבה שמחברת הכול יחד.</p></article>
-      </div>
-    </section>
-
-    <section id="units" class="units-section">
-      <div class="section-heading split">
-        <div><p class="eyebrow">המסלול המלא</p><h2>מרמת אפס לשיחה ראשונה</h2></div>
-        <p>היחידות מסודרות לפי התקדמות טבעית. כל שלב משתמש במה שכבר למדתם ומוסיף יכולת חדשה.</p>
-      </div>
-      <div class="units-grid">
-        <a class="unit-card" href="Unit 01.dc.html"><span class="unit-number">01</span><div class="unit-content"><small>פרקים 1 עד 3</small><h3>להתחיל לקרוא ולדבר</h3><p>צלילים, הטעמה ומשפטי הישרדות</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 02.dc.html"><span class="unit-number">02</span><div class="unit-content"><small>פרקים 4 עד 6</small><h3>מי אני ומאיפה אני?</h3><p>כינויי גוף, SER והצגה עצמית</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 03.dc.html"><span class="unit-number">03</span><div class="unit-content"><small>פרקים 7 עד 9</small><h3>הדברים הראשונים סביבי</h3><p>זכר, נקבה, יחיד, רבים ו-HAY</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 04.dc.html"><span class="unit-number">04</span><div class="unit-content"><small>פרקים 10 עד 12</small><h3>הגיל, המשפחה ומה שיש לי</h3><p>TENER, מספרים ושייכות</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 05.dc.html"><span class="unit-number">05</span><div class="unit-content"><small>פרקים 13 עד 15</small><h3>איפה אני ומה יש סביבי?</h3><p>ESTAR, HAY ומילות מקום</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 06.dc.html"><span class="unit-number">06</span><div class="unit-content"><small>פרקים 16 עד 18</small><h3>היום שלי</h3><p>פעולות, שגרה והרגלים</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 07.dc.html"><span class="unit-number">07</span><div class="unit-content"><small>פרקים 19 עד 20</small><h3>מה אני אוהב, רוצה וצריך?</h3><p>העדפות, רצונות ויכולות</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 08.dc.html"><span class="unit-number">08</span><div class="unit-content"><small>פרקים 21 עד 23</small><h3>השבוע שלי ותוכניות קרובות</h3><p>IR, ימים, שעה ותכנון</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 09.dc.html"><span class="unit-number">09</span><div class="unit-content"><small>פרקים 24 עד 27</small><h3>ספרדית בחיים האמיתיים</h3><p>אוכל, קניות, בגדים וכיוונים</p></div><span class="unit-arrow">←</span></a>
-        <a class="unit-card" href="Unit 10.dc.html"><span class="unit-number">10</span><div class="unit-content"><small>פרקים 28 עד 30</small><h3>מזג אוויר, בריאות וסיכום</h3><p>מצב, צורך וסיכום A1</p></div><span class="unit-arrow">←</span></a>
-      </div>
-    </section>
-
-    <section class="closing-cta">
-      <div><p class="eyebrow">מוכנים להתחיל?</p><h2>הספר המלא מחכה לכם בפנים.</h2><p>אפשר ללמוד מהמחשב, מהטאבלט או מהטלפון ולהתקדם בקצב שלכם.</p></div>
-      <div class="closing-actions"><a class="button light" href="Unit 01.dc.html">לפרק הראשון <span>←</span></a></div>
-    </section>
-
-    <footer>
-      <div class="brand footer-brand"><span class="brand-mark">S</span><span><strong>Spanish with Moshik</strong><small>ספרדית אמיתית לדוברי עברית</small></span></div>
-      <p>© 2026 מושיק גואטה · כל הזכויות שמורות</p>
-    </footer>
-  </main>
-</body>
-</html>
+{
+  "source": "נעים להכיר, אני מושיק (1).docx",
+  "source_blocks": 1726,
+  "source_paragraphs": 1608,
+  "source_tables": 118,
+  "removed_internal_editorial_paragraphs": 4,
+  "html_pages": [
+    "00 Cover + Front.dc.html",
+    "Unit 01.dc.html",
+    "Unit 02.dc.html",
+    "Unit 03.dc.html",
+    "Unit 04.dc.html",
+    "Unit 05.dc.html",
+    "Unit 06.dc.html",
+    "Unit 07.dc.html",
+    "Unit 08.dc.html",
+    "Unit 09.dc.html",
+    "Unit 10.dc.html",
+    "Appendices.dc.html"
+  ],
+  "units": 10,
+  "chapters": 30,
+  "mini_units": 4,
+  "appendices": 5,
+  "auto_graded_exercises": 43,
+  "auto_graded_answer_fields": 204,
+  "personal_writing_tasks": 9,
+  "saved_progress_checklists": 33,
+  "progress_storage": "browser localStorage"
+}

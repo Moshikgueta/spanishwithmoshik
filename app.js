@@ -112,7 +112,7 @@
   }
 
   function brand(subtitle) {
-    return `<a class="brand" href="../index.html" aria-label="Spanish with Moshik — דף הבית">
+    return `<a class="brand" href="./index.html" aria-label="Spanish with Moshik — דף הבית">
       <span class="brand-mark">M</span>
       <span><strong>Spanish with Moshik</strong><small>${escapeHTML(subtitle)}</small></span>
     </a>`;
@@ -177,7 +177,7 @@
     app.className = "workbook-app";
     app.innerHTML = `<header class="workbook-header">
       ${brand("חוברת התרגול האינטראקטיבית")}
-      <nav aria-label="מעבר בין חלקי האתר"><a href="../index.html">דף הבית</a><a href="../book/cover.html">ספר הלימוד</a><span class="current-product">חוברת התרגול</span></nav>
+      <nav aria-label="מעבר בין חלקי האתר"><a href="./index.html">דף הבית</a><a href="./cover.html">ספר הלימוד</a><span class="current-product">חוברת התרגול</span></nav>
       <div class="overall-progress" aria-label="התקדמות כוללת ${overallPercent}%"><span><b>${overallPercent}%</b><small>התקדמות כוללת</small></span><div><i style="width:${overallPercent}%"></i></div></div>
       <button class="sidebar-toggle" data-action="toggle-sidebar" aria-expanded="${sidebarOpen}">יחידות</button>
     </header>
@@ -279,7 +279,7 @@
     }
   });
 
-  fetch("../workbook-data.json")
+  fetch("./workbook-data.json")
     .then((response) => {
       if (!response.ok) throw new Error("Workbook data could not be loaded");
       return response.json();
@@ -292,6 +292,6 @@
     })
     .catch(() => {
       app.className = "workbook-loading";
-      app.innerHTML = `${brand("חוברת התרגול האינטראקטיבית")}<p>לא הצלחנו לטעון את החוברת. ודאו שכל קובצי ה־ZIP הועלו יחד ושמרו על שמות התיקיות.</p><a class="button button-primary" href="../index.html">חזרה לדף הבית</a>`;
+      app.innerHTML = `${brand("חוברת התרגול האינטראקטיבית")}<p>לא הצלחנו לטעון את החוברת. ודאו שכל קובצי ה־ZIP הועלו יחד ושמרו על שמות התיקיות.</p><a class="button button-primary" href="./index.html">חזרה לדף הבית</a>`;
     });
 })();

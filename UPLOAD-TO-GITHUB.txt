@@ -1,0 +1,21 @@
+SPANISH WITH MOSHIK — GITHUB PAGES UPLOAD
+
+This version is deliberately folder-free. Every website file is at the same
+level so GitHub's browser uploader cannot lose the book or workbook folders.
+
+UPLOAD STEPS
+1. Extract Spanish-with-Moshik-GitHub-Flat-Upload.zip.
+2. Open: https://github.com/Moshikgueta/spanishwithmoshik
+3. Select Add file > Upload files.
+4. Drag ALL extracted files into the upload area at the same time.
+5. Wait until every file appears in the list.
+6. In the commit box, write: Publish complete interactive website
+7. Select Commit changes.
+8. Wait 2–5 minutes, then open:
+   https://moshikgueta.github.io/spanishwithmoshik/
+
+IMPORTANT
+- Upload the extracted files, not the ZIP itself.
+- Choose Replace when GitHub says a file already exists.
+- Do not rename index.html, workbook.html, app.js or workbook-data.json.
+- Student answers and progress are saved in the browser on the same device.

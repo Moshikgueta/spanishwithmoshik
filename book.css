@@ -11,15 +11,15 @@
   <link rel="stylesheet" href="book.css">
   <script defer src="book.js"></script>
 </head>
-<body class="appendices-page" data-page="Appendices.dc.html">
+<body class="appendices-page" data-page="appendices.html">
   <div class="read-progress" aria-hidden="true"><span></span></div>
   <header class="reader-bar">
     <a class="reader-brand" href="index.html" aria-label="Spanish with Moshik — דף הבית"><span>S</span><strong>Spanish with Moshik</strong></a>
     <button class="menu-button" type="button" aria-expanded="false" aria-controls="book-menu">יחידות</button>
     <nav id="book-menu" aria-label="ניווט בספר">
-      <a href="00 Cover + Front.dc.html">פתיחה</a><a href="Unit 01.dc.html">01</a><a href="Unit 02.dc.html">02</a><a href="Unit 03.dc.html">03</a><a href="Unit 04.dc.html">04</a><a href="Unit 05.dc.html">05</a><a href="Unit 06.dc.html">06</a><a href="Unit 07.dc.html">07</a><a href="Unit 08.dc.html">08</a><a href="Unit 09.dc.html">09</a><a href="Unit 10.dc.html">10</a><a href="Appendices.dc.html">נספחים</a>
+      <a href="cover.html">פתיחה</a><a href="unit-01.html">01</a><a href="unit-02.html">02</a><a href="unit-03.html">03</a><a href="unit-04.html">04</a><a href="unit-05.html">05</a><a href="unit-06.html">06</a><a href="unit-07.html">07</a><a href="unit-08.html">08</a><a href="unit-09.html">09</a><a href="unit-10.html">10</a><a href="appendices.html">נספחים</a>
     </nav>
-    <div class="reader-actions"><span class="progress-chip" hidden><small>התקדמות</small><b>0%</b></span><a href="Unit 10.dc.html" aria-label="העמוד הקודם">→</a><a href="index.html" aria-label="העמוד הבא">←</a></div>
+    <div class="reader-actions"><span class="progress-chip" hidden><small>התקדמות</small><b>0%</b></span><a href="unit-10.html" aria-label="העמוד הקודם">→</a><a href="index.html" aria-label="העמוד הבא">←</a></div>
   </header>
   <main class="book-shell">
     
@@ -156,7 +156,7 @@
 <p>אם אתם כמו רוב הישראלים שלומדים ספרדית, סביר להניח שהיעד שלכם הוא אמריקה הלטינית, טיול אחרי צבא, מסע ארוך בין ארגנטינה, צ׳ילה, פרו, קולומביה ומקסיקו, או אפילו מעבר לגור באחת מהן. בדיוק בגלל זה הספר הזה מלמד את הספרדית של אמריקה הלטינית: ההגייה, אוצר המילים והשימוש ב-<span class="inline-es" dir="ltr" lang="es">ustedes</span> במקום <span class="inline-es" dir="ltr" lang="es">vosotros.</span> זו הספרדית שתשמעו ברחוב בקוסקו, בשוק במקסיקו סיטי ובבית קפה בבואנוס איירס.</p>
 <p>וגם אם תגיעו לספרד, לא תהיה בעיה. יבינו אתכם מצוין, ותוך יום-יומיים האוזן שלכם תתרגל להבדלים. למדתם בסיס יציב, והוא יעבוד לכם בכל מקום שתלכו.</p></article>
   </main>
-  <nav class="bottom-nav" aria-label="מעבר בין חלקי הספר"><a href="Unit 10.dc.html">→ לחלק הקודם</a><a class="next" href="index.html">לחלק הבא ←</a></nav>
+  <nav class="bottom-nav" aria-label="מעבר בין חלקי הספר"><a href="unit-10.html">→ לחלק הקודם</a><a class="next" href="index.html">לחלק הבא ←</a></nav>
   <footer><a href="index.html">Spanish with Moshik</a><span>© 2026 מושיק גואטה · כל הזכויות שמורות</span></footer>
   <div class="toast" role="status" aria-live="polite"></div>
 </body>

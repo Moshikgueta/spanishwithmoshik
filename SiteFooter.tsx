@@ -1,0 +1,820 @@
+export type SeedPair = { left: string; right: string };
+export type SeedBlank = { prompt: string; answer: string; accepted?: string[] };
+export type SeedChoice = { prompt: string; options: string[]; answer: string };
+
+export type ChapterSeed = {
+  number: number;
+  title: string;
+  subtitle: string;
+  explanation: string;
+  vocabulary: SeedPair[];
+  grammar: SeedPair[];
+  blanks: SeedBlank[];
+  choices: SeedChoice[];
+  order: string[];
+};
+
+export const chapterSeeds: ChapterSeed[] = [
+  {
+    number: 2,
+    title: "הברות והטעמה",
+    subtitle: "חלוקת מילים, כללי הטעמה וסימן ההטעמה.",
+    explanation: "מילים שמסתיימות בתנועה, n או s מוטעמות בדרך כלל בהברה שלפני האחרונה. סימן כתוב גובר על הכלל.",
+    vocabulary: [
+      { left: "casa", right: "CA-sa" }, { left: "amigo", right: "a-MI-go" },
+      { left: "profesor", right: "pro-fe-SOR" }, { left: "español", right: "es-pa-ÑOL" },
+      { left: "teléfono", right: "te-LÉ-fo-no" }, { left: "gracias", right: "GRA-cias" },
+    ],
+    grammar: [
+      { left: "casa", right: "2 הברות" }, { left: "amigo", right: "3 הברות" },
+      { left: "familia", right: "3 הברות" }, { left: "teléfono", right: "4 הברות" },
+      { left: "hotel", right: "2 הברות" },
+    ],
+    blanks: [
+      { prompt: "amigo = ___", answer: "a-mi-go" }, { prompt: "profesor = ___", answer: "pro-fe-sor" },
+      { prompt: "teléfono = ___", answer: "te-lé-fo-no" }, { prompt: "español = ___", answer: "es-pa-ñol" },
+      { prompt: "Madrid = ___", answer: "Ma-drid" }, { prompt: "corazón = ___", answer: "co-ra-zón" },
+    ],
+    choices: [
+      { prompt: "איזו מילה כתובה נכון?", options: ["telefono", "teléfono", "telèfono"], answer: "teléfono" },
+      { prompt: "איפה ההטעמה במילה profesor?", options: ["pro", "fe", "sor"], answer: "sor" },
+      { prompt: "איפה ההטעמה במילה casa?", options: ["ca", "sa"], answer: "ca" },
+      { prompt: "איזו מילה נושאת סימן הטעמה?", options: ["amigo", "corazón", "casa"], answer: "corazón" },
+    ],
+    order: ["sol", "casa", "amigo", "teléfono", "universidad"],
+  },
+  {
+    number: 3,
+    title: "משפטי הישרדות וברכות",
+    subtitle: "ברכות, בקשות הבהרה ותגובות שימושיות.",
+    explanation: "בחרו את הביטוי לפי המצב: ברכה, בקשה מנומסת, הבהרה או פרידה.",
+    vocabulary: [
+      { left: "Buenos días", right: "בוקר טוב" }, { left: "Buenas tardes", right: "אחר צהריים טובים" },
+      { left: "Buenas noches", right: "ערב טוב" }, { left: "¿Cómo estás?", right: "מה שלומך?" },
+      { left: "No entiendo", right: "אני לא מבין" }, { left: "¿Puedes repetir?", right: "אפשר לחזור?" },
+    ],
+    grammar: [
+      { left: "Gracias", right: "De nada" }, { left: "¿Cómo estás?", right: "Muy bien, gracias" },
+      { left: "Hasta luego", right: "Nos vemos" }, { left: "¿Puedes repetir?", right: "Sí, claro" },
+    ],
+    blanks: [
+      { prompt: "No ___", answer: "entiendo" }, { prompt: "¿Puedes ___?", answer: "repetir" },
+      { prompt: "Más ___, por favor", answer: "despacio" }, { prompt: "Muchas ___", answer: "gracias" },
+      { prompt: "¿Qué ___?", answer: "significa" }, { prompt: "Por ___", answer: "favor" },
+    ],
+    choices: [
+      { prompt: "השעה 08:00. מה אומרים?", options: ["Buenas noches", "Buenos días", "Buenas tardes"], answer: "Buenos días" },
+      { prompt: "לא הבנתם. מה אומרים?", options: ["No entiendo", "Hasta luego", "De nada"], answer: "No entiendo" },
+      { prompt: "מישהו אמר Gracias. מה עונים?", options: ["De nada", "Perdón", "Hola"], answer: "De nada" },
+      { prompt: "רוצים שהדובר ידבר לאט יותר", options: ["Más despacio, por favor", "Muy bien", "Nos vemos"], answer: "Más despacio, por favor" },
+    ],
+    order: ["Hola.", "¿Cómo estás?", "Muy bien, gracias.", "Hasta luego.", "Nos vemos."],
+  },
+  {
+    number: 4,
+    title: "כינויי גוף והפועל SER",
+    subtitle: "yo, tú, él, ella וצורות היסוד של SER.",
+    explanation: "צורת SER משתנה לפי האדם: soy, eres, es, somos ו-son.",
+    vocabulary: [
+      { left: "yo", right: "אני" }, { left: "tú", right: "אתה או את" },
+      { left: "él", right: "הוא" }, { left: "ella", right: "היא" },
+      { left: "nosotros", right: "אנחנו" }, { left: "ellos", right: "הם" },
+    ],
+    grammar: [
+      { left: "yo", right: "soy" }, { left: "tú", right: "eres" },
+      { left: "él / ella", right: "es" }, { left: "nosotros", right: "somos" },
+      { left: "ellos / ustedes", right: "son" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ Daniel", answer: "soy" }, { prompt: "Tú ___ estudiante", answer: "eres" },
+      { prompt: "Ella ___ profesora", answer: "es" }, { prompt: "Nosotros ___ de Israel", answer: "somos" },
+      { prompt: "Ellos ___ amigos", answer: "son" }, { prompt: "Ustedes ___ estudiantes", answer: "son" },
+    ],
+    choices: [
+      { prompt: "___ soy de Israel", options: ["Yo", "Tú", "Ella"], answer: "Yo" },
+      { prompt: "בחרו נכון: אתה תלמיד", options: ["Tú eres estudiante", "Tu es estudiante", "Tú soy estudiante"], answer: "Tú eres estudiante" },
+      { prompt: "מה נכון לגבי él?", options: ["él = הוא", "él = ה", "él = הם"], answer: "él = הוא" },
+      { prompt: "___ somos amigos", options: ["Nosotros", "Ellos", "Yo"], answer: "Nosotros" },
+    ],
+    order: ["Hola.", "Soy Daniel.", "Soy de Israel.", "Soy estudiante de español.", "Mucho gusto."],
+  },
+  {
+    number: 5,
+    title: "שימושים של SER",
+    subtitle: "שם, מוצא, מקצוע וזהות.",
+    explanation: "SER משמש לזהות, מוצא, מקצוע וקשר בין אנשים.",
+    vocabulary: [
+      { left: "nombre", right: "שם" }, { left: "origen", right: "מוצא" },
+      { left: "profesión", right: "מקצוע" }, { left: "estudiante", right: "תלמיד" },
+      { left: "profesora", right: "מורה" }, { left: "amigos", right: "חברים" },
+    ],
+    grammar: [
+      { left: "שם", right: "Soy Daniel" }, { left: "מוצא", right: "Soy de Israel" },
+      { left: "מקצוע", right: "Soy profesor" }, { left: "קשר", right: "Somos amigos" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ profesor", answer: "soy" }, { prompt: "¿Tú ___ estudiante?", answer: "eres" },
+      { prompt: "Maya ___ de México", answer: "es" }, { prompt: "Daniel y Maya ___ amigos", answer: "son" },
+      { prompt: "Nosotros ___ estudiantes", answer: "somos" }, { prompt: "Ellas ___ profesoras", answer: "son" },
+    ],
+    choices: [
+      { prompt: "איך שואלים אם מישהו מישראל?", options: ["¿Eres de Israel?", "¿Estás de Israel?", "¿Tienes Israel?"], answer: "¿Eres de Israel?" },
+      { prompt: "Maya היא מורה", options: ["Maya es profesora", "Maya soy profesora", "Maya eres profesora"], answer: "Maya es profesora" },
+      { prompt: "אנחנו חברים", options: ["Somos amigos", "Son amigos", "Estoy amigos"], answer: "Somos amigos" },
+      { prompt: "הם מארגנטינה", options: ["Son de Argentina", "Es de Argentina", "Somos Argentina"], answer: "Son de Argentina" },
+    ],
+    order: ["¿Cómo te llamas?", "Soy Laura.", "¿De dónde eres?", "Soy de México.", "Mucho gusto."],
+  },
+  {
+    number: 6,
+    title: "הצגה עצמית ראשונה",
+    subtitle: "שם, מדינה, מקצוע ותכונה אישית.",
+    explanation: "הצגה עצמית קצרה בנויה ממשפטים פשוטים עם soy ו-soy de.",
+    vocabulary: [
+      { left: "estudiante", right: "תלמיד או תלמידה" }, { left: "profesora", right: "מורה" },
+      { left: "médico", right: "רופא" }, { left: "abogada", right: "עורכת דין" },
+      { left: "artista", right: "אמן או אמנית" }, { left: "curioso", right: "סקרן" },
+    ],
+    grammar: [
+      { left: "¿Cómo te llamas?", right: "Soy Daniel" }, { left: "¿De dónde eres?", right: "Soy de Israel" },
+      { left: "¿Eres estudiante?", right: "Sí, soy estudiante" }, { left: "¿Cómo eres?", right: "Soy curioso" },
+    ],
+    blanks: [
+      { prompt: "Hola, ___ Maya", answer: "soy" }, { prompt: "Soy ___ Brasil", answer: "de" },
+      { prompt: "Soy ___ de español", answer: "estudiante" }, { prompt: "Soy una persona ___", answer: "curiosa" },
+      { prompt: "Él ___ médico", answer: "es" }, { prompt: "Ellas ___ artistas", answer: "son" },
+    ],
+    choices: [
+      { prompt: "איך אומרים אני מישראל?", options: ["Soy de Israel", "Soy Israel", "Estoy de Israel"], answer: "Soy de Israel" },
+      { prompt: "מה התשובה ל-¿Cómo te llamas?", options: ["Soy Maya", "Soy de México", "Soy profesora"], answer: "Soy Maya" },
+      { prompt: "בחרו מקצוע", options: ["profesora", "Argentina", "curiosa"], answer: "profesora" },
+      { prompt: "בחרו מדינה", options: ["Brasil", "artista", "estudiante"], answer: "Brasil" },
+    ],
+    order: ["Hola, soy Daniel.", "Soy de Israel.", "Soy profesor.", "Soy una persona curiosa.", "Mucho gusto."],
+  },
+  {
+    number: 7,
+    title: "el, la, un, una",
+    subtitle: "מין דקדוקי ותוויות ביחיד.",
+    explanation: "el ו-un באים בדרך כלל עם שם עצם זכר; la ו-una עם שם עצם נקבה.",
+    vocabulary: [
+      { left: "el libro", right: "הספר" }, { left: "la casa", right: "הבית" },
+      { left: "el teléfono", right: "הטלפון" }, { left: "la mesa", right: "השולחן" },
+      { left: "la escuela", right: "בית הספר" }, { left: "el café", right: "הקפה" },
+    ],
+    grammar: [
+      { left: "זכר מיודע", right: "el" }, { left: "נקבה מיודעת", right: "la" },
+      { left: "זכר לא מיודע", right: "un" }, { left: "נקבה לא מיודעת", right: "una" },
+    ],
+    blanks: [
+      { prompt: "___ libro", answer: "el", accepted: ["un"] }, { prompt: "___ casa", answer: "la", accepted: ["una"] },
+      { prompt: "___ teléfono", answer: "un", accepted: ["el"] }, { prompt: "___ mesa", answer: "una", accepted: ["la"] },
+      { prompt: "___ escuela", answer: "la", accepted: ["una"] }, { prompt: "___ café", answer: "el", accepted: ["un"] },
+    ],
+    choices: [
+      { prompt: "בחרו נכון", options: ["el libro", "la libro", "una libro"], answer: "el libro" },
+      { prompt: "בחרו נכון", options: ["una casa", "un casa", "el casa"], answer: "una casa" },
+      { prompt: "מהי הצורה המיודעת של mesa?", options: ["la mesa", "una mesa", "el mesa"], answer: "la mesa" },
+      { prompt: "מהי הצורה הלא מיודעת של teléfono?", options: ["un teléfono", "el teléfono", "una teléfono"], answer: "un teléfono" },
+    ],
+    order: ["Hay una mesa.", "La mesa está en la casa.", "Hay un libro.", "El libro está en la mesa.", "Es un libro de español."],
+  },
+  {
+    number: 8,
+    title: "los, las, unos, unas",
+    subtitle: "רבים בספרדית ותוויות ברבים.",
+    explanation: "מוסיפים s אחרי תנועה ו-es אחרי עיצור. התווית משתנה לפי מין ומספר.",
+    vocabulary: [
+      { left: "los libros", right: "הספרים" }, { left: "las casas", right: "הבתים" },
+      { left: "los teléfonos", right: "הטלפונים" }, { left: "las mesas", right: "השולחנות" },
+      { left: "unos amigos", right: "כמה חברים" }, { left: "unas escuelas", right: "כמה בתי ספר" },
+    ],
+    grammar: [
+      { left: "el", right: "los" }, { left: "la", right: "las" },
+      { left: "un", right: "unos" }, { left: "una", right: "unas" },
+      { left: "profesor", right: "profesores" },
+    ],
+    blanks: [
+      { prompt: "el libro -> ___", answer: "los libros" }, { prompt: "la casa -> ___", answer: "las casas" },
+      { prompt: "un amigo -> ___", answer: "unos amigos" }, { prompt: "una mesa -> ___", answer: "unas mesas" },
+      { prompt: "el profesor -> ___", answer: "los profesores" }, { prompt: "la ciudad -> ___", answer: "las ciudades" },
+    ],
+    choices: [
+      { prompt: "הרבים של el teléfono", options: ["los teléfonos", "las teléfonos", "los teléfono"], answer: "los teléfonos" },
+      { prompt: "הרבים של una escuela", options: ["unas escuelas", "unos escuelas", "las escuela"], answer: "unas escuelas" },
+      { prompt: "מה מוסיפים ל-profesor?", options: ["es", "s", "as"], answer: "es" },
+      { prompt: "בחרו צירוף תקין", options: ["las mesas", "los mesas", "las mesa"], answer: "las mesas" },
+    ],
+    order: ["Hay un libro.", "Hay unos libros.", "Los libros son nuevos.", "Están en la mesa.", "Las mesas están en la clase."],
+  },
+  {
+    number: 9,
+    title: "HAY",
+    subtitle: "איך אומרים שיש משהו או שאין משהו.",
+    explanation: "HAY פירושו יש, והוא נשאר באותה צורה ביחיד וברבים. לשלילה מוסיפים no.",
+    vocabulary: [
+      { left: "Hay un libro", right: "יש ספר" }, { left: "Hay una mesa", right: "יש שולחן" },
+      { left: "Hay estudiantes", right: "יש תלמידים" }, { left: "No hay café", right: "אין קפה" },
+      { left: "¿Hay agua?", right: "יש מים?" }, { left: "Hay un problema", right: "יש בעיה" },
+    ],
+    grammar: [
+      { left: "חיוב", right: "Hay" }, { left: "שלילה", right: "No hay" },
+      { left: "שאלה", right: "¿Hay...?" }, { left: "יחיד", right: "Hay un / una" },
+      { left: "רבים", right: "Hay + רבים" },
+    ],
+    blanks: [
+      { prompt: "___ un libro en la mesa", answer: "Hay" }, { prompt: "No ___ café", answer: "hay" },
+      { prompt: "¿___ agua?", answer: "Hay" }, { prompt: "___ dos estudiantes", answer: "Hay" },
+      { prompt: "En la casa ___ una mesa", answer: "hay" }, { prompt: "No ___ animales", answer: "hay" },
+    ],
+    choices: [
+      { prompt: "יש טלפון", options: ["Hay un teléfono", "Es un teléfono", "Tiene un teléfono"], answer: "Hay un teléfono" },
+      { prompt: "אין ספרים", options: ["No hay libros", "Hay no libros", "No es libros"], answer: "No hay libros" },
+      { prompt: "יש מים?", options: ["¿Hay agua?", "¿Es agua?", "¿Tiene agua?"], answer: "¿Hay agua?" },
+      { prompt: "בחרו נכון ברבים", options: ["Hay estudiantes", "Hays estudiantes", "Son hay estudiantes"], answer: "Hay estudiantes" },
+    ],
+    order: ["¿Hay café?", "Sí, hay café.", "¿Hay agua?", "No, no hay agua.", "No hay problema."],
+  },
+  {
+    number: 10,
+    title: "הפועל TENER",
+    subtitle: "שייכות, רעב, צמא וזמן.",
+    explanation: "TENER מציין שיש למישהו משהו וגם מופיע בביטויים כמו tener hambre ו-tener sed.",
+    vocabulary: [
+      { left: "Tengo un libro", right: "יש לי ספר" }, { left: "No tengo tiempo", right: "אין לי זמן" },
+      { left: "Tengo hambre", right: "אני רעב" }, { left: "Tengo sed", right: "אני צמא" },
+      { left: "Tenemos una clase", right: "יש לנו שיעור" }, { left: "¿Tienes teléfono?", right: "יש לך טלפון?" },
+    ],
+    grammar: [
+      { left: "yo", right: "tengo" }, { left: "tú", right: "tienes" },
+      { left: "él / ella", right: "tiene" }, { left: "nosotros", right: "tenemos" },
+      { left: "ellos / ustedes", right: "tienen" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ un libro", answer: "tengo" }, { prompt: "Tú ___ tiempo", answer: "tienes" },
+      { prompt: "Ella ___ una casa", answer: "tiene" }, { prompt: "Nosotros ___ una clase", answer: "tenemos" },
+      { prompt: "Ellos ___ teléfonos", answer: "tienen" }, { prompt: "Yo no ___ hermanos", answer: "tengo" },
+    ],
+    choices: [
+      { prompt: "אין לי זמן", options: ["No tengo tiempo", "No hay tiempo", "Tengo no tiempo"], answer: "No tengo tiempo" },
+      { prompt: "אנחנו רעבים", options: ["Tenemos hambre", "Somos hambre", "Estamos hambre"], answer: "Tenemos hambre" },
+      { prompt: "יש לך אחים?", options: ["¿Tienes hermanos?", "¿Tengo hermanos?", "¿Hay hermanos?"], answer: "¿Tienes hermanos?" },
+      { prompt: "למאיה יש בית", options: ["Maya tiene una casa", "Maya tienes una casa", "Hay Maya una casa"], answer: "Maya tiene una casa" },
+    ],
+    order: ["¿Tienes un teléfono?", "Sí, tengo un teléfono.", "¿Tienes tiempo?", "No, no tengo tiempo.", "Tengo una clase."],
+  },
+  {
+    number: 11,
+    title: "מספרים, גיל ו-CUÁNTOS",
+    subtitle: "מספרים עד 100, גיל ושאלות כמות.",
+    explanation: "לגיל משתמשים ב-TENER: Tengo treinta años. לשאלת גיל אומרים ¿Cuántos años tienes?",
+    vocabulary: [
+      { left: "diez", right: "10" }, { left: "quince", right: "15" },
+      { left: "veinte", right: "20" }, { left: "veinticinco", right: "25" },
+      { left: "treinta", right: "30" }, { left: "cuarenta", right: "40" },
+    ],
+    grammar: [
+      { left: "32", right: "treinta y dos" }, { left: "45", right: "cuarenta y cinco" },
+      { left: "58", right: "cincuenta y ocho" }, { left: "71", right: "setenta y uno" },
+      { left: "99", right: "noventa y nueve" },
+    ],
+    blanks: [
+      { prompt: "Tengo ___ años (25)", answer: "veinticinco" }, { prompt: "¿___ años tienes?", answer: "Cuántos" },
+      { prompt: "Maya ___ treinta años", answer: "tiene" }, { prompt: "Nosotros ___ veinte años", answer: "tenemos" },
+      { prompt: "40 = ___", answer: "cuarenta" }, { prompt: "28 = ___", answer: "veintiocho" },
+    ],
+    choices: [
+      { prompt: "איך אומרים אני בן 30?", options: ["Tengo treinta años", "Soy treinta años", "Hay treinta años"], answer: "Tengo treinta años" },
+      { prompt: "איזו שאלה מבקשת גיל?", options: ["¿Cuántos años tienes?", "¿Dónde estás?", "¿Cómo te llamas?"], answer: "¿Cuántos años tienes?" },
+      { prompt: "מהו 21?", options: ["veintiuno", "veinte y uno", "doce"], answer: "veintiuno" },
+      { prompt: "מהו 55?", options: ["cincuenta y cinco", "quince y cinco", "cinco cinco"], answer: "cincuenta y cinco" },
+    ],
+    order: ["¿Cuántos años tienes?", "Tengo treinta años.", "¿Y Maya?", "Maya tiene veinticinco años.", "Somos jóvenes."],
+  },
+  {
+    number: 12,
+    title: "המשפחה שלי",
+    subtitle: "בני משפחה, שייכות ותיאור אנשים.",
+    explanation: "mi, tu ו-su באים לפני שם עצם יחיד; mis, tus ו-sus לפני רבים.",
+    vocabulary: [
+      { left: "madre", right: "אמא" }, { left: "padre", right: "אבא" },
+      { left: "hermano", right: "אח" }, { left: "hermana", right: "אחות" },
+      { left: "padres", right: "הורים" }, { left: "familia", right: "משפחה" },
+    ],
+    grammar: [
+      { left: "שלי, יחיד", right: "mi" }, { left: "שלי, רבים", right: "mis" },
+      { left: "שלך, יחיד", right: "tu" }, { left: "שלך, רבים", right: "tus" },
+      { left: "שלו או שלה", right: "su / sus" },
+    ],
+    blanks: [
+      { prompt: "___ madre es profesora", answer: "Mi" }, { prompt: "___ hermanos son estudiantes", answer: "Mis" },
+      { prompt: "¿Cómo se llama ___ padre?", answer: "tu" }, { prompt: "Maya tiene una familia pequeña. ___ familia vive en México", answer: "Su" },
+      { prompt: "Nosotros tenemos una casa. Es ___ casa", answer: "nuestra" }, { prompt: "Ellos son ___ padres", answer: "sus" },
+    ],
+    choices: [
+      { prompt: "האחים שלי", options: ["mis hermanos", "mi hermanos", "mis hermano"], answer: "mis hermanos" },
+      { prompt: "אמא שלך", options: ["tu madre", "tus madre", "su madres"], answer: "tu madre" },
+      { prompt: "המשפחה שלנו", options: ["nuestra familia", "nuestro familia", "sus familia"], answer: "nuestra familia" },
+      { prompt: "יש לי אחות", options: ["Tengo una hermana", "Soy una hermana", "Hay mi hermana"], answer: "Tengo una hermana" },
+    ],
+    order: ["Esta es mi familia.", "Mi madre se llama Sara.", "Mi padre se llama David.", "Tengo un hermano.", "Somos una familia pequeña."],
+  },
+  {
+    number: 13,
+    title: "הפועל ESTAR",
+    subtitle: "מיקום ומצב זמני.",
+    explanation: "ESTAR משמש למיקום ולמצב זמני: estoy, estás, está, estamos, están.",
+    vocabulary: [
+      { left: "en casa", right: "בבית" }, { left: "en la escuela", right: "בבית הספר" },
+      { left: "cansado", right: "עייף" }, { left: "ocupada", right: "עסוקה" },
+      { left: "feliz", right: "שמח" }, { left: "triste", right: "עצוב" },
+    ],
+    grammar: [
+      { left: "yo", right: "estoy" }, { left: "tú", right: "estás" },
+      { left: "él / ella", right: "está" }, { left: "nosotros", right: "estamos" },
+      { left: "ellos / ustedes", right: "están" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ en casa", answer: "estoy" }, { prompt: "Tú ___ cansado", answer: "estás" },
+      { prompt: "Maya ___ en la escuela", answer: "está" }, { prompt: "Nosotros ___ bien", answer: "estamos" },
+      { prompt: "Ellos ___ ocupados", answer: "están" }, { prompt: "¿Dónde ___ ustedes?", answer: "están" },
+    ],
+    choices: [
+      { prompt: "אני בבית", options: ["Estoy en casa", "Soy en casa", "Tengo en casa"], answer: "Estoy en casa" },
+      { prompt: "אני מישראל", options: ["Soy de Israel", "Estoy de Israel", "Tengo Israel"], answer: "Soy de Israel" },
+      { prompt: "מאיה עייפה", options: ["Maya está cansada", "Maya es cansado", "Maya estoy cansada"], answer: "Maya está cansada" },
+      { prompt: "איפה אתם?", options: ["¿Dónde están?", "¿Cómo son?", "¿Qué tienen?"], answer: "¿Dónde están?" },
+    ],
+    order: ["¿Dónde estás?", "Estoy en casa.", "¿Cómo estás?", "Estoy cansado, pero bien.", "Nos vemos mañana."],
+  },
+  {
+    number: 14,
+    title: "הבית והחדר שלי",
+    subtitle: "חדרים, חפצים, HAY ו-ESTAR.",
+    explanation: "HAY מציג דבר חדש. ESTAR אומר איפה דבר מוכר נמצא.",
+    vocabulary: [
+      { left: "cocina", right: "מטבח" }, { left: "baño", right: "חדר רחצה" },
+      { left: "salón", right: "סלון" }, { left: "habitación", right: "חדר" },
+      { left: "cama", right: "מיטה" }, { left: "mesa", right: "שולחן" },
+    ],
+    grammar: [
+      { left: "יש מיטה", right: "Hay una cama" }, { left: "המיטה בחדר", right: "La cama está en la habitación" },
+      { left: "יש שולחנות", right: "Hay mesas" }, { left: "השולחנות במטבח", right: "Las mesas están en la cocina" },
+    ],
+    blanks: [
+      { prompt: "___ una mesa en la cocina", answer: "Hay" }, { prompt: "La mesa ___ en la cocina", answer: "está" },
+      { prompt: "Mi casa ___ pequeña", answer: "es" }, { prompt: "___ dos habitaciones", answer: "Hay" },
+      { prompt: "Los libros ___ en la mesa", answer: "están" }, { prompt: "La escuela está ___ de mi casa", answer: "cerca" },
+    ],
+    choices: [
+      { prompt: "יש מיטה בחדר", options: ["Hay una cama en la habitación", "La cama hay en la habitación", "Es una cama habitación"], answer: "Hay una cama en la habitación" },
+      { prompt: "הספר נמצא על השולחן", options: ["El libro está en la mesa", "Hay el libro en la mesa", "El libro es en la mesa"], answer: "El libro está en la mesa" },
+      { prompt: "הבית שלי גדול", options: ["Mi casa es grande", "Mi casa está grande", "Hay mi casa grande"], answer: "Mi casa es grande" },
+      { prompt: "יש שני חדרים", options: ["Hay dos habitaciones", "Están dos habitaciones", "Es dos habitaciones"], answer: "Hay dos habitaciones" },
+    ],
+    order: ["Esta es mi casa.", "Hay una cocina y un salón.", "Mi habitación es pequeña.", "Hay una cama y una mesa.", "El libro está en la mesa."],
+  },
+  {
+    number: 15,
+    title: "העיר שלי",
+    subtitle: "מקומות בעיר ושאלות מיקום.",
+    explanation: "שואלים ¿Dónde está...? על מקום מסוים ו-¿Hay...? כדי לבדוק אם מקום קיים.",
+    vocabulary: [
+      { left: "ciudad", right: "עיר" }, { left: "calle", right: "רחוב" },
+      { left: "centro", right: "מרכז" }, { left: "restaurante", right: "מסעדה" },
+      { left: "farmacia", right: "בית מרקחת" }, { left: "estación", right: "תחנה" },
+    ],
+    grammar: [
+      { left: "¿Hay un banco?", right: "האם יש בנק?" }, { left: "¿Dónde está el banco?", right: "איפה הבנק?" },
+      { left: "Está cerca", right: "הוא קרוב" }, { left: "Está lejos", right: "הוא רחוק" },
+    ],
+    blanks: [
+      { prompt: "En mi ciudad ___ un museo", answer: "hay" }, { prompt: "¿Dónde ___ la farmacia?", answer: "está" },
+      { prompt: "El banco ___ cerca", answer: "está" }, { prompt: "La ciudad ___ grande", answer: "es" },
+      { prompt: "Hay ___ restaurante en el centro", answer: "un" }, { prompt: "___ estación está lejos", answer: "La" },
+    ],
+    choices: [
+      { prompt: "יש בנק בעיר", options: ["Hay un banco en la ciudad", "Está un banco en la ciudad", "Es un banco ciudad"], answer: "Hay un banco en la ciudad" },
+      { prompt: "איפה התחנה?", options: ["¿Dónde está la estación?", "¿Hay la estación?", "¿Cómo es estación?"], answer: "¿Dónde está la estación?" },
+      { prompt: "המסעדה קרובה", options: ["El restaurante está cerca", "El restaurante es cerca", "Hay cerca restaurante"], answer: "El restaurante está cerca" },
+      { prompt: "בחרו תווית נכונה", options: ["la farmacia", "el farmacia", "un farmacia"], answer: "la farmacia" },
+    ],
+    order: ["Perdón, ¿hay una farmacia cerca?", "Sí, hay una farmacia.", "¿Dónde está?", "Está en el centro.", "Muchas gracias."],
+  },
+  {
+    number: 16,
+    title: "פעלים רגילים בהווה",
+    subtitle: "פעלים שמסתיימים ב-AR, ER ו-IR.",
+    explanation: "מורידים את הסיומת ומוסיפים סיומת לפי הגוף: hablo, comes, vive ועוד.",
+    vocabulary: [
+      { left: "hablar", right: "לדבר" }, { left: "trabajar", right: "לעבוד" },
+      { left: "comer", right: "לאכול" }, { left: "beber", right: "לשתות" },
+      { left: "vivir", right: "לגור" }, { left: "escribir", right: "לכתוב" },
+    ],
+    grammar: [
+      { left: "yo hablar", right: "hablo" }, { left: "tú comer", right: "comes" },
+      { left: "ella vivir", right: "vive" }, { left: "nosotros trabajar", right: "trabajamos" },
+      { left: "ellos beber", right: "beben" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ español", answer: "hablo" }, { prompt: "Tú ___ en casa", answer: "comes" },
+      { prompt: "Maya ___ en México", answer: "vive" }, { prompt: "Nosotros ___ mucho", answer: "trabajamos" },
+      { prompt: "Ellos ___ café", answer: "beben" }, { prompt: "Ustedes ___ mensajes", answer: "escriben" },
+    ],
+    choices: [
+      { prompt: "אני מדבר ספרדית", options: ["Hablo español", "Habla español", "Hablas español"], answer: "Hablo español" },
+      { prompt: "אנחנו אוכלים בבית", options: ["Comemos en casa", "Comen en casa", "Comemos casa"], answer: "Comemos en casa" },
+      { prompt: "היא גרה בברזיל", options: ["Vive en Brasil", "Vivo en Brasil", "Viven Brasil"], answer: "Vive en Brasil" },
+      { prompt: "הם עובדים הרבה", options: ["Trabajan mucho", "Trabajamos mucho", "Trabaja muchos"], answer: "Trabajan mucho" },
+    ],
+    order: ["¿Dónde vives?", "Vivo en Curitiba.", "¿Dónde trabajas?", "Trabajo en una escuela.", "Hablo español en el trabajo."],
+  },
+  {
+    number: 17,
+    title: "שגרת הבוקר והערב",
+    subtitle: "פעולות יומיומיות ופעלים רפלקסיביים.",
+    explanation: "בפעלים רפלקסיביים מוסיפים me, te, se, nos או se לפני הפועל.",
+    vocabulary: [
+      { left: "levantarse", right: "לקום" }, { left: "ducharse", right: "להתקלח" },
+      { left: "vestirse", right: "להתלבש" }, { left: "desayunar", right: "לאכול ארוחת בוקר" },
+      { left: "acostarse", right: "ללכת לישון" }, { left: "trabajar", right: "לעבוד" },
+    ],
+    grammar: [
+      { left: "yo", right: "me levanto" }, { left: "tú", right: "te levantas" },
+      { left: "él / ella", right: "se levanta" }, { left: "nosotros", right: "nos levantamos" },
+      { left: "ellos", right: "se levantan" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ levanto a las siete", answer: "me" }, { prompt: "Tú te ___ temprano", answer: "duchas" },
+      { prompt: "Maya se ___ a las ocho", answer: "viste" }, { prompt: "Nosotros ___ desayunamos en casa", answer: "nos" },
+      { prompt: "Ellos se ___ tarde", answer: "acuestan" }, { prompt: "Después yo ___ al trabajo", answer: "voy" },
+    ],
+    choices: [
+      { prompt: "אני קם בשבע", options: ["Me levanto a las siete", "Levanto me a las siete", "Se levanto a las siete"], answer: "Me levanto a las siete" },
+      { prompt: "היא מתקלחת בבוקר", options: ["Se ducha por la mañana", "Me ducha por la mañana", "Ducha se mañana"], answer: "Se ducha por la mañana" },
+      { prompt: "אנחנו מתלבשים", options: ["Nos vestimos", "Se vestimos", "Te vestimos"], answer: "Nos vestimos" },
+      { prompt: "הם הולכים לישון מאוחר", options: ["Se acuestan tarde", "Nos acostamos tarde", "Se acuesta tarde"], answer: "Se acuestan tarde" },
+    ],
+    order: ["Me levanto a las siete.", "Me ducho.", "Me visto.", "Desayuno en casa.", "Voy al trabajo."],
+  },
+  {
+    number: 18,
+    title: "מילות תדירות",
+    subtitle: "תמיד, בדרך כלל, לפעמים ואף פעם.",
+    explanation: "מילות תדירות מופיעות בדרך כלל לפני הפועל או בתחילת המשפט.",
+    vocabulary: [
+      { left: "siempre", right: "תמיד" }, { left: "normalmente", right: "בדרך כלל" },
+      { left: "a menudo", right: "לעיתים קרובות" }, { left: "a veces", right: "לפעמים" },
+      { left: "casi nunca", right: "כמעט אף פעם" }, { left: "nunca", right: "אף פעם" },
+    ],
+    grammar: [
+      { left: "100%", right: "siempre" }, { left: "80%", right: "normalmente" },
+      { left: "50%", right: "a veces" }, { left: "10%", right: "casi nunca" },
+      { left: "0%", right: "nunca" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ desayuno en casa (100%)", answer: "siempre" }, { prompt: "___ trabajo por la mañana (80%)", answer: "Normalmente" },
+      { prompt: "Maya ___ bebe café (50%)", answer: "a veces" }, { prompt: "Nosotros ___ comemos fuera (10%)", answer: "casi nunca" },
+      { prompt: "Ellos ___ trabajan los domingos (0%)", answer: "nunca" }, { prompt: "¿Con qué ___ estudias español?", answer: "frecuencia" },
+    ],
+    choices: [
+      { prompt: "אני תמיד שותה מים", options: ["Siempre bebo agua", "Nunca bebo agua", "Bebo siempre nunca"], answer: "Siempre bebo agua" },
+      { prompt: "היא לפעמים עובדת בבית", options: ["A veces trabaja en casa", "Siempre trabaja nunca", "Trabaja casa a"], answer: "A veces trabaja en casa" },
+      { prompt: "0%", options: ["nunca", "siempre", "normalmente"], answer: "nunca" },
+      { prompt: "100%", options: ["siempre", "a veces", "casi nunca"], answer: "siempre" },
+    ],
+    order: ["Siempre me levanto temprano.", "Normalmente desayuno en casa.", "A veces bebo café.", "Casi nunca como fuera.", "Nunca trabajo el domingo."],
+  },
+  {
+    number: 19,
+    title: "Me gusta / Me gustan",
+    subtitle: "איך מדברים על דברים שאוהבים.",
+    explanation: "משתמשים ב-me gusta לפני דבר יחיד או פועל, וב-me gustan לפני דבר ברבים.",
+    vocabulary: [
+      { left: "Me gusta el café", right: "אני אוהב קפה" }, { left: "Me gustan los libros", right: "אני אוהב ספרים" },
+      { left: "No me gusta", right: "אני לא אוהב" }, { left: "¿Te gusta?", right: "אתה אוהב?" },
+      { left: "Me encanta", right: "אני ממש אוהב" }, { left: "A mí también", right: "גם אני" },
+    ],
+    grammar: [
+      { left: "שם עצם יחיד", right: "me gusta" }, { left: "פועל", right: "me gusta" },
+      { left: "שם עצם רבים", right: "me gustan" }, { left: "שלילה", right: "no me gusta / gustan" },
+    ],
+    blanks: [
+      { prompt: "Me ___ el café", answer: "gusta" }, { prompt: "Me ___ los libros", answer: "gustan" },
+      { prompt: "No me ___ trabajar tarde", answer: "gusta" }, { prompt: "¿Te ___ las ciudades grandes?", answer: "gustan" },
+      { prompt: "A Maya le ___ la música", answer: "gusta" }, { prompt: "Nos ___ viajar", answer: "gusta" },
+    ],
+    choices: [
+      { prompt: "אני אוהב ספרדית", options: ["Me gusta el español", "Me gustan el español", "Yo gusto español"], answer: "Me gusta el español" },
+      { prompt: "אני אוהב מסעדות", options: ["Me gustan los restaurantes", "Me gusta los restaurantes", "Me gusto restaurantes"], answer: "Me gustan los restaurantes" },
+      { prompt: "את אוהבת לטייל?", options: ["¿Te gusta viajar?", "¿Te gustan viajar?", "¿Tú gusta viajar?"], answer: "¿Te gusta viajar?" },
+      { prompt: "גם אני", options: ["A mí también", "A mí tampoco", "No me gusta"], answer: "A mí también" },
+    ],
+    order: ["¿Te gusta el café?", "Sí, me gusta mucho.", "¿Y los restaurantes?", "También me gustan.", "A mí también."],
+  },
+  {
+    number: 20,
+    title: "Quiero, Necesito, Puedo",
+    subtitle: "רצון, צורך ויכולת.",
+    explanation: "אחרי quiero, necesito ו-puedo בא פועל בצורת המקור.",
+    vocabulary: [
+      { left: "quiero", right: "אני רוצה" }, { left: "necesito", right: "אני צריך" },
+      { left: "puedo", right: "אני יכול" }, { left: "no puedo", right: "אני לא יכול" },
+      { left: "quiero comer", right: "אני רוצה לאכול" }, { left: "necesito ayuda", right: "אני צריך עזרה" },
+    ],
+    grammar: [
+      { left: "רצון", right: "quiero" }, { left: "צורך", right: "necesito" },
+      { left: "יכולת", right: "puedo" }, { left: "חוסר יכולת", right: "no puedo" },
+    ],
+    blanks: [
+      { prompt: "___ comer", answer: "Quiero" }, { prompt: "___ ayuda", answer: "Necesito" },
+      { prompt: "¿___ entrar?", answer: "Puedo" }, { prompt: "No ___ hablar ahora", answer: "puedo" },
+      { prompt: "Maya ___ viajar", answer: "quiere" }, { prompt: "Nosotros ___ estudiar", answer: "necesitamos" },
+    ],
+    choices: [
+      { prompt: "אני רוצה קפה", options: ["Quiero café", "Puedo café", "Soy café"], answer: "Quiero café" },
+      { prompt: "אני צריך עזרה", options: ["Necesito ayuda", "Quiero ayudar", "Puedo ayuda"], answer: "Necesito ayuda" },
+      { prompt: "אפשר להיכנס?", options: ["¿Puedo entrar?", "¿Quiero entrar?", "¿Soy entrar?"], answer: "¿Puedo entrar?" },
+      { prompt: "אני לא יכול היום", options: ["No puedo hoy", "No quiero puedo", "Soy no hoy"], answer: "No puedo hoy" },
+    ],
+    order: ["Hola, necesito ayuda.", "Claro, ¿qué necesitas?", "Quiero comprar un billete.", "Sí, puedo ayudarte.", "Muchas gracias."],
+  },
+  {
+    number: 21,
+    title: "הפועל IR",
+    subtitle: "איך אומרים לאן הולכים או נוסעים.",
+    explanation: "IR הוא פועל לא רגיל: voy, vas, va, vamos, van. לפני יעד משתמשים בדרך כלל ב-a.",
+    vocabulary: [
+      { left: "ir", right: "ללכת או לנסוע" }, { left: "al trabajo", right: "לעבודה" },
+      { left: "a casa", right: "הביתה" }, { left: "a la escuela", right: "לבית הספר" },
+      { left: "al centro", right: "למרכז" }, { left: "en autobús", right: "באוטובוס" },
+    ],
+    grammar: [
+      { left: "yo", right: "voy" }, { left: "tú", right: "vas" },
+      { left: "él / ella", right: "va" }, { left: "nosotros", right: "vamos" },
+      { left: "ellos / ustedes", right: "van" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ al trabajo", answer: "voy" }, { prompt: "Tú ___ a casa", answer: "vas" },
+      { prompt: "Maya ___ a la escuela", answer: "va" }, { prompt: "Nosotros ___ al centro", answer: "vamos" },
+      { prompt: "Ellos ___ en autobús", answer: "van" }, { prompt: "¿Adónde ___ ustedes?", answer: "van" },
+    ],
+    choices: [
+      { prompt: "אני הולך לעבודה", options: ["Voy al trabajo", "Va al trabajo", "Soy al trabajo"], answer: "Voy al trabajo" },
+      { prompt: "אנחנו נוסעים למרכז", options: ["Vamos al centro", "Van al centro", "Vemos al centro"], answer: "Vamos al centro" },
+      { prompt: "היא הולכת הביתה", options: ["Va a casa", "Voy a casa", "Está a casa"], answer: "Va a casa" },
+      { prompt: "לאן אתה הולך?", options: ["¿Adónde vas?", "¿Dónde eres?", "¿Cómo va tú?"], answer: "¿Adónde vas?" },
+    ],
+    order: ["¿Adónde vas?", "Voy al centro.", "¿Cómo vas?", "Voy en autobús.", "Nos vemos allí."],
+  },
+  {
+    number: 22,
+    title: "ir a + פועל",
+    subtitle: "תוכניות לעתיד הקרוב.",
+    explanation: "כדי לדבר על תוכנית קרובה משתמשים ב-IR + a + פועל בצורת המקור.",
+    vocabulary: [
+      { left: "voy a estudiar", right: "אני עומד ללמוד" }, { left: "vas a trabajar", right: "אתה עומד לעבוד" },
+      { left: "va a viajar", right: "היא עומדת לטייל" }, { left: "vamos a comer", right: "אנחנו עומדים לאכול" },
+      { left: "van a salir", right: "הם עומדים לצאת" }, { left: "mañana", right: "מחר" },
+    ],
+    grammar: [
+      { left: "yo", right: "voy a" }, { left: "tú", right: "vas a" },
+      { left: "él / ella", right: "va a" }, { left: "nosotros", right: "vamos a" },
+      { left: "ellos", right: "van a" },
+    ],
+    blanks: [
+      { prompt: "Yo voy a ___ español", answer: "estudiar" }, { prompt: "Tú ___ a trabajar mañana", answer: "vas" },
+      { prompt: "Maya va a ___ a México", answer: "viajar" }, { prompt: "Nosotros vamos ___ comer", answer: "a" },
+      { prompt: "Ellos ___ a salir", answer: "van" }, { prompt: "¿Qué vas a ___?", answer: "hacer" },
+    ],
+    choices: [
+      { prompt: "אני עומד ללמוד", options: ["Voy a estudiar", "Voy estudiar", "Estoy a estudiar"], answer: "Voy a estudiar" },
+      { prompt: "מה את עומדת לעשות?", options: ["¿Qué vas a hacer?", "¿Qué eres hacer?", "¿Dónde vas hacer?"], answer: "¿Qué vas a hacer?" },
+      { prompt: "אנחנו עומדים לאכול", options: ["Vamos a comer", "Van a comer", "Vamos comer a"], answer: "Vamos a comer" },
+      { prompt: "הם עומדים לנסוע", options: ["Van a viajar", "Vamos a viajar", "Son a viajar"], answer: "Van a viajar" },
+    ],
+    order: ["¿Qué vas a hacer mañana?", "Voy a trabajar.", "Después voy a estudiar español.", "Por la noche voy a descansar.", "¿Y tú?"],
+  },
+  {
+    number: 23,
+    title: "ימים, שעה ותאריך",
+    subtitle: "לוח השבוע, שעות ותאריכים בסיסיים.",
+    explanation: "לשעה אומרים es la una או son las dos. ליום משתמשים ב-el ולתאריך ב-hoy es.",
+    vocabulary: [
+      { left: "lunes", right: "יום שני" }, { left: "martes", right: "יום שלישי" },
+      { left: "miércoles", right: "יום רביעי" }, { left: "jueves", right: "יום חמישי" },
+      { left: "viernes", right: "יום שישי" }, { left: "fin de semana", right: "סוף שבוע" },
+    ],
+    grammar: [
+      { left: "1:00", right: "Es la una" }, { left: "2:00", right: "Son las dos" },
+      { left: "2:30", right: "Son las dos y media" }, { left: "3:15", right: "Son las tres y cuarto" },
+      { left: "4:45", right: "Son las cinco menos cuarto" },
+    ],
+    blanks: [
+      { prompt: "Hoy es ___", answer: "lunes" }, { prompt: "Son ___ dos", answer: "las" },
+      { prompt: "Es ___ una", answer: "la" }, { prompt: "Son las tres y ___", answer: "media" },
+      { prompt: "Mi clase es ___ martes", answer: "el" }, { prompt: "Hoy es 20 ___ julio", answer: "de" },
+    ],
+    choices: [
+      { prompt: "2:00", options: ["Son las dos", "Es la dos", "Hay dos"], answer: "Son las dos" },
+      { prompt: "1:00", options: ["Es la una", "Son la una", "Es las uno"], answer: "Es la una" },
+      { prompt: "מחר יום שישי", options: ["Mañana es viernes", "Ayer es viernes", "Viernes mañana son"], answer: "Mañana es viernes" },
+      { prompt: "מתי השיעור?", options: ["¿Cuándo es la clase?", "¿Dónde hora?", "¿Qué clase son?"], answer: "¿Cuándo es la clase?" },
+    ],
+    order: ["¿Qué día es hoy?", "Hoy es lunes.", "¿A qué hora es la clase?", "Es a las diez.", "Nos vemos en la clase."],
+  },
+  {
+    number: 24,
+    title: "בבית קפה ובמסעדה",
+    subtitle: "הזמנה, בקשות ותשלום.",
+    explanation: "להזמנה טבעית אפשר לומר Quiero..., Para mí... או ¿Me pone...?, ולסיום La cuenta, por favor.",
+    vocabulary: [
+      { left: "la carta", right: "התפריט" }, { left: "una mesa", right: "שולחן" },
+      { left: "agua", right: "מים" }, { left: "café con leche", right: "קפה עם חלב" },
+      { left: "la cuenta", right: "החשבון" }, { left: "camarero", right: "מלצר" },
+    ],
+    grammar: [
+      { left: "הזמנה", right: "Quiero..." }, { left: "בחירה אישית", right: "Para mí..." },
+      { left: "בקשה מנומסת", right: "¿Me pone...?" }, { left: "חשבון", right: "La cuenta, por favor" },
+    ],
+    blanks: [
+      { prompt: "Quiero un café ___ leche", answer: "con" }, { prompt: "Para ___, una ensalada", answer: "mí" },
+      { prompt: "¿Me ___ un agua?", answer: "pone" }, { prompt: "La ___, por favor", answer: "cuenta" },
+      { prompt: "Una mesa para ___", answer: "dos" }, { prompt: "¿Qué va a ___?", answer: "tomar" },
+    ],
+    choices: [
+      { prompt: "רוצים את החשבון", options: ["La cuenta, por favor", "La carta, por favor", "Una mesa, por favor"], answer: "La cuenta, por favor" },
+      { prompt: "מזמינים קפה", options: ["Quiero un café", "Soy un café", "Hay un café yo"], answer: "Quiero un café" },
+      { prompt: "שולחן לשניים", options: ["Una mesa para dos", "Dos para mesa", "Una cuenta dos"], answer: "Una mesa para dos" },
+      { prompt: "המלצר שואל מה תרצו לשתות", options: ["¿Qué va a tomar?", "¿Dónde está?", "¿Cuántos años tiene?"], answer: "¿Qué va a tomar?" },
+    ],
+    order: ["Buenas tardes, una mesa para dos.", "Claro, aquí tienen la carta.", "Para mí, un café con leche.", "¿Algo más?", "La cuenta, por favor."],
+  },
+  {
+    number: 25,
+    title: "קניות ומחירים",
+    subtitle: "מחיר, כמות ותשלום בחנות.",
+    explanation: "שואלים ¿Cuánto cuesta? על פריט יחיד ו-¿Cuánto cuestan? על כמה פריטים.",
+    vocabulary: [
+      { left: "precio", right: "מחיר" }, { left: "barato", right: "זול" },
+      { left: "caro", right: "יקר" }, { left: "efectivo", right: "מזומן" },
+      { left: "tarjeta", right: "כרטיס" }, { left: "tienda", right: "חנות" },
+    ],
+    grammar: [
+      { left: "פריט יחיד", right: "¿Cuánto cuesta?" }, { left: "כמה פריטים", right: "¿Cuánto cuestan?" },
+      { left: "זה עולה", right: "Cuesta" }, { left: "הם עולים", right: "Cuestan" },
+    ],
+    blanks: [
+      { prompt: "¿Cuánto ___ esta camisa?", answer: "cuesta" }, { prompt: "¿Cuánto ___ estos zapatos?", answer: "cuestan" },
+      { prompt: "La camisa ___ veinte euros", answer: "cuesta" }, { prompt: "Los libros ___ treinta pesos", answer: "cuestan" },
+      { prompt: "Pago con ___", answer: "tarjeta" }, { prompt: "Es muy ___, no lo compro", answer: "caro" },
+    ],
+    choices: [
+      { prompt: "כמה זה עולה?", options: ["¿Cuánto cuesta?", "¿Dónde cuesta?", "¿Qué precio es tú?"], answer: "¿Cuánto cuesta?" },
+      { prompt: "אפשר לשלם בכרטיס?", options: ["¿Puedo pagar con tarjeta?", "¿Soy tarjeta?", "¿Hay pagar tarjeta?"], answer: "¿Puedo pagar con tarjeta?" },
+      { prompt: "הנעליים יקרות", options: ["Los zapatos son caros", "Los zapatos es caro", "La zapatos son cara"], answer: "Los zapatos son caros" },
+      { prompt: "אני לוקח את זה", options: ["Me lo llevo", "Me cuesta", "Yo tienda"], answer: "Me lo llevo" },
+    ],
+    order: ["Perdón, ¿cuánto cuesta?", "Cuesta veinte euros.", "¿Puedo pagar con tarjeta?", "Sí, claro.", "Perfecto, me lo llevo."],
+  },
+  {
+    number: 26,
+    title: "בגדים וצבעים",
+    subtitle: "פריטי לבוש, צבע והתאמה.",
+    explanation: "הצבע מתאים לשם העצם במין ובמספר: camisa blanca, zapatos negros.",
+    vocabulary: [
+      { left: "camisa", right: "חולצה" }, { left: "pantalones", right: "מכנסיים" },
+      { left: "zapatos", right: "נעליים" }, { left: "vestido", right: "שמלה" },
+      { left: "chaqueta", right: "ז'קט" }, { left: "talla", right: "מידה" },
+    ],
+    grammar: [
+      { left: "camisa", right: "blanca" }, { left: "vestido", right: "rojo" },
+      { left: "zapatos", right: "negros" }, { left: "chaquetas", right: "azules" },
+      { left: "pantalones", right: "verdes" },
+    ],
+    blanks: [
+      { prompt: "Una camisa ___", answer: "blanca" }, { prompt: "Un vestido ___", answer: "rojo" },
+      { prompt: "Unos zapatos ___", answer: "negros" }, { prompt: "Dos chaquetas ___", answer: "azules" },
+      { prompt: "¿Qué ___ necesitas?", answer: "talla" }, { prompt: "Quiero ___ estos pantalones", answer: "probarme" },
+    ],
+    choices: [
+      { prompt: "חולצה לבנה", options: ["una camisa blanca", "un camisa blanco", "una camisa blanco"], answer: "una camisa blanca" },
+      { prompt: "נעליים שחורות", options: ["zapatos negros", "zapatos negro", "zapatas negras"], answer: "zapatos negros" },
+      { prompt: "אפשר למדוד את זה?", options: ["¿Puedo probármelo?", "¿Cuánto color?", "¿Soy una talla?"], answer: "¿Puedo probármelo?" },
+      { prompt: "איזו מידה אתה צריך?", options: ["¿Qué talla necesitas?", "¿Qué color cuesta?", "¿Dónde camisa?"], answer: "¿Qué talla necesitas?" },
+    ],
+    order: ["Busco una camisa.", "¿De qué color?", "Una camisa blanca.", "¿Qué talla necesita?", "La talla mediana, por favor."],
+  },
+  {
+    number: 27,
+    title: "תחבורה וכיוונים",
+    subtitle: "איך מגיעים, פונים ונוסעים.",
+    explanation: "לכיוון משתמשים ב-sigue recto, gira ו-está a la derecha או a la izquierda.",
+    vocabulary: [
+      { left: "autobús", right: "אוטובוס" }, { left: "tren", right: "רכבת" },
+      { left: "metro", right: "מטרו" }, { left: "parada", right: "תחנה" },
+      { left: "derecha", right: "ימין" }, { left: "izquierda", right: "שמאל" },
+    ],
+    grammar: [
+      { left: "ישר", right: "todo recto" }, { left: "פנה ימינה", right: "gira a la derecha" },
+      { left: "פנה שמאלה", right: "gira a la izquierda" }, { left: "ליד", right: "al lado de" },
+      { left: "מול", right: "enfrente de" },
+    ],
+    blanks: [
+      { prompt: "Sigue todo ___", answer: "recto" }, { prompt: "Gira a la ___", answer: "derecha" },
+      { prompt: "La estación está al ___ del banco", answer: "lado" }, { prompt: "Voy ___ autobús", answer: "en" },
+      { prompt: "¿Cómo ___ a la estación?", answer: "llego" }, { prompt: "La parada está ___", answer: "cerca" },
+    ],
+    choices: [
+      { prompt: "איך מגיעים לתחנה?", options: ["¿Cómo llego a la estación?", "¿Cuánto es la estación?", "¿Qué estación soy?"], answer: "¿Cómo llego a la estación?" },
+      { prompt: "פנה שמאלה", options: ["Gira a la izquierda", "Sigue a la izquierda", "Va izquierdo"], answer: "Gira a la izquierda" },
+      { prompt: "אני נוסע ברכבת", options: ["Voy en tren", "Voy a tren", "Soy en tren"], answer: "Voy en tren" },
+      { prompt: "התחנה מול הבנק", options: ["La estación está enfrente del banco", "La estación hay banco", "El banco es estación"], answer: "La estación está enfrente del banco" },
+    ],
+    order: ["Perdón, ¿cómo llego a la estación?", "Sigue todo recto.", "Gira a la derecha.", "La estación está al lado del banco.", "Muchas gracias."],
+  },
+  {
+    number: 28,
+    title: "מזג אוויר ועונות",
+    subtitle: "חום, קור, גשם ועונות השנה.",
+    explanation: "למזג אוויר משתמשים ב-hace, hay או está: hace calor, hay viento, está nublado.",
+    vocabulary: [
+      { left: "primavera", right: "אביב" }, { left: "verano", right: "קיץ" },
+      { left: "otoño", right: "סתיו" }, { left: "invierno", right: "חורף" },
+      { left: "lluvia", right: "גשם" }, { left: "viento", right: "רוח" },
+    ],
+    grammar: [
+      { left: "חם", right: "Hace calor" }, { left: "קר", right: "Hace frío" },
+      { left: "יורד גשם", right: "Llueve" }, { left: "מעונן", right: "Está nublado" },
+      { left: "יש רוח", right: "Hay viento" },
+    ],
+    blanks: [
+      { prompt: "Hoy ___ calor", answer: "hace" }, { prompt: "En invierno hace ___", answer: "frío" },
+      { prompt: "Está ___", answer: "nublado" }, { prompt: "Hay mucho ___", answer: "viento" },
+      { prompt: "En primavera ___", answer: "llueve" }, { prompt: "¿Qué tiempo ___?", answer: "hace" },
+    ],
+    choices: [
+      { prompt: "חם היום", options: ["Hoy hace calor", "Hoy es calor", "Hoy está calor"], answer: "Hoy hace calor" },
+      { prompt: "מעונן", options: ["Está nublado", "Hace nublado", "Hay nublado"], answer: "Está nublado" },
+      { prompt: "יש רוח", options: ["Hay viento", "Hace viento es", "Está viento"], answer: "Hay viento" },
+      { prompt: "מה מזג האוויר?", options: ["¿Qué tiempo hace?", "¿Cuánto tiempo tiene?", "¿Dónde clima?"], answer: "¿Qué tiempo hace?" },
+    ],
+    order: ["¿Qué tiempo hace hoy?", "Hace frío y está nublado.", "¿Llueve?", "Sí, llueve un poco.", "Necesito una chaqueta."],
+  },
+  {
+    number: 29,
+    title: "גוף ובריאות בסיסית",
+    subtitle: "חלקי גוף, כאב והרגשה.",
+    explanation: "כדי לומר שכואב משתמשים ב-me duele ביחיד וב-me duelen ברבים.",
+    vocabulary: [
+      { left: "cabeza", right: "ראש" }, { left: "estómago", right: "בטן" },
+      { left: "garganta", right: "גרון" }, { left: "espalda", right: "גב" },
+      { left: "mano", right: "יד" }, { left: "piernas", right: "רגליים" },
+    ],
+    grammar: [
+      { left: "איבר יחיד", right: "me duele" }, { left: "איברים ברבים", right: "me duelen" },
+      { left: "אני מרגיש טוב", right: "me siento bien" }, { left: "אני מרגיש רע", right: "me siento mal" },
+      { left: "יש לי חום", right: "tengo fiebre" },
+    ],
+    blanks: [
+      { prompt: "Me ___ la cabeza", answer: "duele" }, { prompt: "Me ___ las piernas", answer: "duelen" },
+      { prompt: "Tengo ___", answer: "fiebre" }, { prompt: "Me siento ___", answer: "mal" },
+      { prompt: "Necesito un ___", answer: "médico" }, { prompt: "¿Qué te ___?", answer: "pasa" },
+    ],
+    choices: [
+      { prompt: "כואב לי הראש", options: ["Me duele la cabeza", "Me duelen la cabeza", "Tengo cabeza"], answer: "Me duele la cabeza" },
+      { prompt: "כואבות לי הרגליים", options: ["Me duelen las piernas", "Me duele las piernas", "Soy piernas"], answer: "Me duelen las piernas" },
+      { prompt: "אני מרגיש רע", options: ["Me siento mal", "Soy mal", "Tengo sentir mal"], answer: "Me siento mal" },
+      { prompt: "אני צריך רופא", options: ["Necesito un médico", "Quiero una cabeza", "Puedo fiebre"], answer: "Necesito un médico" },
+    ],
+    order: ["Hola, ¿qué te pasa?", "Me siento mal.", "Me duele la cabeza.", "¿Tienes fiebre?", "Sí, necesito un médico."],
+  },
+  {
+    number: 30,
+    title: "חזרה גדולה וסיכום A1",
+    subtitle: "מבחן מסכם, תקשורת יומיומית ובדיקת שליטה.",
+    explanation: "בפרק המסכם משלבים את אוצר המילים והמבנים מכל הקורס. קראו את ההקשר לפני שבוחרים תשובה.",
+    vocabulary: [
+      { left: "cocina", right: "מטבח" }, { left: "trabajo", right: "עבודה" },
+      { left: "camisa", right: "חולצה" }, { left: "leche", right: "חלב" },
+      { left: "hermano", right: "אח" }, { left: "calle", right: "רחוב" },
+    ],
+    grammar: [
+      { left: "זהות ומוצא", right: "ser" }, { left: "מיקום ומצב", right: "estar" },
+      { left: "יש", right: "hay" }, { left: "שייכות וגיל", right: "tener" },
+      { left: "תוכנית קרובה", right: "ir a + infinitivo" },
+    ],
+    blanks: [
+      { prompt: "Yo ___ de Israel", answer: "soy" }, { prompt: "El supermercado ___ cerca", answer: "está" },
+      { prompt: "En mi habitación ___ una cama", answer: "hay" }, { prompt: "Yo ___ dos hermanos", answer: "tengo" },
+      { prompt: "Nosotros ___ al parque", answer: "vamos" }, { prompt: "Mañana voy a ___ español", answer: "estudiar" },
+    ],
+    choices: [
+      { prompt: "מישהו שואל ¿Cómo estás?", options: ["Muy bien, gracias", "Hasta luego", "La cuenta"], answer: "Muy bien, gracias" },
+      { prompt: "לא הבנתם", options: ["No entiendo. ¿Puedes repetir?", "Soy de Israel", "Quiero agua"], answer: "No entiendo. ¿Puedes repetir?" },
+      { prompt: "סיימתם לאכול ורוצים לשלם", options: ["La cuenta, por favor", "El menú, por favor", "Tengo hambre"], answer: "La cuenta, por favor" },
+      { prompt: "מחר אני הולך ללמוד", options: ["Mañana voy a estudiar", "Mañana soy estudiar", "Mañana tengo estudiar"], answer: "Mañana voy a estudiar" },
+    ],
+    order: ["Hola, soy Maya.", "Vivo en Madrid.", "Soy profesora.", "Me gusta el café.", "Mañana voy a estudiar español."],
+  },
+];

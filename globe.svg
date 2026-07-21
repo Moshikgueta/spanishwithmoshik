@@ -1,0 +1,11 @@
+import SiteHeader from "../components/SiteHeader";
+import BookReader from "./BookReader";
+
+export default function BookPage() {
+  return (
+    <main className="app-page reader-page">
+      <SiteHeader />
+      <BookReader />
+    </main>
+  );
+}

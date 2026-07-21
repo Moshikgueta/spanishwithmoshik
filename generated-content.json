@@ -1,0 +1,56 @@
+import raw from "./generated-content.json";
+
+export type ContentBlock =
+  | { type: "paragraph"; text: string; level: number }
+  | { type: "table"; rows: string[][] };
+
+export type SourceExercise = {
+  id: string;
+  number: number;
+  title: string;
+  prompt: string;
+  kind: "speaking" | "matching" | "sorting" | "ordering" | "truefalse" | "correction" | "choice" | "blanks" | "writing" | "reading" | "checklist" | "challenge" | "practice";
+  answer: string;
+};
+
+export type CourseSection = {
+  id: string;
+  title: string;
+  kind: "unit" | "chapter" | "mini" | "story" | "appendix" | "review" | "intro";
+  number: number | null;
+  blocks: ContentBlock[];
+  exercises?: SourceExercise[];
+};
+
+export const content = raw as {
+  meta: {
+    bookSourcePages: number;
+    workbookSourcePages: number;
+    bookSectionCount: number;
+    workbookSectionCount: number;
+    exerciseCount: number;
+  };
+  bookSections: CourseSection[];
+  workbookSections: CourseSection[];
+};
+
+export const unitVisuals = [
+  { number: 1, title: "כניסה לספרדית", spanish: "Primeras palabras", description: "צלילים, קצב ומשפטי הישרדות", image: "/images/units/unit-01.jpg" },
+  { number: 2, title: "מי אני", spanish: "Mucho gusto", description: "היכרות, שם, מקום ומקצוע", image: "/images/units/unit-02.jpg" },
+  { number: 3, title: "הדברים סביבי", spanish: "Mi mundo", description: "חפצים, צבעים ותיאורים", image: "/images/units/unit-03.jpg" },
+  { number: 4, title: "משפחה ואנשים", spanish: "Mi gente", description: "משפחה, קשרים ואופי", image: "/images/units/unit-04.jpg" },
+  { number: 5, title: "בית ועיר", spanish: "Casa y ciudad", description: "מקומות, כיוונים והמרחב שלי", image: "/images/units/unit-05.jpg" },
+  { number: 6, title: "היום שלי", spanish: "Mi día", description: "שעות, שגרה ופעולות יומיומיות", image: "/images/units/unit-06.jpg" },
+  { number: 7, title: "רצונות ויכולות", spanish: "Quiero y puedo", description: "תוכניות, העדפות ובקשות", image: "/images/units/unit-07.jpg" },
+  { number: 8, title: "השבוע שלי", spanish: "Esta semana", description: "זמן, מזג אוויר ומפגשים", image: "/images/units/unit-08.jpg" },
+  { number: 9, title: "חיים אמיתיים", spanish: "En la vida real", description: "אוכל, קניות, בריאות ונסיעות", image: "/images/units/unit-09.jpg" },
+  { number: 10, title: "סיכום A1", spanish: "Ya hablo", description: "חזרה, ביטחון ומשימות מסכמות", image: "/images/units/unit-10.jpg" },
+] as const;
+
+export function unitForChapter(chapter: number) {
+  return unitVisuals[Math.min(unitVisuals.length - 1, Math.max(0, Math.ceil(chapter / 3) - 1))];
+}
+
+export const chapterImages: Record<number, string> = Object.fromEntries(
+  Array.from({ length: 30 }, (_, index) => [index + 1, unitForChapter(index + 1).image]),
+);

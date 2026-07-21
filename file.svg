@@ -1,0 +1,170 @@
+"use client";
+
+import { useEffect, useMemo, useState } from "react";
+import { chapterImages, content, unitForChapter, type ContentBlock, type CourseSection } from "../content";
+import { ChapterVisual, ReadingLab } from "./BookVisuals";
+import { chapterVisuals, readingQuizzes } from "./visual-data";
+
+function buildScreens(blocks: ContentBlock[]) {
+  const screens: ContentBlock[][] = [];
+  let current: ContentBlock[] = [];
+  blocks.forEach((block) => {
+    const heading = block.type === "paragraph" && block.level === 3;
+    if (heading && current.length >= 5) {
+      screens.push(current);
+      current = [];
+    }
+    current.push(block);
+    if (current.length >= 10) {
+      screens.push(current);
+      current = [];
+    }
+  });
+  if (current.length) screens.push(current);
+  return screens.length ? screens : [[]];
+}
+
+function screenTitle(blocks: ContentBlock[], index: number) {
+  const heading = blocks.find((block) => block.type === "paragraph" && block.level > 0);
+  return heading?.type === "paragraph" ? heading.text : `מסך ${index + 1}`;
+}
+
+function paragraphStyle(text: string) {
+  if (/^(טיפ|שימו לב|זכרו|חשוב)/.test(text)) return "reader-callout reader-tip";
+  if (/^(דוגמה|Ejemplo|Por ejemplo)/i.test(text)) return "reader-callout reader-example";
+  if ((text.match(/[A-Za-zÁ-ÿ¿¡]/g) || []).length > text.length * 0.55) return "reader-spanish-line";
+  return "";
+}
+
+function Block({ block }: { block: ContentBlock }) {
+  if (block.type === "table") {
+    return (
+      <div className="reader-table-wrap">
+        <table className="reader-table">
+          <tbody>
+            {block.rows.map((row, rowIndex) => (
+              <tr key={rowIndex}>{row.map((cell, cellIndex) => cellIndex === 0 ? <th key={cellIndex}>{cell}</th> : <td key={cellIndex}>{cell}</td>)}</tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    );
+  }
+  if (block.level === 1) return <h1>{block.text}</h1>;
+  if (block.level === 2) return <h2>{block.text}</h2>;
+  if (block.level === 3) return <h3>{block.text}</h3>;
+  return <p className={paragraphStyle(block.text)} dir="auto">{block.text}</p>;
+}
+
+function sectionLabel(section: CourseSection) {
+  if (section.kind === "unit") return "פתיחת יחידה";
+  if (section.kind === "mini") return "מיני־יחידה";
+  if (section.kind === "story") return "קריאה";
+  if (section.kind === "appendix") return "נספח";
+  if (section.kind === "review") return "חזרה ולמידה עצמית";
+  return section.number ? `פרק ${section.number}` : "הספר המלא";
+}
+
+export default function BookReader() {
+  const sections = content.bookSections;
+  const [index, setIndex] = useState(0);
+  const [screenIndex, setScreenIndex] = useState(0);
+  const [query, setQuery] = useState("");
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  useEffect(() => {
+    const restore = window.requestAnimationFrame(() => {
+      const saved = localStorage.getItem("moshik-book-last-id");
+      const savedIndex = sections.findIndex((section) => section.id === saved);
+      if (savedIndex >= 0) setIndex(savedIndex);
+    });
+    return () => window.cancelAnimationFrame(restore);
+  }, [sections]);
+
+  const filtered = useMemo(() => sections.map((section, position) => ({ section, position })).filter(({ section }) => section.title.includes(query)), [query, sections]);
+  const current = sections[index];
+  const screens = useMemo(() => buildScreens(current.blocks.slice(1)), [current]);
+  const nearbyNumber = current.number
+    ?? sections.slice(index).find((section) => section.number)?.number
+    ?? [...sections.slice(0, index)].reverse().find((section) => section.number)?.number
+    ?? 1;
+  const unit = unitForChapter(nearbyNumber);
+  const image = chapterImages[nearbyNumber];
+  const visual = current.number ? chapterVisuals[current.number] : undefined;
+  const hasVisualScreen = Boolean(visual && (current.kind === "chapter" || current.kind === "mini"));
+  const totalScreens = screens.length + (hasVisualScreen ? 1 : 0);
+  const contentScreenIndex = Math.max(0, screenIndex - (hasVisualScreen ? 1 : 0));
+  const currentScreen = screens[Math.min(contentScreenIndex, screens.length - 1)];
+  const readingQuiz = readingQuizzes[current.id];
+
+  function open(position: number) {
+    setIndex(position);
+    setScreenIndex(0);
+    setMenuOpen(false);
+    localStorage.setItem("moshik-book-last-id", sections[position].id);
+    localStorage.setItem("moshik-book-last-title", sections[position].title);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function openScreen(position: number) {
+    if (position < 0 || position >= totalScreens) return;
+    setScreenIndex(position);
+    window.requestAnimationFrame(() => document.querySelector(".reader-screen-bar")?.scrollIntoView({ behavior: "smooth", block: "start" }));
+  }
+
+  return (
+    <div className="reader-shell">
+      <button className="reader-menu-button" onClick={() => setMenuOpen(true)}>תוכן הספר</button>
+      <aside className={`reader-sidebar ${menuOpen ? "open" : ""}`}>
+        <button className="reader-close" onClick={() => setMenuOpen(false)} aria-label="סגירת תוכן הספר">×</button>
+        <div className="reader-sidebar-heading"><span>A1</span><div><b>הספר המלא</b><small>{sections.length} חלקים</small></div></div>
+        <label className="reader-search"><span>⌕</span><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="חיפוש בתוכן" /></label>
+        <nav aria-label="תוכן הספר">
+          {filtered.map(({ section, position }) => (
+            <button className={position === index ? "active" : ""} onClick={() => open(position)} key={section.id}>
+              {section.number ? <img src={chapterImages[section.number]} alt="" /> : <span>{section.kind === "unit" ? "U" : "•"}</span>}
+              <b>{section.title}</b>
+            </button>
+          ))}
+        </nav>
+      </aside>
+
+      <article className="reader-content">
+        <header className={`reader-cover ${image ? "has-photo" : ""}`}>
+          {image && <img src={image} alt="" />}
+          <span className="reader-cover-number">{String(unit.number).padStart(2, "0")}</span>
+          <div>
+            <div className="reader-cover-meta"><span>{sectionLabel(current)}</span><small>{unit.spanish}</small></div>
+            <h1>{current.title}</h1>
+            <p>{unit.description}. הסבר מלא, דוגמאות ותרגול קצר מתוך הספר המקורי.</p>
+            <div className="reader-cover-progress"><i style={{ width: `${Math.round((index + 1) / sections.length * 100)}%` }} /><small>{index + 1} / {sections.length}</small></div>
+          </div>
+        </header>
+        <div className="reader-screen-bar">
+          <div><span>מסכי הפרק</span><b>{screenIndex + 1} מתוך {totalScreens}</b></div>
+          <div className="reader-screen-track"><i style={{ width: `${(screenIndex + 1) / totalScreens * 100}%` }} /></div>
+          <nav aria-label="ניווט בתוך הפרק">{Array.from({ length: totalScreens }, (_, position) => {
+            const visualScreen = hasVisualScreen && position === 0;
+            const sourceScreen = screens[position - (hasVisualScreen ? 1 : 0)];
+            return <button className={screenIndex === position ? "active" : ""} onClick={() => openScreen(position)} title={visualScreen ? "המחשה אינטראקטיבית" : screenTitle(sourceScreen, position)} key={position}>{position + 1}</button>;
+          })}</nav>
+        </div>
+        {hasVisualScreen && screenIndex === 0 && visual ? <ChapterVisual spec={visual} key={`${current.id}-visual`} /> : <div className="reader-article reader-page-card">
+          <span className="reader-page-label">{screenTitle(currentScreen, contentScreenIndex)}</span>
+          {currentScreen.map((block, blockIndex) => <Block block={block} key={`${screenIndex}-${blockIndex}`} />)}
+        </div>}
+        {screenIndex === totalScreens - 1 && readingQuiz && <ReadingLab quiz={readingQuiz} key={`${current.id}-reading`} />}
+        <div className="reader-screen-navigation">
+          <button disabled={screenIndex === 0} onClick={() => openScreen(screenIndex - 1)}>המסך הקודם</button>
+          <div><span>{screenIndex + 1}/{totalScreens}</span><small>{screenIndex === totalScreens - 1 ? "סיימתם את כל מסכי הפרק" : "ממשיכים בלי גלילה ארוכה"}</small></div>
+          <button disabled={screenIndex === totalScreens - 1} onClick={() => openScreen(screenIndex + 1)}>המסך הבא</button>
+        </div>
+        <footer className="reader-pagination">
+          <button disabled={index === 0} onClick={() => open(index - 1)}>החלק הקודם</button>
+          <span>{index + 1} מתוך {sections.length}</span>
+          <button disabled={index === sections.length - 1} onClick={() => open(index + 1)}>החלק הבא</button>
+        </footer>
+      </article>
+    </div>
+  );
+}
